@@ -866,8 +866,8 @@
   battleName: Meltryllis
   name: Meltryllis
 - baseSvtId: 1000300
-  battleName: 瞑生院祈荒
-  name: 瞑生院祈荒
+  battleName: 杀生院祈荒
+  name: 杀生院祈荒
 - baseSvtId: 1000400
   battleName: 机械伊丽亲
   name: 机械伊丽亲
@@ -929,8 +929,8 @@
   battleName: 伽内什
   name: 吉娜可·加里吉利
 - baseSvtId: 2300400
-  battleName: 瞑生院祈荒
-  name: 瞑生院祈荒
+  battleName: 杀生院祈荒
+  name: 杀生院祈荒
 - baseSvtId: 2500100
   battleName: 阿比盖尔
   name: 阿比盖尔·威廉姆斯
@@ -2547,7 +2547,7 @@
   name: 英灵祭装：葛饰北斋
 - baseSvtId: 9304050
   battleName: '-'
-  name: 英灵祭装：瞑生院祈荒
+  name: 英灵祭装：杀生院祈荒
 - baseSvtId: 9304060
   battleName: '-'
   name: 英灵祭装：虞美人
@@ -5538,7 +5538,7 @@
   name: 融化之心
 - baseSvtId: 9806310
   battleName: '-'
-  name: 瞑生院极品萩饼
+  name: 杀生院极品萩饼
 - baseSvtId: 9806320
   battleName: '-'
   name: P布丁水果拼盘
@@ -6593,8 +6593,8 @@
   battleName: BB／GO
   name: BB／GO
 - baseSvtId: 9939150
-  battleName: 瞑生院祈荒
-  name: 瞑生院祈荒
+  battleName: 杀生院祈荒
+  name: 杀生院祈荒
 - baseSvtId: 9939160
   battleName: Passionlip
   name: Passionlip
