@@ -533,8 +533,8 @@
   battleName: 库·丘林
   name: 库·丘林
 - baseSvtId: 502200
-  battleName: 西行者
-  name: 西行者
+  battleName: 玄奘三藏
+  name: 玄奘三藏
 - baseSvtId: 502300
   battleName: 布拉瓦茨基
   name: 海伦娜·布拉瓦茨基
@@ -866,8 +866,8 @@
   battleName: Meltryllis
   name: Meltryllis
 - baseSvtId: 1000300
-  battleName: 瞑生院祈荒
-  name: 瞑生院祈荒
+  battleName: 杀生院祈荒
+  name: 杀生院祈荒
 - baseSvtId: 1000400
   battleName: 机械伊丽亲
   name: 机械伊丽亲
@@ -929,8 +929,8 @@
   battleName: 伽内什
   name: 吉娜可·加里吉利
 - baseSvtId: 2300400
-  battleName: 瞑生院祈荒
-  name: 瞑生院祈荒
+  battleName: 杀生院祈荒
+  name: 杀生院祈荒
 - baseSvtId: 2500100
   battleName: 阿比盖尔
   name: 阿比盖尔·威廉姆斯
@@ -2265,7 +2265,7 @@
   name: 英灵旅装：清姬
 - baseSvtId: 9303100
   battleName: '-'
-  name: 英灵旅装：西行者
+  name: 英灵旅装：玄奘三藏
 - baseSvtId: 9303110
   battleName: '-'
   name: 英灵旅装：佐佐木小次郎
@@ -2547,7 +2547,7 @@
   name: 英灵祭装：葛饰北斋
 - baseSvtId: 9304050
   battleName: '-'
-  name: 英灵祭装：瞑生院祈荒
+  name: 英灵祭装：杀生院祈荒
 - baseSvtId: 9304060
   battleName: '-'
   name: 英灵祭装：虞美人
@@ -2814,7 +2814,7 @@
   name: 英灵纪行：乔尔乔斯
 - baseSvtId: 9304950
   battleName: '-'
-  name: 英灵纪行：西行者
+  name: 英灵纪行：玄奘三藏
 - baseSvtId: 9304960
   battleName: '-'
   name: 英灵纪行：佐佐木小次郎
@@ -3060,7 +3060,7 @@
   name: 英灵巡游：加雷斯
 - baseSvtId: 9305890
   battleName: '-'
-  name: 英灵巡游：西行者
+  name: 英灵巡游：玄奘三藏
 - baseSvtId: 9305900
   battleName: '-'
   name: 英灵巡游：梵高
@@ -3741,7 +3741,7 @@
   name: 圣夜晚餐
 - baseSvtId: 9402100
   battleName: '-'
-  name: 天堂之孔
+  name: 魔性菩萨
 - baseSvtId: 9402110
   battleName: '-'
   name: 私室警备员
@@ -5538,7 +5538,7 @@
   name: 融化之心
 - baseSvtId: 9806310
   battleName: '-'
-  name: 瞑生院极品萩饼
+  name: 杀生院极品萩饼
 - baseSvtId: 9806320
   battleName: '-'
   name: P布丁水果拼盘
@@ -6593,8 +6593,8 @@
   battleName: BB／GO
   name: BB／GO
 - baseSvtId: 9939150
-  battleName: 瞑生院祈荒
-  name: 瞑生院祈荒
+  battleName: 杀生院祈荒
+  name: 杀生院祈荒
 - baseSvtId: 9939160
   battleName: Passionlip
   name: Passionlip
