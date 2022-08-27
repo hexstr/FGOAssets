@@ -1989,7 +1989,7 @@
   name: 英灵正装：阿马德乌斯
 - baseSvtId: 9302180
   battleName: '-'
-  name: 英灵正装：周照
+  name: 英灵正装：武则天
 - baseSvtId: 9302190
   battleName: '-'
   name: 英灵正装：咒腕哈桑
@@ -2364,7 +2364,7 @@
   name: 阿房宫模型
 - baseSvtId: 9303430
   battleName: '-'
-  name: 重瞳设计图
+  name: 项羽设计图
 - baseSvtId: 9303440
   battleName: '-'
   name: 吾之毒杯，吾之假面
@@ -3111,7 +3111,7 @@
   name: 英灵巡游：詹姆斯·莫里亚蒂
 - baseSvtId: 9306060
   battleName: '-'
-  name: 英灵巡游：琰女
+  name: 英灵巡游：杨贵妃
 - baseSvtId: 9306070
   battleName: '-'
   name: 英灵巡游：渡边纲
@@ -5763,7 +5763,7 @@
   name: 护法少女巧克力
 - baseSvtId: 9807060
   battleName: '-'
-  name: 重瞳之剑
+  name: 项羽之剑
 - baseSvtId: 9807070
   battleName: '-'
   name: 隐藏美貌的面具
@@ -7145,8 +7145,8 @@
   battleName: 鬼王朱裸
   name: 鬼王朱裸
 - baseSvtId: 9941540
-  battleName: 祖政
-  name: 祖政
+  battleName: 始皇帝
+  name: 始皇帝
 - baseSvtId: 9941550
   battleName: 近卫兵
   name: 近卫兵
@@ -7253,8 +7253,8 @@
   battleName: 庄严的石像
   name: 庄严的石像
 - baseSvtId: 9941900
-  battleName: 莲偶
-  name: 莲偶
+  battleName: 哪吒
+  name: 哪吒
 - baseSvtId: 9941910
   battleName: 空想树旋涡
   name: 空想树旋涡
@@ -7289,8 +7289,8 @@
   battleName: 莎士比亚
   name: 威廉·莎士比亚
 - baseSvtId: 9942020
-  battleName: 莱妮丝
-  name: 莱妮丝
+  battleName: 司马懿〔莱妮丝〕
+  name: 司马懿〔莱妮丝〕
 - baseSvtId: 9942030
   battleName: 弁庆
   name: 武藏坊弁庆
