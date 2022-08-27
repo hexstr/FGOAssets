@@ -100,6 +100,9 @@
 - baseSvtId: 104200
   battleName: 狄俄斯库里
   name: 狄俄斯库里
+- baseSvtId: 104300
+  battleName: 罗兰
+  name: 罗兰
 - baseSvtId: 104400
   battleName: 斋藤一
   name: 斋藤一
@@ -121,6 +124,18 @@
 - baseSvtId: 105000
   battleName: 巴格斯特
   name: 巴格斯特
+- baseSvtId: 105100
+  battleName: 魔Saber
+  name: 冲田总司〔Alter〕
+- baseSvtId: 105200
+  battleName: 查理曼
+  name: 查理曼
+- baseSvtId: 105300
+  battleName: 征氏姐妹
+  name: 征氏姐妹
+- baseSvtId: 105400
+  battleName: 加雷斯
+  name: 加雷斯
 - baseSvtId: 200100
   battleName: 卫宫
   name: 卫宫
@@ -238,6 +253,15 @@
 - baseSvtId: 204300
   battleName: 芭万·希
   name: 芭万·希
+- baseSvtId: 204400
+  battleName: 阿纳斯塔西娅＆维
+  name: 阿纳斯塔西娅＆维
+- baseSvtId: 204500
+  battleName: 芝诺比阿
+  name: 芝诺比阿
+- baseSvtId: 204600
+  battleName: 源为朝
+  name: 源为朝
 - baseSvtId: 300100
   battleName: 库·丘林
   name: 库·丘林
@@ -361,6 +385,15 @@
 - baseSvtId: 304800
   battleName: 梅柳齐娜
   name: 梅柳齐娜
+- baseSvtId: 304900
+  battleName: 玛丽·安宁
+  name: 玛丽·安宁
+- baseSvtId: 305000
+  battleName: 坂本龙马
+  name: 坂本龙马
+- baseSvtId: 305100
+  battleName: 堂吉诃德
+  name: 堂吉诃德
 - baseSvtId: 400100
   battleName: 美杜莎
   name: 美杜莎
@@ -466,9 +499,24 @@
 - baseSvtId: 404200
   battleName: 哈贝特洛特
   name: 哈贝特洛特
+- baseSvtId: 404300
+  battleName: 太公望
+  name: 太公望
+- baseSvtId: 404400
+  battleName: 尼基季奇
+  name: 多布雷尼娅·尼基季奇
+- baseSvtId: 404500
+  battleName: 凯妮斯
+  name: 凯妮斯
 - baseSvtId: 404600
-  battleName: エリザベート
-  name: エリザベート・バートリー〔シンデレラ〕
+  battleName: 伊丽莎白
+  name: 伊丽莎白·巴托里〔灰姑娘〕
+- baseSvtId: 404700
+  battleName: 君士坦丁十一世
+  name: 君士坦丁十一世
+- baseSvtId: 404800
+  battleName: 曲亭马琴
+  name: 曲亭马琴
 - baseSvtId: 500100
   battleName: 美狄亚
   name: 美狄亚
@@ -598,9 +646,24 @@
 - baseSvtId: 504600
   battleName: 克莱恩小姐
   name: 克莱恩小姐
+- baseSvtId: 504700
+  battleName: 大黑天
+  name: 大黑天
+- baseSvtId: 504800
+  battleName: 夏洛特·科黛
+  name: 夏洛特·科黛
+- baseSvtId: 504900
+  battleName: 出云阿国
+  name: 出云阿国
 - baseSvtId: 505000
-  battleName: マルタ・サンタ
-  name: マルタ〔サンタ〕
+  battleName: 玛尔达·圣诞
+  name: 玛尔达〔圣诞〕
+- baseSvtId: 505100
+  battleName: 张角
+  name: 张角
+- baseSvtId: 505200
+  battleName: 武则天
+  name: 武则天
 - baseSvtId: 600100
   battleName: 小次郎
   name: 佐佐木小次郎
@@ -715,6 +778,15 @@
 - baseSvtId: 604200
   battleName: 光之高扬斯卡娅
   name: 光之高扬斯卡娅
+- baseSvtId: 604300
+  battleName: 奥特琳德
+  name: 奥特琳德
+- baseSvtId: 604400
+  battleName: 希露德
+  name: 希露德
+- baseSvtId: 604500
+  battleName: 斯露德
+  name: 斯露德
 - baseSvtId: 700100
   battleName: 赫拉克勒斯
   name: 赫拉克勒斯
@@ -820,6 +892,15 @@
 - baseSvtId: 704000
   battleName: 摩根
   name: 摩根
+- baseSvtId: 704100
+  battleName: 清少纳言
+  name: 清少纳言
+- baseSvtId: 704200
+  battleName: 克琳希德
+  name: 克琳希德
+- baseSvtId: 704300
+  battleName: 伊吹童子
+  name: 伊吹童子
 - baseSvtId: 800100
   battleName: 玛修
   name: 玛修·基列莱特
@@ -859,6 +940,15 @@
 - baseSvtId: 901100
   battleName: 阿摩耳
   name: 阿摩耳〔卡莲〕
+- baseSvtId: 901200
+  battleName: 达·芬奇
+  name: 莱昂纳多·达·芬奇
+- baseSvtId: 901300
+  battleName: 莫里亚蒂
+  name: 詹姆斯·莫里亚蒂
+- baseSvtId: 901400
+  battleName: 斯卡哈·斯卡蒂
+  name: 斯卡哈·斯卡蒂
 - baseSvtId: 1000100
   battleName: Passionlip
   name: Passionlip
@@ -886,6 +976,18 @@
 - baseSvtId: 1001000
   battleName: 芦屋道满
   name: 芦屋道满
+- baseSvtId: 1001100
+  battleName: 巴泽特
+  name: 马纳南·麦克·利尔〔巴泽特〕
+- baseSvtId: 1001200
+  battleName: 太岁星君
+  name: 太岁星君
+- baseSvtId: 1001300
+  battleName: 超级班扬
+  name: 超级班扬
+- baseSvtId: 1001400
+  battleName: 徐福
+  name: 徐福
 - baseSvtId: 1100100
   battleName: 安哥拉曼纽
   name: 安哥拉曼纽
@@ -913,9 +1015,15 @@
 - baseSvtId: 1101000
   battleName: 平景清
   name: 平景清
+- baseSvtId: 1101100
+  battleName: 迦摩
+  name: 迦摩
 - baseSvtId: 1101200
-  battleName: 蘭丸X
-  name: 謎の蘭丸X
+  battleName: 兰丸X
+  name: 谜之兰丸X
+- baseSvtId: 1101400
+  battleName: 宇津见绘里濑
+  name: 宇津见绘里濑
 - baseSvtId: 1700100
   battleName: 所罗门王
   name: 所罗门
@@ -931,6 +1039,9 @@
 - baseSvtId: 2300400
   battleName: 杀生院祈荒
   name: 杀生院祈荒
+- baseSvtId: 2300500
+  battleName: Archetype：Earth
+  name: Archetype：Earth
 - baseSvtId: 2500100
   battleName: 阿比盖尔
   name: 阿比盖尔·威廉姆斯
@@ -955,9 +1066,21 @@
 - baseSvtId: 2500800
   battleName: 偶像X·Alter
   name: 迷之偶像X〔Alter〕
+- baseSvtId: 2500900
+  battleName: 暗之高扬斯卡娅
+  name: 暗之高扬斯卡娅
+- baseSvtId: 2501000
+  battleName: 雅克·德·莫莱
+  name: 雅克·德·莫莱
 - baseSvtId: 2800100
   battleName: 奥伯龙
   name: 奥伯龙
+- baseSvtId: 2800200
+  battleName: 赫费斯提翁
+  name: 赫费斯提翁
+- baseSvtId: 2800300
+  battleName: 阿瓦隆女士
+  name: 阿瓦隆女士
 - baseSvtId: 9000001
   battleName: 玛修
   name: 玛修·基列莱特
