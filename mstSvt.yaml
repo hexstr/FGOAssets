@@ -8402,8 +8402,8 @@
   battleName: 阿尔托莉雅
   name: 阿尔托莉雅·卡斯特
 - baseSvtId: 9943100
-  battleName: ロストベルト：ビーストⅣ
-  name: ロストベルト：ビーストⅣ
+  battleName: Lostbelt：BeastⅣ
+  name: Lostbelt：BeastⅣ
 - baseSvtId: 9943110
   battleName: LWB-M8
   name: LWB-M8
@@ -8411,11 +8411,11 @@
   battleName: HWB-M8
   name: HWB-M8
 - baseSvtId: 9943130
-  battleName: コロンブスの卵
-  name: コロンブスの卵
+  battleName: 哥伦布之卵
+  name: 哥伦布之卵
 - baseSvtId: 9943140
-  battleName: シャークパイレーツ
-  name: シャークパイレーツ
+  battleName: 鲨鱼海盗
+  name: 鲨鱼海盗
 - baseSvtId: 9943150
   battleName: 迦摩
   name: 迦摩
@@ -8441,8 +8441,8 @@
   battleName: 珀西瓦尔
   name: 珀西瓦尔
 - baseSvtId: 9943230
-  battleName: ガラスハンド
-  name: ガラスハンド
+  battleName: 玻璃之手
+  name: 玻璃之手
 - baseSvtId: 9943240
   battleName: 玛修
   name: 玛修·基列莱特
@@ -8459,11 +8459,11 @@
   battleName: 珀西瓦尔
   name: 珀西瓦尔
 - baseSvtId: 9943290
-  battleName: 暗黒の仔山羊
-  name: 暗黒の仔山羊
+  battleName: 黑山羊幼仔
+  name: 黑山羊幼仔
 - baseSvtId: 9943300
-  battleName: グリーンマン
-  name: グリーンマン
+  battleName: GreenMan
+  name: GreenMan
 - baseSvtId: 9943310
   battleName: 加雷斯
   name: 加雷斯
@@ -8474,17 +8474,17 @@
   battleName: 梅柳齐娜
   name: 梅柳齐娜
 - baseSvtId: 9943340
-  battleName: アラハバキ
-  name: アラハバキ
+  battleName: 荒吐神
+  name: 荒吐神
 - baseSvtId: 9943350
-  battleName: 田中新兵衛
-  name: 田中新兵衛
+  battleName: 田中新兵卫
+  name: 田中新兵卫
 - baseSvtId: 9943360
-  battleName: 奇兵隊
-  name: 奇兵隊
+  battleName: 奇兵队
+  name: 奇兵队
 - baseSvtId: 9943370
-  battleName: キンノブ
-  name: キンノブ
+  battleName: 王信
+  name: 王信
 - baseSvtId: 9943380
   battleName: 清少纳言
   name: 清少纳言
@@ -8501,23 +8501,152 @@
   battleName: 迦摩
   name: 迦摩
 - baseSvtId: 9943430
-  battleName: 魔神柱型巨大ケーキ
-  name: 魔神柱型巨大ケーキ
+  battleName: 魔神柱型巨大蛋糕
+  name: 魔神柱型巨大蛋糕
 - baseSvtId: 9943440
-  battleName: アラハバキ・弐号機
-  name: アラハバキ・弐号機
+  battleName: 荒吐神·弐号机
+  name: 荒吐神·弐号机
 - baseSvtId: 9943450
-  battleName: 戦国維新ロボ・ナガオカゲトラ
-  name: 戦国維新ロボ・ナガオカゲトラ
+  battleName: 战国维新机甲·长尾景虎
+  name: 战国维新机甲·长尾景虎
 - baseSvtId: 9943460
-  battleName: 田中新兵衛
-  name: 田中新兵衛
+  battleName: 田中新兵卫
+  name: 田中新兵卫
+- baseSvtId: 9943480
+  battleName: 咒毒虫
+  name: 咒毒虫
+- baseSvtId: 9943490
+  battleName: 半鱼人
+  name: 半鱼人
+- baseSvtId: 9943500
+  battleName: 伟大鱼人
+  name: 伟大鱼人
+- baseSvtId: 9943510
+  battleName: 达贡
+  name: 达贡
 - baseSvtId: 9943520
-  battleName: 坂本龍馬
-  name: 坂本龍馬
+  battleName: 坂本龙马
+  name: 坂本龙马
+- baseSvtId: 9943530
+  battleName: 职阶·Saber
+  name: 职阶·Saber
+- baseSvtId: 9943540
+  battleName: 职阶·Archer
+  name: 职阶·Archer
+- baseSvtId: 9943550
+  battleName: 职阶·Lancer
+  name: 职阶·Lancer
+- baseSvtId: 9943560
+  battleName: 职阶·Rider
+  name: 职阶·Rider
+- baseSvtId: 9943570
+  battleName: 职阶·Caster
+  name: 职阶·Caster
+- baseSvtId: 9943580
+  battleName: 职阶·Assassin
+  name: 职阶·Assassin
+- baseSvtId: 9943590
+  battleName: 职阶·Berserker
+  name: 职阶·Berserker
 - baseSvtId: 9943600
   battleName: 鬼一法眼
   name: 鬼一法眼
+- baseSvtId: 9943610
+  battleName: BeastⅣ
+  name: BeastⅣ
+- baseSvtId: 9943620
+  battleName: 凯尔派
+  name: 凯尔派
+- baseSvtId: 9943630
+  battleName: 吉蛇颈龙君Ω
+  name: 吉蛇颈龙君Ω
+- baseSvtId: 9943640
+  battleName: 帝王蛇颈龙君
+  name: 帝王蛇颈龙君
+- baseSvtId: 9943650
+  battleName: 蛇颈龙君
+  name: 蛇颈龙君
+- baseSvtId: 9943660
+  battleName: 噬魂者
+  name: 噬魂者
+- baseSvtId: 9943670
+  battleName: 大百足
+  name: 大百足
+- baseSvtId: 9943680
+  battleName: 大百足
+  name: 大百足
+- baseSvtId: 9943690
+  battleName: 化猫
+  name: 化猫
+- baseSvtId: 9943700
+  battleName: 化猫
+  name: 化猫
+- baseSvtId: 9943710
+  battleName: 伊吹童子
+  name: 伊吹童子
+- baseSvtId: 9943720
+  battleName: 酷吏僵尸
+  name: 酷吏僵尸
+- baseSvtId: 9943730
+  battleName: 冰鱼
+  name: 冰鱼
+- baseSvtId: 9943740
+  battleName: 临死的鱼
+  name: 临死的鱼
+- baseSvtId: 9943750
+  battleName: 职阶·Saber
+  name: 职阶·Saber
+- baseSvtId: 9943760
+  battleName: 职阶·Archer
+  name: 职阶·Archer
+- baseSvtId: 9943770
+  battleName: 职阶·Lancer
+  name: 职阶·Lancer
+- baseSvtId: 9943780
+  battleName: 职阶·Rider
+  name: 职阶·Rider
+- baseSvtId: 9943790
+  battleName: 职阶·Caster
+  name: 职阶·Caster
+- baseSvtId: 9943800
+  battleName: 职阶·Assassin
+  name: 职阶·Assassin
+- baseSvtId: 9943810
+  battleName: 职阶·Berserker
+  name: 职阶·Berserker
+- baseSvtId: 9943840
+  battleName: 查理曼
+  name: 查理曼
+- baseSvtId: 9943850
+  battleName: 堂吉诃德
+  name: 堂吉诃德
+- baseSvtId: 9943860
+  battleName: 张角
+  name: 张角
+- baseSvtId: 9943870
+  battleName: 克琳希德
+  name: 克琳希德
+- baseSvtId: 9943880
+  battleName: 莫里亚蒂
+  name: 詹姆斯·莫里亚蒂
+- baseSvtId: 9943890
+  battleName: 莫里亚蒂
+  name: 詹姆斯·莫里亚蒂
+- baseSvtId: 9943920
+  battleName: 源為朝
+  name: 源為朝
+- baseSvtId: 9943940
+  battleName: 北极大咒黑卵
+  name: 北极大咒黑卵
+- baseSvtId: 9943960
+  battleName: 伊露斯
+  name: 伊露斯
+- baseSvtId: 9943970
+  battleName: 艾露
+  name: 艾露
+- baseSvtId: 9943980
+  battleName: 琳德
+  name: 琳德
 - baseSvtId: 90086001
   battleName: '-'
   name: 简中版6周年纪念
