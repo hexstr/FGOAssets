@@ -100,6 +100,9 @@
 - baseSvtId: 104200
   battleName: 狄俄斯库里
   name: 狄俄斯库里
+- baseSvtId: 104300
+  battleName: 罗兰
+  name: 罗兰
 - baseSvtId: 104400
   battleName: 斋藤一
   name: 斋藤一
@@ -121,6 +124,18 @@
 - baseSvtId: 105000
   battleName: 巴格斯特
   name: 巴格斯特
+- baseSvtId: 105100
+  battleName: 魔Saber
+  name: 冲田总司〔Alter〕
+- baseSvtId: 105200
+  battleName: 查理曼
+  name: 查理曼
+- baseSvtId: 105300
+  battleName: 征氏姐妹
+  name: 征氏姐妹
+- baseSvtId: 105400
+  battleName: 加雷斯
+  name: 加雷斯
 - baseSvtId: 200100
   battleName: 卫宫
   name: 卫宫
@@ -238,6 +253,15 @@
 - baseSvtId: 204300
   battleName: 芭万·希
   name: 芭万·希
+- baseSvtId: 204400
+  battleName: 阿纳斯塔西娅＆维
+  name: 阿纳斯塔西娅＆维
+- baseSvtId: 204500
+  battleName: 芝诺比阿
+  name: 芝诺比阿
+- baseSvtId: 204600
+  battleName: 源为朝
+  name: 源为朝
 - baseSvtId: 300100
   battleName: 库·丘林
   name: 库·丘林
@@ -361,6 +385,15 @@
 - baseSvtId: 304800
   battleName: 梅柳齐娜
   name: 梅柳齐娜
+- baseSvtId: 304900
+  battleName: 玛丽·安宁
+  name: 玛丽·安宁
+- baseSvtId: 305000
+  battleName: 坂本龙马
+  name: 坂本龙马
+- baseSvtId: 305100
+  battleName: 堂吉诃德
+  name: 堂吉诃德
 - baseSvtId: 400100
   battleName: 美杜莎
   name: 美杜莎
@@ -466,9 +499,24 @@
 - baseSvtId: 404200
   battleName: 哈贝特洛特
   name: 哈贝特洛特
+- baseSvtId: 404300
+  battleName: 太公望
+  name: 太公望
+- baseSvtId: 404400
+  battleName: 尼基季奇
+  name: 多布雷尼娅·尼基季奇
+- baseSvtId: 404500
+  battleName: 凯妮斯
+  name: 凯妮斯
 - baseSvtId: 404600
-  battleName: エリザベート
-  name: エリザベート・バートリー〔シンデレラ〕
+  battleName: 伊丽莎白
+  name: 伊丽莎白·巴托里〔灰姑娘〕
+- baseSvtId: 404700
+  battleName: 君士坦丁十一世
+  name: 君士坦丁十一世
+- baseSvtId: 404800
+  battleName: 曲亭马琴
+  name: 曲亭马琴
 - baseSvtId: 500100
   battleName: 美狄亚
   name: 美狄亚
@@ -598,9 +646,24 @@
 - baseSvtId: 504600
   battleName: 克莱恩小姐
   name: 克莱恩小姐
+- baseSvtId: 504700
+  battleName: 大黑天
+  name: 大黑天
+- baseSvtId: 504800
+  battleName: 夏洛特·科黛
+  name: 夏洛特·科黛
+- baseSvtId: 504900
+  battleName: 出云阿国
+  name: 出云阿国
 - baseSvtId: 505000
-  battleName: マルタ・サンタ
-  name: マルタ〔サンタ〕
+  battleName: 玛尔达·圣诞
+  name: 玛尔达〔圣诞〕
+- baseSvtId: 505100
+  battleName: 张角
+  name: 张角
+- baseSvtId: 505200
+  battleName: 武则天
+  name: 武则天
 - baseSvtId: 600100
   battleName: 小次郎
   name: 佐佐木小次郎
@@ -715,6 +778,15 @@
 - baseSvtId: 604200
   battleName: 光之高扬斯卡娅
   name: 光之高扬斯卡娅
+- baseSvtId: 604300
+  battleName: 奥特琳德
+  name: 奥特琳德
+- baseSvtId: 604400
+  battleName: 希露德
+  name: 希露德
+- baseSvtId: 604500
+  battleName: 斯露德
+  name: 斯露德
 - baseSvtId: 700100
   battleName: 赫拉克勒斯
   name: 赫拉克勒斯
@@ -820,6 +892,15 @@
 - baseSvtId: 704000
   battleName: 摩根
   name: 摩根
+- baseSvtId: 704100
+  battleName: 清少纳言
+  name: 清少纳言
+- baseSvtId: 704200
+  battleName: 克琳希德
+  name: 克琳希德
+- baseSvtId: 704300
+  battleName: 伊吹童子
+  name: 伊吹童子
 - baseSvtId: 800100
   battleName: 玛修
   name: 玛修·基列莱特
@@ -859,6 +940,15 @@
 - baseSvtId: 901100
   battleName: 阿摩耳
   name: 阿摩耳〔卡莲〕
+- baseSvtId: 901200
+  battleName: 达·芬奇
+  name: 莱昂纳多·达·芬奇
+- baseSvtId: 901300
+  battleName: 莫里亚蒂
+  name: 詹姆斯·莫里亚蒂
+- baseSvtId: 901400
+  battleName: 斯卡哈·斯卡蒂
+  name: 斯卡哈·斯卡蒂
 - baseSvtId: 1000100
   battleName: Passionlip
   name: Passionlip
@@ -886,6 +976,18 @@
 - baseSvtId: 1001000
   battleName: 芦屋道满
   name: 芦屋道满
+- baseSvtId: 1001100
+  battleName: 巴泽特
+  name: 马纳南·麦克·利尔〔巴泽特〕
+- baseSvtId: 1001200
+  battleName: 太岁星君
+  name: 太岁星君
+- baseSvtId: 1001300
+  battleName: 超级班扬
+  name: 超级班扬
+- baseSvtId: 1001400
+  battleName: 徐福
+  name: 徐福
 - baseSvtId: 1100100
   battleName: 安哥拉曼纽
   name: 安哥拉曼纽
@@ -913,9 +1015,15 @@
 - baseSvtId: 1101000
   battleName: 平景清
   name: 平景清
+- baseSvtId: 1101100
+  battleName: 迦摩
+  name: 迦摩
 - baseSvtId: 1101200
-  battleName: 蘭丸X
-  name: 謎の蘭丸X
+  battleName: 兰丸X
+  name: 谜之兰丸X
+- baseSvtId: 1101400
+  battleName: 宇津见绘里濑
+  name: 宇津见绘里濑
 - baseSvtId: 1700100
   battleName: 所罗门王
   name: 所罗门
@@ -931,6 +1039,9 @@
 - baseSvtId: 2300400
   battleName: 杀生院祈荒
   name: 杀生院祈荒
+- baseSvtId: 2300500
+  battleName: Archetype：Earth
+  name: Archetype：Earth
 - baseSvtId: 2500100
   battleName: 阿比盖尔
   name: 阿比盖尔·威廉姆斯
@@ -955,9 +1066,21 @@
 - baseSvtId: 2500800
   battleName: 偶像X·Alter
   name: 迷之偶像X〔Alter〕
+- baseSvtId: 2500900
+  battleName: 暗之高扬斯卡娅
+  name: 暗之高扬斯卡娅
+- baseSvtId: 2501000
+  battleName: 雅克·德·莫莱
+  name: 雅克·德·莫莱
 - baseSvtId: 2800100
   battleName: 奥伯龙
   name: 奥伯龙
+- baseSvtId: 2800200
+  battleName: 赫费斯提翁
+  name: 赫费斯提翁
+- baseSvtId: 2800300
+  battleName: 阿瓦隆女士
+  name: 阿瓦隆女士
 - baseSvtId: 9000001
   battleName: 玛修
   name: 玛修·基列莱特
@@ -2974,6 +3097,18 @@
 - baseSvtId: 9305490
   battleName: '-'
   name: 塞浦路斯的记忆
+- baseSvtId: 9305500
+  battleName: '-'
+  name: 手牵手
+- baseSvtId: 9305510
+  battleName: '-'
+  name: 举杯祝酒
+- baseSvtId: 9305520
+  battleName: '-'
+  name: 庆祝花束
+- baseSvtId: 9305530
+  battleName: '-'
+  name: 感激之情
 - baseSvtId: 9305540
   battleName: '-'
   name: 愿希望伴你
@@ -3004,6 +3139,27 @@
 - baseSvtId: 9305630
   battleName: '-'
   name: 终局特异点 冠位时间神殿所罗门
+- baseSvtId: 9305640
+  battleName: '-'
+  name: 在无穹之空的一角
+- baseSvtId: 9305650
+  battleName: '-'
+  name: 夏天与冰淇淋与维	
+- baseSvtId: 9305660
+  battleName: '-'
+  name: 大海蛇
+- baseSvtId: 9305670
+  battleName: '-'
+  name: 献给你的幻术
+- baseSvtId: 9305680
+  battleName: '-'
+  name: 高雅的东西2022
+- baseSvtId: 9305690
+  battleName: '-'
+  name: 夏日堕落套餐
+- baseSvtId: 9305700
+  battleName: '-'
+  name: 夏日冒险回忆
 - baseSvtId: 9305710
   battleName: '-'
   name: 高扬斯卡娅的野心～东海岸版～
@@ -3115,9 +3271,258 @@
 - baseSvtId: 9306070
   battleName: '-'
   name: 英灵巡游：渡边纲
+- baseSvtId: 9306080
+  battleName: '-'
+  name: Fate/Grand Carnival 2nd Season
+- baseSvtId: 9306090
+  battleName: '-'
+  name: 灯光少女
 - baseSvtId: 9306170
   battleName: '-'
   name: 悼念公主的帕凡舞曲
+- baseSvtId: 9306180
+  battleName: '-'
+  name: 昏暗森渊的护符
+- baseSvtId: 9306190
+  battleName: '-'
+  name: 黄金枷锁	
+- baseSvtId: 9306200
+  battleName: '-'
+  name: 不曾停歇的水晶鞋
+- baseSvtId: 9306210
+  battleName: '-'
+  name: 月夜的斗宴
+- baseSvtId: 9306220
+  battleName: '-'
+  name: 发生在某片海上的事
+- baseSvtId: 9306230
+  battleName: '-'
+  name: 神之尸骸
+- baseSvtId: 9306240
+  battleName: '-'
+  name: 愿望联结起群星
+- baseSvtId: 9306250
+  battleName: '-'
+  name: 仰望天空…
+- baseSvtId: 9306260
+  battleName: '-'
+  name: 打神鞭
+- baseSvtId: 9306270
+  battleName: '-'
+  name: Zmei Gorynich
+- baseSvtId: 9306280
+  battleName: '-'
+  name: 迦勒底卫星地面站
+- baseSvtId: 9306290
+  battleName: '-'
+  name: 小狮舞
+- baseSvtId: 9306300
+  battleName: '-'
+  name: 去新年参拜吧
+- baseSvtId: 9306310
+  battleName: '-'
+  name: 高扬斯卡娅的野心～欧亚大陆版～
+- baseSvtId: 9306320
+  battleName: '-'
+  name: 托付之物
+- baseSvtId: 9306330
+  battleName: '-'
+  name: 安拔尔
+- baseSvtId: 9306340
+  battleName: '-'
+  name: 小象们
+- baseSvtId: 9306350
+  battleName: '-'
+  name: 醒来
+- baseSvtId: 9306360
+  battleName: '-'
+  name: 伟大的神秘
+- baseSvtId: 9306370
+  battleName: '-'
+  name: 曾作为兽类的日子
+- baseSvtId: 9306380
+  battleName: '-'
+  name: 故乡
+- baseSvtId: 9306390
+  battleName: '-'
+  name: 越来越从漫画了解！FGO
+- baseSvtId: 9306400
+  battleName: '-'
+  name: 所有的一切都已不再
+- baseSvtId: 9306410
+  battleName: '-'
+  name: 王之剑，勇者之剑
+- baseSvtId: 9306420
+  battleName: '-'
+  name: 合乎逻辑之恶
+- baseSvtId: 9306430
+  battleName: '-'
+  name: 将一切
+- baseSvtId: 9306440
+  battleName: '-'
+  name: 惹人怜爱的公主与忠实的骑士
+- baseSvtId: 9306450
+  battleName: '-'
+  name: 无关紧要之物
+- baseSvtId: 9306460
+  battleName: '-'
+  name: 黄巾
+- baseSvtId: 9306470
+  battleName: '-'
+  name: 南总里见八犬传
+- baseSvtId: 9306480
+  battleName: '-'
+  name: 一击，斩船
+- baseSvtId: 9306490
+  battleName: '-'
+  name: 那个夏日见到的，纯白的
+- baseSvtId: 9306500
+  battleName: '-'
+  name: 赤红之剑
+- baseSvtId: 9306510
+  battleName: '-'
+  name: 暗自落泪的恩克罗米亚
+- baseSvtId: 9306520
+  battleName: '-'
+  name: 皇帝道士的暑假
+- baseSvtId: 9306530
+  battleName: '-'
+  name: 夏日力量花球
+- baseSvtId: 9306540
+  battleName: '-'
+  name: 绘里濑乐园官方玩偶
+- baseSvtId: 9306550
+  battleName: '-'
+  name: 最后的武器
+- baseSvtId: 9306560
+  battleName: '-'
+  name: SAM66
+- baseSvtId: 9306570
+  battleName: '-'
+  name: 女武神的口粮
+- baseSvtId: 9306580
+  battleName: '-'
+  name: 英灵梦装：赤兔马
+- baseSvtId: 9306590
+  battleName: '-'
+  name: 英灵梦装：珀西瓦尔
+- baseSvtId: 9306600
+  battleName: '-'
+  name: 英灵梦装：夏洛特·科黛
+- baseSvtId: 9306610
+  battleName: '-'
+  name: 英灵梦装：曼迪卡尔多
+- baseSvtId: 9306620
+  battleName: '-'
+  name: 英灵梦装：梅柳齐娜
+- baseSvtId: 9306630
+  battleName: '-'
+  name: 英灵梦装：詹姆斯·莫里亚蒂
+- baseSvtId: 9306640
+  battleName: '-'
+  name: 英灵梦装：阿周那
+- baseSvtId: 9306650
+  battleName: '-'
+  name: 英灵梦装：巴格斯特
+- baseSvtId: 9306660
+  battleName: '-'
+  name: 英灵梦装：莱昂纳多·达·芬奇
+- baseSvtId: 9306670
+  battleName: '-'
+  name: 英灵梦装：芭万·希
+- baseSvtId: 9306680
+  battleName: '-'
+  name: 英灵梦装：阿纳斯塔西娅＆维
+- baseSvtId: 9306690
+  battleName: '-'
+  name: 英灵梦装：多布雷尼娅·尼基季奇
+- baseSvtId: 9306700
+  battleName: '-'
+  name: 英灵梦装：克琳希德
+- baseSvtId: 9306710
+  battleName: '-'
+  name: 英灵梦装：太公望
+- baseSvtId: 9306720
+  battleName: '-'
+  name: 英灵梦装：曲亭马琴
+- baseSvtId: 9306730
+  battleName: '-'
+  name: 英灵梦装：迦摩
+- baseSvtId: 9306740
+  battleName: '-'
+  name: 英灵梦装：谜之兰丸X
+- baseSvtId: 9306750
+  battleName: '-'
+  name: 英灵梦装：魔王信长
+- baseSvtId: 9306760
+  battleName: '-'
+  name: 英灵梦装：库·丘林
+- baseSvtId: 9306770
+  battleName: '-'
+  name: 英灵梦装：玛修·基列莱特
+- baseSvtId: 9306780
+  battleName: '-'
+  name: 英灵梦装：土方岁三
+- baseSvtId: 9306790
+  battleName: '-'
+  name: 英灵梦装：阿尔托莉雅·潘德拉贡
+- baseSvtId: 9306800
+  battleName: '-'
+  name: 英灵梦装：超级班扬
+- baseSvtId: 9306810
+  battleName: '-'
+  name: 英灵梦装：雅克·德·莫莱
+- baseSvtId: 9306820
+  battleName: '-'
+  name: 英灵梦装：芝诺比阿
+- baseSvtId: 9306830
+  battleName: '-'
+  name: 英灵梦装：哥伦布
+- baseSvtId: 9306840
+  battleName: '-'
+  name: 英灵梦装：葛饰北斋
+- baseSvtId: 9306850
+  battleName: '-'
+  name: 英灵梦装：司马懿
+- baseSvtId: 9306860
+  battleName: '-'
+  name: 英灵梦装：比利小子
+- baseSvtId: 9306870
+  battleName: '-'
+  name: 英灵梦装：新免武藏守藤原玄信
+- baseSvtId: 9306880
+  battleName: '-'
+  name: 英灵梦装：阿拉什
+- baseSvtId: 9306890
+  battleName: '-'
+  name: 英灵梦装：梅林
+- baseSvtId: 9306900
+  battleName: '-'
+  name: 英灵梦装：斋藤一
+- baseSvtId: 9306910
+  battleName: '-'
+  name: 英灵梦装：太空伊什塔尔
+- baseSvtId: 9306920
+  battleName: '-'
+  name: 英灵梦装：冈田以藏
+- baseSvtId: 9306930
+  battleName: '-'
+  name: 英灵梦装：齐格飞
+- baseSvtId: 9306940
+  battleName: '-'
+  name: 英灵梦装：冲田总司
+- baseSvtId: 9306950
+  battleName: '-'
+  name: 英灵梦装：望月千代女
+- baseSvtId: 9306960
+  battleName: '-'
+  name: 月之雏菊
+- baseSvtId: 9306970
+  battleName: '-'
+  name: 连去死的工夫都没有
+- baseSvtId: 9307010
+  battleName: '-'
+  name: TYPE LUMINA
 - baseSvtId: 9400010
   battleName: '-'
   name: 顽强
@@ -4678,6 +5083,30 @@
 - baseSvtId: 9405230
   battleName: '-'
   name: 2019年的格洛斯特
+- baseSvtId: 9405240
+  battleName: '-'
+  name: 天使之心
+- baseSvtId: 9405250
+  battleName: '-'
+  name: 粉红海滩
+- baseSvtId: 9405260
+  battleName: '-'
+  name: 丛林海盗
+- baseSvtId: 9405270
+  battleName: '-'
+  name: 加勒比财宝
+- baseSvtId: 9405280
+  battleName: '-'
+  name: 黄金的轨迹
+- baseSvtId: 9405290
+  battleName: '-'
+  name: 在斑斓之海的街角
+- baseSvtId: 9405300
+  battleName: '-'
+  name: 海洋飞行员
+- baseSvtId: 9405310
+  battleName: '-'
+  name: 沉入深渊
 - baseSvtId: 9405320
   battleName: '-'
   name: 魔道元帅
@@ -4690,6 +5119,279 @@
 - baseSvtId: 9405350
   battleName: '-'
   name: 戈夫特制
+- baseSvtId: 9405490
+  battleName: '-'
+  name: 步入美妙帷幕中
+- baseSvtId: 9405500
+  battleName: '-'
+  name: 冬之结晶
+- baseSvtId: 9405510
+  battleName: '-'
+  name: 银花的雪白公主
+- baseSvtId: 9405520
+  battleName: '-'
+  name: 小猫咪的回旋曲
+- baseSvtId: 9405530
+  battleName: '-'
+  name: 主人公
+- baseSvtId: 9405540
+  battleName: '-'
+  name: 青丝袅袅
+- baseSvtId: 9405550
+  battleName: '-'
+  name: 小小裁衣匠
+- baseSvtId: 9405560
+  battleName: '-'
+  name: 熊霸诸王
+- baseSvtId: 9405570
+  battleName: '-'
+  name: 失意灼燃
+- baseSvtId: 9405580
+  battleName: '-'
+  name: 爱・乱麻
+- baseSvtId: 9405590
+  battleName: '-'
+  name: 无法逃离的眼神
+- baseSvtId: 9405600
+  battleName: '-'
+  name: 随花起舞的艺伎
+- baseSvtId: 9405630
+  battleName: '-'
+  name: 寻求着悠久的尽头
+- baseSvtId: 9405640
+  battleName: '-'
+  name: 神圣之心
+- baseSvtId: 9405650
+  battleName: '-'
+  name: 一千个夜晚
+- baseSvtId: 9405660
+  battleName: '-'
+  name: 愿望成真
+- baseSvtId: 9405670
+  battleName: '-'
+  name: 如同淑女
+- baseSvtId: 9405680
+  battleName: '-'
+  name: 冬之圣女
+- baseSvtId: 9405690
+  battleName: '-'
+  name: 庭园守卫
+- baseSvtId: 9405700
+  battleName: '-'
+  name: 穗群原学园学生会长
+- baseSvtId: 9405710
+  battleName: '-'
+  name: 空荡花园
+- baseSvtId: 9405720
+  battleName: '-'
+  name: 一阳来复
+- baseSvtId: 9405730
+  battleName: '-'
+  name: 永眠之城
+- baseSvtId: 9405740
+  battleName: '-'
+  name: 第一幅画‎
+- baseSvtId: 9405750
+  battleName: '-'
+  name: 呕心沥血
+- baseSvtId: 9405760
+  battleName: '-'
+  name: 最大过载
+- baseSvtId: 9405770
+  battleName: '-'
+  name: 情人节的女巫们
+- baseSvtId: 9405780
+  battleName: '-'
+  name: 融化之爱
+- baseSvtId: 9405790
+  battleName: '-'
+  name: 热可可
+- baseSvtId: 9405800
+  battleName: '-'
+  name: 辛苦了！
+- baseSvtId: 9405810
+  battleName: '-'
+  name: 一夜之梦
+- baseSvtId: 9405820
+  battleName: '-'
+  name: 水枪对决
+- baseSvtId: 9405830
+  battleName: '-'
+  name: 侦探爱德蒙～最终事件篇～
+- baseSvtId: 9405840
+  battleName: '-'
+  name: 警官搭档
+- baseSvtId: 9405850
+  battleName: '-'
+  name: 月夜的邂逅
+- baseSvtId: 9405860
+  battleName: '-'
+  name: 迦勒底快线
+- baseSvtId: 9405870
+  battleName: '-'
+  name: 究极融合
+- baseSvtId: 9405880
+  battleName: '-'
+  name: 迦勒底不良组
+- baseSvtId: 9405890
+  battleName: '-'
+  name: 强力击球
+- baseSvtId: 9405900
+  battleName: '-'
+  name: 银河雷电
+- baseSvtId: 9405910
+  battleName: '-'
+  name: 休刻翁博士
+- baseSvtId: 9405920
+  battleName: '-'
+  name: 秘密公司 Assassin
+- baseSvtId: 9405930
+  battleName: '-'
+  name: 最终检查
+- baseSvtId: 9405940
+  battleName: '-'
+  name: 迦勒底宇宙高等学院	
+- baseSvtId: 9405950
+  battleName: '-'
+  name: 无尽的尘山
+- baseSvtId: 9405960
+  battleName: '-'
+  name: 凶荒的骨冢
+- baseSvtId: 9405970
+  battleName: '-'
+  name: 幽冥娘娘
+- baseSvtId: 9405980
+  battleName: '-'
+  name: 虎视眈眈
+- baseSvtId: 9405990
+  battleName: '-'
+  name: 天下往来
+- baseSvtId: 9406000
+  battleName: '-'
+  name: 明星的休息日
+- baseSvtId: 9406010
+  battleName: '-'
+  name: 狼的故事
+- baseSvtId: 9406020
+  battleName: '-'
+  name: 幻想公主
+- baseSvtId: 9406030
+  battleName: '-'
+  name: 芳华乐土
+- baseSvtId: 9406040
+  battleName: '-'
+  name: 告解迷惘处
+- baseSvtId: 9406050
+  battleName: '-'
+  name: 开始拍摄
+- baseSvtId: 9406060
+  battleName: '-'
+  name: 熊孩子王国的冒险
+- baseSvtId: 9406070
+  battleName: '-'
+  name: 侏罗纪之梦
+- baseSvtId: 9406080
+  battleName: '-'
+  name: 搜寻喜悦
+- baseSvtId: 9406090
+  battleName: '-'
+  name: 蛮龙的牙床
+- baseSvtId: 9406100
+  battleName: '-'
+  name: 群雄的证印
+- baseSvtId: 9406110
+  battleName: '-'
+  name: 八百土晶洞
+- baseSvtId: 9406120
+  battleName: '-'
+  name: 沙滩贝楼
+- baseSvtId: 9406130
+  battleName: '-'
+  name: 天宠的尾羽
+- baseSvtId: 9406140
+  battleName: '-'
+  name: 五大元素使
+- baseSvtId: 9406150
+  battleName: '-'
+  name: 投影装填
+- baseSvtId: 9406160
+  battleName: '-'
+  name: 夙愿的传承
+- baseSvtId: 9406170
+  battleName: '-'
+  name: 代价魔术
+- baseSvtId: 9406180
+  battleName: '-'
+  name: 不会枯萎的花
+- baseSvtId: 9406190
+  battleName: '-'
+  name: 将祈祷的明灯高举心间
+- baseSvtId: 9406200
+  battleName: '-'
+  name: 立于碧空之下
+- baseSvtId: 9406210
+  battleName: '-'
+  name: 富岳巡游
+- baseSvtId: 9406220
+  battleName: '-'
+  name: 武之谯楼
+- baseSvtId: 9406230
+  battleName: '-'
+  name: 草原的勇士
+- baseSvtId: 9406240
+  battleName: '-'
+  name: 穿心者
+- baseSvtId: 9406250
+  battleName: '-'
+  name: 禁忌的书架
+- baseSvtId: 9406260
+  battleName: '-'
+  name: 无穷回构
+- baseSvtId: 9406270
+  battleName: '-'
+  name: 血泪的坩埚
+- baseSvtId: 9406280
+  battleName: '-'
+  name: 绯髓的工房
+- baseSvtId: 9406290
+  battleName: '-'
+  name: 双马尾
+- baseSvtId: 9406300
+  battleName: '-'
+  name: 邮轮约会
+- baseSvtId: 9406310
+  battleName: '-'
+  name: 僵尸袭击
+- baseSvtId: 9406320
+  battleName: '-'
+  name: 无限之蓝
+- baseSvtId: 9406330
+  battleName: '-'
+  name: 垂钓者于此
+- baseSvtId: 9406340
+  battleName: '-'
+  name: 你好！北极
+- baseSvtId: 9406350
+  battleName: '-'
+  name: 刚硬之拳
+- baseSvtId: 9406360
+  battleName: '-'
+  name: 冰雪战士
+- baseSvtId: 9406390
+  battleName: '-'
+  name: A’
+- baseSvtId: 9406400
+  battleName: '-'
+  name: 鼓舞人心
+- baseSvtId: 9406410
+  battleName: '-'
+  name: 再次启程
+- baseSvtId: 9406420
+  battleName: '-'
+  name: 炽天之王
+- baseSvtId: 9406430
+  battleName: '-'
+  name: 猎人之梦
 - baseSvtId: 9501100
   battleName: '-'
   name: 英灵结晶·黄昏之芙芙
@@ -6040,6 +6742,114 @@
 - baseSvtId: 9807980
   battleName: '-'
   name: 天堂之心
+- baseSvtId: 9807990
+  battleName: '-'
+  name: 概念礼装经验卡：阿国座迦勒底公演
+- baseSvtId: 9808000
+  battleName: '-'
+  name: 概念礼装经验卡：谜之兰丸X飞来！
+- baseSvtId: 9808010
+  battleName: '-'
+  name: 概念礼装经验卡：虎之遇难
+- baseSvtId: 9808020
+  battleName: '-'
+  name: 迦勒底小天使
+- baseSvtId: 9808030
+  battleName: '-'
+  name: 作品名：巧克力自刻像ver.2
+- baseSvtId: 9808040
+  battleName: '-'
+  name: 鹤与巧克力与温暖
+- baseSvtId: 9808050
+  battleName: '-'
+  name: 两个人的银河
+- baseSvtId: 9808060
+  battleName: '-'
+  name: 卡美洛物语
+- baseSvtId: 9808070
+  battleName: '-'
+  name: 一口巧克力山
+- baseSvtId: 9808080
+  battleName: '-'
+  name: 舞动的红桩
+- baseSvtId: 9808090
+  battleName: '-'
+  name: 强力龙之心
+- baseSvtId: 9808100
+  battleName: '-'
+  name: 美丽而虚幻之花
+- baseSvtId: 9808110
+  battleName: '-'
+  name: 粉色手枪巧克力
+- baseSvtId: 9808120
+  battleName: '-'
+  name: 哈贝喵帽子
+- baseSvtId: 9808130
+  battleName: '-'
+  name: 虚影之尘
+- baseSvtId: 9808140
+  battleName: '-'
+  name: 好伙伴炼狱巧克力
+- baseSvtId: 9808150
+  battleName: '-'
+  name: 究极坚硬冰冻巧克力
+- baseSvtId: 9808160
+  battleName: '-'
+  name: 新鲜的鱼套餐
+- baseSvtId: 9808170
+  battleName: '-'
+  name: 白鸽
+- baseSvtId: 9808180
+  battleName: '-'
+  name: 吐司·蜜糖与诺子
+- baseSvtId: 9808190
+  battleName: '-'
+  name: 迦勒底夏日指定
+- baseSvtId: 9808200
+  battleName: '-'
+  name: 可怖的魔王巧克力
+- baseSvtId: 9808210
+  battleName: '-'
+  name: 神殿骑士团的悲喜剧	
+- baseSvtId: 9808220
+  battleName: '-'
+  name: 椰枣巧克力
+- baseSvtId: 9808230
+  battleName: '-'
+  name: 万圣节派对夜！
+- baseSvtId: 9808240
+  battleName: '-'
+  name: 白色誓约
+- baseSvtId: 9808250
+  battleName: '-'
+  name: 出云烟杆巧克力
+- baseSvtId: 9808260
+  battleName: '-'
+  name: 谜之兰丸巧克力X
+- baseSvtId: 9808270
+  battleName: '-'
+  name: 史多伦面包！
+- baseSvtId: 9808280
+  battleName: '-'
+  name: 绝妙的钓场
+- baseSvtId: 9808290
+  battleName: '-'
+  name: 大马士革钢制短剑
+- baseSvtId: 9808300
+  battleName: '-'
+  name: NFF极品
+- baseSvtId: 9808310
+  battleName: '-'
+  name: 王之雕像巧克力
+- baseSvtId: 9808320
+  battleName: '-'
+  name: 巴泽南式情人节用甜品
+- baseSvtId: 9808330
+  battleName: '-'
+  name: 概念礼装经验卡：S班扬降临
+- baseSvtId: 9808340
+  battleName: '-'
+  name: 概念礼装经验卡：大黑天＆安宁降临
 - baseSvtId: 9930000
   battleName: 玛修
   name: 玛修·基列莱特
@@ -7592,8 +8402,8 @@
   battleName: 阿尔托莉雅
   name: 阿尔托莉雅·卡斯特
 - baseSvtId: 9943100
-  battleName: ロストベルト：ビーストⅣ
-  name: ロストベルト：ビーストⅣ
+  battleName: Lostbelt：BeastⅣ
+  name: Lostbelt：BeastⅣ
 - baseSvtId: 9943110
   battleName: LWB-M8
   name: LWB-M8
@@ -7601,11 +8411,11 @@
   battleName: HWB-M8
   name: HWB-M8
 - baseSvtId: 9943130
-  battleName: コロンブスの卵
-  name: コロンブスの卵
+  battleName: 哥伦布之卵
+  name: 哥伦布之卵
 - baseSvtId: 9943140
-  battleName: シャークパイレーツ
-  name: シャークパイレーツ
+  battleName: 鲨鱼海盗
+  name: 鲨鱼海盗
 - baseSvtId: 9943150
   battleName: 迦摩
   name: 迦摩
@@ -7631,8 +8441,8 @@
   battleName: 珀西瓦尔
   name: 珀西瓦尔
 - baseSvtId: 9943230
-  battleName: ガラスハンド
-  name: ガラスハンド
+  battleName: 玻璃之手
+  name: 玻璃之手
 - baseSvtId: 9943240
   battleName: 玛修
   name: 玛修·基列莱特
@@ -7649,11 +8459,11 @@
   battleName: 珀西瓦尔
   name: 珀西瓦尔
 - baseSvtId: 9943290
-  battleName: 暗黒の仔山羊
-  name: 暗黒の仔山羊
+  battleName: 黑山羊幼仔
+  name: 黑山羊幼仔
 - baseSvtId: 9943300
-  battleName: グリーンマン
-  name: グリーンマン
+  battleName: GreenMan
+  name: GreenMan
 - baseSvtId: 9943310
   battleName: 加雷斯
   name: 加雷斯
@@ -7664,17 +8474,17 @@
   battleName: 梅柳齐娜
   name: 梅柳齐娜
 - baseSvtId: 9943340
-  battleName: アラハバキ
-  name: アラハバキ
+  battleName: 荒吐神
+  name: 荒吐神
 - baseSvtId: 9943350
-  battleName: 田中新兵衛
-  name: 田中新兵衛
+  battleName: 田中新兵卫
+  name: 田中新兵卫
 - baseSvtId: 9943360
-  battleName: 奇兵隊
-  name: 奇兵隊
+  battleName: 奇兵队
+  name: 奇兵队
 - baseSvtId: 9943370
-  battleName: キンノブ
-  name: キンノブ
+  battleName: 王信
+  name: 王信
 - baseSvtId: 9943380
   battleName: 清少纳言
   name: 清少纳言
@@ -7691,23 +8501,152 @@
   battleName: 迦摩
   name: 迦摩
 - baseSvtId: 9943430
-  battleName: 魔神柱型巨大ケーキ
-  name: 魔神柱型巨大ケーキ
+  battleName: 魔神柱型巨大蛋糕
+  name: 魔神柱型巨大蛋糕
 - baseSvtId: 9943440
-  battleName: アラハバキ・弐号機
-  name: アラハバキ・弐号機
+  battleName: 荒吐神·弐号机
+  name: 荒吐神·弐号机
 - baseSvtId: 9943450
-  battleName: 戦国維新ロボ・ナガオカゲトラ
-  name: 戦国維新ロボ・ナガオカゲトラ
+  battleName: 战国维新机甲·长尾景虎
+  name: 战国维新机甲·长尾景虎
 - baseSvtId: 9943460
-  battleName: 田中新兵衛
-  name: 田中新兵衛
+  battleName: 田中新兵卫
+  name: 田中新兵卫
+- baseSvtId: 9943480
+  battleName: 咒毒虫
+  name: 咒毒虫
+- baseSvtId: 9943490
+  battleName: 半鱼人
+  name: 半鱼人
+- baseSvtId: 9943500
+  battleName: 伟大鱼人
+  name: 伟大鱼人
+- baseSvtId: 9943510
+  battleName: 达贡
+  name: 达贡
 - baseSvtId: 9943520
-  battleName: 坂本龍馬
-  name: 坂本龍馬
+  battleName: 坂本龙马
+  name: 坂本龙马
+- baseSvtId: 9943530
+  battleName: 职阶·Saber
+  name: 职阶·Saber
+- baseSvtId: 9943540
+  battleName: 职阶·Archer
+  name: 职阶·Archer
+- baseSvtId: 9943550
+  battleName: 职阶·Lancer
+  name: 职阶·Lancer
+- baseSvtId: 9943560
+  battleName: 职阶·Rider
+  name: 职阶·Rider
+- baseSvtId: 9943570
+  battleName: 职阶·Caster
+  name: 职阶·Caster
+- baseSvtId: 9943580
+  battleName: 职阶·Assassin
+  name: 职阶·Assassin
+- baseSvtId: 9943590
+  battleName: 职阶·Berserker
+  name: 职阶·Berserker
 - baseSvtId: 9943600
   battleName: 鬼一法眼
   name: 鬼一法眼
+- baseSvtId: 9943610
+  battleName: BeastⅣ
+  name: BeastⅣ
+- baseSvtId: 9943620
+  battleName: 凯尔派
+  name: 凯尔派
+- baseSvtId: 9943630
+  battleName: 吉蛇颈龙君Ω
+  name: 吉蛇颈龙君Ω
+- baseSvtId: 9943640
+  battleName: 帝王蛇颈龙君
+  name: 帝王蛇颈龙君
+- baseSvtId: 9943650
+  battleName: 蛇颈龙君
+  name: 蛇颈龙君
+- baseSvtId: 9943660
+  battleName: 噬魂者
+  name: 噬魂者
+- baseSvtId: 9943670
+  battleName: 大百足
+  name: 大百足
+- baseSvtId: 9943680
+  battleName: 大百足
+  name: 大百足
+- baseSvtId: 9943690
+  battleName: 化猫
+  name: 化猫
+- baseSvtId: 9943700
+  battleName: 化猫
+  name: 化猫
+- baseSvtId: 9943710
+  battleName: 伊吹童子
+  name: 伊吹童子
+- baseSvtId: 9943720
+  battleName: 酷吏僵尸
+  name: 酷吏僵尸
+- baseSvtId: 9943730
+  battleName: 冰鱼
+  name: 冰鱼
+- baseSvtId: 9943740
+  battleName: 临死的鱼
+  name: 临死的鱼
+- baseSvtId: 9943750
+  battleName: 职阶·Saber
+  name: 职阶·Saber
+- baseSvtId: 9943760
+  battleName: 职阶·Archer
+  name: 职阶·Archer
+- baseSvtId: 9943770
+  battleName: 职阶·Lancer
+  name: 职阶·Lancer
+- baseSvtId: 9943780
+  battleName: 职阶·Rider
+  name: 职阶·Rider
+- baseSvtId: 9943790
+  battleName: 职阶·Caster
+  name: 职阶·Caster
+- baseSvtId: 9943800
+  battleName: 职阶·Assassin
+  name: 职阶·Assassin
+- baseSvtId: 9943810
+  battleName: 职阶·Berserker
+  name: 职阶·Berserker
+- baseSvtId: 9943840
+  battleName: 查理曼
+  name: 查理曼
+- baseSvtId: 9943850
+  battleName: 堂吉诃德
+  name: 堂吉诃德
+- baseSvtId: 9943860
+  battleName: 张角
+  name: 张角
+- baseSvtId: 9943870
+  battleName: 克琳希德
+  name: 克琳希德
+- baseSvtId: 9943880
+  battleName: 莫里亚蒂
+  name: 詹姆斯·莫里亚蒂
+- baseSvtId: 9943890
+  battleName: 莫里亚蒂
+  name: 詹姆斯·莫里亚蒂
+- baseSvtId: 9943920
+  battleName: 源為朝
+  name: 源為朝
+- baseSvtId: 9943940
+  battleName: 北极大咒黑卵
+  name: 北极大咒黑卵
+- baseSvtId: 9943960
+  battleName: 伊露斯
+  name: 伊露斯
+- baseSvtId: 9943970
+  battleName: 艾露
+  name: 艾露
+- baseSvtId: 9943980
+  battleName: 琳德
+  name: 琳德
 - baseSvtId: 90086001
   battleName: '-'
   name: 简中版6周年纪念
