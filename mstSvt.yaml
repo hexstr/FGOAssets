@@ -314,8 +314,8 @@
   battleName: 帕尔瓦蒂
   name: 帕尔瓦蒂
 - baseSvtId: 303100
-  battleName: 莲偶
-  name: 莲偶
+  battleName: 哪吒
+  name: 哪吒
 - baseSvtId: 303200
   battleName: 埃列什基伽勒
   name: 埃列什基伽勒
@@ -326,8 +326,8 @@
   battleName: 茨木童子
   name: 茨木童子
 - baseSvtId: 303500
-  battleName: 忠贞
-  name: 忠贞
+  battleName: 秦良玉
+  name: 秦良玉
 - baseSvtId: 303600
   battleName: 布拉达曼特
   name: 布拉达曼特
@@ -350,8 +350,8 @@
   battleName: 宇津见绘里濑
   name: 宇津见绘里濑
 - baseSvtId: 304400
-  battleName: 雏罂
-  name: 雏罂
+  battleName: 虞美人
+  name: 虞美人
 - baseSvtId: 304600
   battleName: 弗栗多
   name: 弗栗多
@@ -434,11 +434,11 @@
   battleName: 坂本龙马
   name: 坂本龙马
 - baseSvtId: 403100
-  battleName: 丹驹
-  name: 丹驹
+  battleName: 赤兔马
+  name: 赤兔马
 - baseSvtId: 403200
-  battleName: 莱妮丝
-  name: 莱妮丝
+  battleName: 司马懿〔莱妮丝〕
+  name: 司马懿〔莱妮丝〕
 - baseSvtId: 403400
   battleName: 巴沙洛缪
   name: 巴沙洛缪·罗伯茨
@@ -629,8 +629,8 @@
   battleName: 斯忒诺
   name: 斯忒诺
 - baseSvtId: 601100
-  battleName: 匕见
-  name: 匕见
+  battleName: 荆轲
+  name: 荆轲
 - baseSvtId: 601200
   battleName: 桑松
   name: 夏尔·亨利·桑松
@@ -668,8 +668,8 @@
   battleName: 燕青
   name: 燕青
 - baseSvtId: 602700
-  battleName: 周照
-  name: 周照
+  battleName: 武则天
+  name: 武则天
 - baseSvtId: 602800
   battleName: 尼托克丽丝
   name: 尼托克丽丝
@@ -692,8 +692,8 @@
   battleName: 牛若丸
   name: 牛若丸
 - baseSvtId: 603500
-  battleName: 雏罂
-  name: 雏罂
+  battleName: 虞美人
+  name: 虞美人
 - baseSvtId: 603600
   battleName: 李书文
   name: 李书文
@@ -722,8 +722,8 @@
   battleName: 兰斯洛特
   name: 兰斯洛特
 - baseSvtId: 700300
-  battleName: 虎狼
-  name: 虎狼
+  battleName: 吕布奉先
+  name: 吕布奉先
 - baseSvtId: 700400
   battleName: 弗兰
   name: 弗兰肯斯坦
@@ -794,8 +794,8 @@
   battleName: 贞德·Alter
   name: 贞德〔Alter〕
 - baseSvtId: 703200
-  battleName: 重瞳
-  name: 重瞳
+  battleName: 项羽
+  name: 项羽
 - baseSvtId: 703300
   battleName: 阿周那·Alter
   name: 阿周那〔Alter〕
@@ -842,8 +842,8 @@
   battleName: 夏洛克·福尔摩斯
   name: 夏洛克·福尔摩斯
 - baseSvtId: 900600
-  battleName: 祖政
-  name: 祖政
+  battleName: 始皇帝
+  name: 始皇帝
 - baseSvtId: 900700
   battleName: 魁札尔·科亚特尔·桑巴
   name: 魁札尔·科亚特尔〔桑巴／圣诞〕
@@ -941,8 +941,8 @@
   battleName: 女主角XX
   name: 谜之女主角XX
 - baseSvtId: 2500400
-  battleName: 琰女
-  name: 琰女
+  battleName: 杨贵妃
+  name: 杨贵妃
 - baseSvtId: 2500500
   battleName: 旅行者
   name: 旅行者
