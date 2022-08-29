@@ -1,0 +1,9 @@
+- name: 源赖光
+  enable: true
+  id: "702300"
+- name: 酒吞童子
+  enable: true
+  id: "602100"
+- name: 戈耳工
+  enable: true
+  id: "1100400"
