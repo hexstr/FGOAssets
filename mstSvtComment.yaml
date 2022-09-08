@@ -42516,7 +42516,7 @@
     几乎没有发生改变。
 
     「……这个混蛋山羊是“巴菲”。
-　    它在监视我。啊～真烦」
+    　它在监视我。啊～真烦」
   condType: 9
   condValues:
     - 3
@@ -42583,7 +42583,7 @@
   id: 7
   priority: 0
   condMessage: ''
-  comment: あるクエストをクリアした時に明かされます
+  comment: 完成某个关卡时将解锁
   condType: 1
   condValues:
     - 917037001
