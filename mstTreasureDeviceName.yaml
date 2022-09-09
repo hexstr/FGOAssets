@@ -1,0 +1,4664 @@
+﻿- id: 100
+  name: ''
+  ruby: ''
+  typeText: ''
+- id: 200
+  name: 芝麻开门
+  ruby: '-'
+  typeText: ''
+- id: 201
+  name: 芝麻开门
+  ruby: '-'
+  typeText: ''
+- id: 202
+  name: 芝麻开门
+  ruby: '-'
+  typeText: ''
+- id: 203
+  name: 芝麻开门
+  ruby: '-'
+  typeText: ''
+- id: 204
+  name: 业火
+  ruby: '-'
+  typeText: ''
+- id: 205
+  name: 业火
+  ruby: '-'
+  typeText: ''
+- id: 206
+  name: 业火
+  ruby: '-'
+  typeText: ''
+- id: 207
+  name: 业火
+  ruby: '-'
+  typeText: ''
+- id: 208
+  name: 尸斩
+  ruby: '-'
+  typeText: ''
+- id: 209
+  name: 尸刺
+  ruby: '-'
+  typeText: ''
+- id: 210
+  name: 尸击
+  ruby: '-'
+  typeText: ''
+- id: 211
+  name: 龙裂斩
+  ruby: '-'
+  typeText: ''
+- id: 212
+  name: 龙破断
+  ruby: '-'
+  typeText: ''
+- id: 213
+  name: 龙碎弓
+  ruby: '-'
+  typeText: ''
+- id: 214
+  name: 猛进击
+  ruby: '-'
+  typeText: ''
+- id: 215
+  name: 猛突击
+  ruby: '-'
+  typeText: ''
+- id: 216
+  name: 猛连射
+  ruby: '-'
+  typeText: ''
+- id: 217
+  name: 朽坏之剑
+  ruby: '-'
+  typeText: ''
+- id: 218
+  name: 朽坏之枪
+  ruby: '-'
+  typeText: ''
+- id: 219
+  name: 朽坏之弓
+  ruby: '-'
+  typeText: ''
+- id: 220
+  name: 全力攻击
+  ruby: '-'
+  typeText: ''
+- id: 221
+  name: 全力突击
+  ruby: '-'
+  typeText: ''
+- id: 222
+  name: 一刀两断
+  ruby: '-'
+  typeText: ''
+- id: 223
+  name: 腐朽之剑
+  ruby: '-'
+  typeText: ''
+- id: 224
+  name: 腐朽之枪
+  ruby: '-'
+  typeText: ''
+- id: 225
+  name: 腐朽之大剑
+  ruby: '-'
+  typeText: ''
+- id: 226
+  name: 速击
+  ruby: '-'
+  typeText: ''
+- id: 227
+  name: 剑舞
+  ruby: '-'
+  typeText: ''
+- id: 228
+  name: 纵斩
+  ruby: '-'
+  typeText: ''
+- id: 229
+  name: 生锈的子弹
+  ruby: '-'
+  typeText: ''
+- id: 230
+  name: 生锈的剑
+  ruby: '-'
+  typeText: ''
+- id: 231
+  name: 生锈的斧
+  ruby: '-'
+  typeText: ''
+- id: 232
+  name: 冲击
+  ruby: '-'
+  typeText: ''
+- id: 233
+  name: 束缚
+  ruby: '-'
+  typeText: ''
+- id: 234
+  name: 控制
+  ruby: '-'
+  typeText: ''
+- id: 235
+  name: 碎铠
+  ruby: '-'
+  typeText: ''
+- id: 236
+  name: 碎铠
+  ruby: '-'
+  typeText: ''
+- id: 237
+  name: 碎铠
+  ruby: '-'
+  typeText: ''
+- id: 244
+  name: 恶魔封印
+  ruby: '-'
+  typeText: ''
+- id: 245
+  name: 强敲击
+  ruby: '-'
+  typeText: ''
+- id: 246
+  name: 灵魂颤动
+  ruby: '-'
+  typeText: ''
+- id: 247
+  name: 一之斩皮
+  ruby: '-'
+  typeText: ''
+- id: 248
+  name: 二之切肉
+  ruby: '-'
+  typeText: ''
+- id: 249
+  name: 三之断骨
+  ruby: '-'
+  typeText: ''
+- id: 250
+  name: “披沙”
+  ruby: '-'
+  typeText: ''
+- id: 251
+  name: “撕岩”
+  ruby: '-'
+  typeText: ''
+- id: 252
+  name: “效仿大地”
+  ruby: '-'
+  typeText: ''
+- id: 253
+  name: “闪耀波涛”
+  ruby: '-'
+  typeText: ''
+- id: 254
+  name: 火焰冲锋
+  ruby: '-'
+  typeText: ''
+- id: 255
+  name: 噬咬冲锋
+  ruby: '-'
+  typeText: ''
+- id: 256
+  name: 自信冲锋
+  ruby: '-'
+  typeText: ''
+- id: 257
+  name: 撕裂冲锋
+  ruby: '-'
+  typeText: ''
+- id: 258
+  name: 闪电冲锋
+  ruby: '-'
+  typeText: ''
+- id: 259
+  name: 龙炎
+  ruby: '-'
+  typeText: ''
+- id: 260
+  name: 龙炎
+  ruby: '-'
+  typeText: ''
+- id: 261
+  name: 大龙炎
+  ruby: '-'
+  typeText: ''
+- id: 262
+  name: 激励大龙炎
+  ruby: '-'
+  typeText: ''
+- id: 263
+  name: 尼福尔海姆
+  ruby: '-'
+  typeText: ''
+- id: 264
+  name: 神秘弓
+  ruby: '-'
+  typeText: ''
+- id: 265
+  name: 神秘枪
+  ruby: '-'
+  typeText: ''
+- id: 266
+  name: 神秘剑
+  ruby: '-'
+  typeText: ''
+- id: 267
+  name: 神秘弓
+  ruby: '-'
+  typeText: ''
+- id: 268
+  name: 神秘枪
+  ruby: '-'
+  typeText: ''
+- id: 269
+  name: 神秘剑
+  ruby: '-'
+  typeText: ''
+- id: 270
+  name: 神秘弓
+  ruby: '-'
+  typeText: ''
+- id: 271
+  name: 神秘枪
+  ruby: '-'
+  typeText: ''
+- id: 272
+  name: 神秘剑
+  ruby: '-'
+  typeText: ''
+- id: 273
+  name: 诱惑球
+  ruby: '-'
+  typeText: ''
+- id: 274
+  name: 火焰球
+  ruby: '-'
+  typeText: ''
+- id: 275
+  name: 神秘球
+  ruby: '-'
+  typeText: ''
+- id: 276
+  name: 必中之弓
+  ruby: '-'
+  typeText: ''
+- id: 277
+  name: 破坏之枪
+  ruby: '-'
+  typeText: ''
+- id: 278
+  name: 守护之剑
+  ruby: '-'
+  typeText: ''
+- id: 279
+  name: 必中之弓
+  ruby: '-'
+  typeText: ''
+- id: 280
+  name: 破坏之枪
+  ruby: '-'
+  typeText: ''
+- id: 281
+  name: 守护之剑
+  ruby: '-'
+  typeText: ''
+- id: 282
+  name: 必中之弓
+  ruby: '-'
+  typeText: ''
+- id: 283
+  name: 破坏之枪
+  ruby: '-'
+  typeText: ''
+- id: 284
+  name: 守护之剑
+  ruby: '-'
+  typeText: ''
+- id: 285
+  name: 麻痹吐息
+  ruby: '-'
+  typeText: ''
+- id: 286
+  name: 大地吐息
+  ruby: '-'
+  typeText: ''
+- id: 287
+  name: 单独行动
+  ruby: '-'
+  typeText: ''
+- id: 288
+  name: Ｒ特效
+  ruby: '-'
+  typeText: ''
+- id: 289
+  name: Ｆ特效
+  ruby: '-'
+  typeText: ''
+- id: 290
+  name: Ｗ特效
+  ruby: '-'
+  typeText: ''
+- id: 291
+  name: Ｉ文本
+  ruby: '-'
+  typeText: ''
+- id: 292
+  name: Ｓ文本
+  ruby: '-'
+  typeText: ''
+- id: 293
+  name: 大增殖
+  ruby: '-'
+  typeText: ''
+- id: 294
+  name: 超再生
+  ruby: '-'
+  typeText: ''
+- id: 295
+  name: 乱砸
+  ruby: '-'
+  typeText: ''
+- id: 296
+  name: 乱斩
+  ruby: '-'
+  typeText: ''
+- id: 297
+  name: 乱刺
+  ruby: '-'
+  typeText: ''
+- id: 298
+  name: 击砸
+  ruby: '-'
+  typeText: ''
+- id: 299
+  name: 斩切
+  ruby: '-'
+  typeText: ''
+- id: 300
+  name: 穿刺
+  ruby: '-'
+  typeText: ''
+- id: 301
+  name: 乱打
+  ruby: '-'
+  typeText: ''
+- id: 302
+  name: 乱打
+  ruby: '-'
+  typeText: ''
+- id: 303
+  name: 乱打
+  ruby: '-'
+  typeText: ''
+- id: 304
+  name: 烧却式
+  ruby: '-'
+  typeText: ''
+- id: 305
+  name: 烧却式·佛劳洛斯
+  ruby: '-'
+  typeText: ''
+- id: 306
+  name: 烧却式·佛钮司
+  ruby: '-'
+  typeText: ''
+- id: 307
+  name: 烧却式·巴巴妥司
+  ruby: '-'
+  typeText: ''
+- id: 308
+  name: 烧却式
+  ruby: '-'
+  typeText: ''
+- id: 309
+  name: 烧却式·哈帕斯
+  ruby: '-'
+  typeText: ''
+- id: 310
+  name: 烧却式·阿蒙·拉
+  ruby: '-'
+  typeText: ''
+- id: 311
+  name: 尾张炮
+  ruby: '-'
+  typeText: 无
+- id: 312
+  name: 金属尾张炮
+  ruby: '-'
+  typeText: 无
+- id: 313
+  name: 黄金尾张炮
+  ruby: '-'
+  typeText: 无
+- id: 314
+  name: 情绪高昂
+  ruby: '-'
+  typeText: 无
+- id: 315
+  name: 情绪高昂
+  ruby: '-'
+  typeText: 无
+- id: 316
+  name: 情绪高昂
+  ruby: '-'
+  typeText: 无
+- id: 317
+  name: 情绪高昂
+  ruby: '-'
+  typeText: 无
+- id: 318
+  name: 情绪高昂
+  ruby: '-'
+  typeText: 无
+- id: 319
+  name: 情绪高昂
+  ruby: '-'
+  typeText: 无
+- id: 320
+  name: 情绪高昂
+  ruby: '-'
+  typeText: 无
+- id: 321
+  name: 情绪高昂
+  ruby: '-'
+  typeText: 无
+- id: 322
+  name: 情绪高昂
+  ruby: '-'
+  typeText: 无
+- id: 323
+  name: 情绪高昂
+  ruby: '-'
+  typeText: 无
+- id: 324
+  name: 情绪高昂
+  ruby: '-'
+  typeText: 无
+- id: 325
+  name: 情绪高昂
+  ruby: '-'
+  typeText: 无
+- id: 326
+  name: 圣夜的光辉
+  ruby: '-'
+  typeText: 无
+- id: 327
+  name: 圣夜的光辉
+  ruby: '-'
+  typeText: 无
+- id: 328
+  name: 圣夜的光辉
+  ruby: '-'
+  typeText: 无
+- id: 329
+  name: 友情拥抱
+  ruby: '-'
+  typeText: 无
+- id: 330
+  name: 友情拥抱
+  ruby: '-'
+  typeText: 无
+- id: 331
+  name: 滑翔冲撞
+  ruby: '-'
+  typeText: 无
+- id: 332
+  name: 滑翔冲撞
+  ruby: '-'
+  typeText: 无
+- id: 333
+  name: 滑翔冲撞
+  ruby: '-'
+  typeText: 无
+- id: 334
+  name: 烧却式·贝雷特
+  ruby: '-'
+  typeText: ''
+- id: 335
+  name: 劈竹练习
+  ruby: '-'
+  typeText: 无
+- id: 336
+  name: 泰山压顶
+  ruby: '-'
+  typeText: ''
+- id: 337
+  name: 冲撞
+  ruby: '-'
+  typeText: ''
+- id: 338
+  name: 乱射
+  ruby: '-'
+  typeText: ''
+- id: 339
+  name: 魂魄抽离
+  ruby: '-'
+  typeText: ''
+- id: 340
+  name: 魂魄割离
+  ruby: '-'
+  typeText: ''
+- id: 341
+  name: 俯瞰风景
+  ruby: '-'
+  typeText: ''
+- id: 342
+  name: 无明
+  ruby: '-'
+  typeText: ''
+- id: 343
+  name: 五浊恶世
+  ruby: '-'
+  typeText: ''
+- id: 344
+  name: 污染
+  ruby: '-'
+  typeText: ''
+- id: 345
+  name: 绝望
+  ruby: '-'
+  typeText: ''
+- id: 346
+  name: 呼喊觉醒之声
+  ruby: '-'
+  typeText: ''
+- id: 347
+  name: 业火
+  ruby: '-'
+  typeText: ''
+- id: 348
+  name: 大蹂躏
+  ruby: '-'
+  typeText: ''
+- id: 349
+  name: 大镇压
+  ruby: '-'
+  typeText: ''
+- id: 350
+  name: 巨角冲击
+  ruby: '-'
+  typeText: ''
+- id: 351
+  name: 皇家巨角冲击
+  ruby: '-'
+  typeText: ''
+- id: 352
+  name: 热视线
+  ruby: '-'
+  typeText: ''
+- id: 354
+  name: 白眼视
+  ruby: '-'
+  typeText: ''
+- id: 356
+  name: 无形之爪
+  ruby: '-'
+  typeText: ''
+- id: 358
+  name: 无影之爪
+  ruby: '-'
+  typeText: ''
+- id: 360
+  name: 零距离射击
+  ruby: '-'
+  typeText: ''
+- id: 361
+  name: 零距离射击
+  ruby: '-'
+  typeText: ''
+- id: 362
+  name: 零距离射击
+  ruby: '-'
+  typeText: ''
+- id: 363
+  name: 急射击
+  ruby: '-'
+  typeText: ''
+- id: 364
+  name: 急突击
+  ruby: '-'
+  typeText: ''
+- id: 365
+  name: 急连击
+  ruby: '-'
+  typeText: ''
+- id: 366
+  name: 仪式魔术
+  ruby: '-'
+  typeText: ''
+- id: 367
+  name: 烧却式·哈帕斯
+  ruby: '-'
+  typeText: ''
+- id: 368
+  name: 天才的闪光
+  ruby: '-'
+  typeText: ''
+- id: 369
+  name: 天才的闪光
+  ruby: '-'
+  typeText: ''
+- id: 370
+  name: 天才的闪光
+  ruby: '-'
+  typeText: ''
+- id: 371
+  name: 腐蚀液
+  ruby: '-'
+  typeText: ''
+- id: 372
+  name: 溶解液
+  ruby: '-'
+  typeText: ''
+- id: 373
+  name: 麻痹液
+  ruby: '-'
+  typeText: ''
+- id: 374
+  name: 魔术吞食
+  ruby: '-'
+  typeText: ''
+- id: 375
+  name: 魔力吞食
+  ruby: '-'
+  typeText: ''
+- id: 376
+  name: 浑身一刺
+  ruby: '-'
+  typeText: ''
+- id: 377
+  name: 刹那一刀
+  ruby: '-'
+  typeText: ''
+- id: 378
+  name: 奋力一击
+  ruby: '-'
+  typeText: ''
+- id: 379
+  name: 优雅闪光
+  ruby: '-'
+  typeText: ''
+- id: 380
+  name: 极尽尖剑
+  ruby: '-'
+  typeText: ''
+- id: 381
+  name: 锈毁尖枪
+  ruby: '-'
+  typeText: ''
+- id: 382
+  name: 枯朽尖弓
+  ruby: '-'
+  typeText: ''
+- id: 383
+  name: 邪道合掌
+  ruby: '-'
+  typeText: ''
+- id: 384
+  name: 夸大恐吓
+  ruby: '-'
+  typeText: ''
+- id: 385
+  name: 殴打
+  ruby: '-'
+  typeText: ''
+- id: 386
+  name: 破天候
+  ruby: '-'
+  typeText: ''
+- id: 387
+  name: 地断打
+  ruby: '-'
+  typeText: ''
+- id: 388
+  name: 赤罗罗
+  ruby: '-'
+  typeText: ''
+- id: 389
+  name: 乱打
+  ruby: '-'
+  typeText: ''
+- id: 390
+  name: 碎冰
+  ruby: '-'
+  typeText: ''
+- id: 391
+  name: 净化的光辉
+  ruby: '-'
+  typeText: ''
+- id: 392
+  name: 苍闪光
+  ruby: '-'
+  typeText: ''
+- id: 393
+  name: 碧闪光
+  ruby: '-'
+  typeText: ''
+- id: 394
+  name: 舍身乱击
+  ruby: '-'
+  typeText: ''
+- id: 395
+  name: 舍身狂击
+  ruby: '-'
+  typeText: ''
+- id: 396
+  name: 断罪之剑
+  ruby: '-'
+  typeText: ''
+- id: 397
+  name: 诛罚之矢
+  ruby: '-'
+  typeText: ''
+- id: 398
+  name: 制裁之枪
+  ruby: '-'
+  typeText: ''
+- id: 399
+  name: 波动炮
+  ruby: '-'
+  typeText: ''
+- id: 400
+  name: 复式波动炮
+  ruby: '-'
+  typeText: ''
+- id: 401
+  name: 男神谜题
+  ruby: '-'
+  typeText: ''
+- id: 402
+  name: 女神谜题
+  ruby: '-'
+  typeText: ''
+- id: 403
+  name: “非常开心”
+  ruby: '-'
+  typeText: ''
+- id: 404
+  name: 烧却式亚蒙·拉
+  ruby: '-'
+  typeText: ''
+- id: 405
+  name: 忘失
+  ruby: '-'
+  typeText: ''
+- id: 406
+  name: 罪人啊，闭上眼睛吧
+  ruby: '-'
+  typeText: ''
+- id: 407
+  name: 水枪
+  ruby: '-'
+  typeText: ''
+- id: 408
+  name: 毒枪
+  ruby: '-'
+  typeText: ''
+- id: 409
+  name: 冰结枪
+  ruby: '-'
+  typeText: ''
+- id: 410
+  name: 猪突猛进
+  ruby: '-'
+  typeText: ''
+- id: 411
+  name: 狂澜怒涛
+  ruby: '-'
+  typeText: ''
+- id: 412
+  name: 终结导弹
+  ruby: '-'
+  typeText: ''
+- id: 413
+  name: 爆噬甜牙幼兽
+  ruby: Amagami Coinchenn
+  typeText: ''
+- id: 414
+  name: 破碎饼干
+  ruby: '-'
+  typeText: ''
+- id: 415
+  name: 彩虹充能
+  ruby: '-'
+  typeText: ''
+- id: 416
+  name: 魔术光炮
+  ruby: '-'
+  typeText: ''
+- id: 417
+  name: 魔术光炮
+  ruby: '-'
+  typeText: ''
+- id: 418
+  name: 魔术光炮
+  ruby: '-'
+  typeText: ''
+- id: 419
+  name: 烧却式·哈艮地
+  ruby: '-'
+  typeText: ''
+- id: 420
+  name: E文本
+  ruby: '-'
+  typeText: ''
+- id: 421
+  name: 烧却式·格剌希亚拉波斯
+  ruby: '-'
+  typeText: ''
+- id: 422
+  name: 雪花的闪耀
+  ruby: '-'
+  typeText: ''
+- id: 423
+  name: 雪花的闪耀
+  ruby: '-'
+  typeText: ''
+- id: 424
+  name: 雪花的闪耀
+  ruby: '-'
+  typeText: ''
+- id: 425
+  name: 急突击
+  ruby: '-'
+  typeText: ''
+- id: 426
+  name: 仪式魔术
+  ruby: '-'
+  typeText: ''
+- id: 427
+  name: 南瓜剑
+  ruby: '-'
+  typeText: ''
+- id: 428
+  name: 南瓜箭
+  ruby: '-'
+  typeText: ''
+- id: 429
+  name: 南瓜枪
+  ruby: '-'
+  typeText: ''
+- id: 432
+  name: “效仿磐石”
+  ruby: '-'
+  typeText: ''
+- id: 436
+  name: 暴食冲锋
+  ruby: '-'
+  typeText: ''
+- id: 439
+  name: 冥界之地伊里伽尔
+  ruby: '-'
+  typeText: 无
+- id: 440
+  name: 强制封印·万魔神殿
+  ruby: Pandemonium Cetus
+  typeText: 对军宝具
+- id: 441
+  name: 吾子啊，必遵创世之理
+  ruby: Nammu Duranki
+  typeText: 无
+- id: 442
+  name: 刳穿
+  ruby: '-'
+  typeText: ''
+- id: 443
+  name: 滑空
+  ruby: '-'
+  typeText: ''
+- id: 444
+  name: 滑空
+  ruby: '-'
+  typeText: ''
+- id: 445
+  name: 乱舞
+  ruby: '-'
+  typeText: ''
+- id: 448
+  name: 灼热暴风
+  ruby: '-'
+  typeText: ''
+- id: 449
+  name: 闪光阵风
+  ruby: '-'
+  typeText: ''
+- id: 451
+  name: 空头刺击
+  ruby: '-'
+  typeText: ''
+- id: 452
+  name: 穿头刺击
+  ruby: '-'
+  typeText: ''
+- id: 454
+  name: 永不燃尽之爪
+  ruby: '-'
+  typeText: ''
+- id: 455
+  name: 咒龙毒炎
+  ruby: '-'
+  typeText: ''
+- id: 456
+  name: 黏着液
+  ruby: '-'
+  typeText: ''
+- id: 457
+  name: 献祭
+  ruby: '-'
+  typeText: ''
+- id: 460
+  name: 烧却式 纳贝流士
+  ruby: '-'
+  typeText: ''
+- id: 461
+  name: 烧却式 佛劳洛斯
+  ruby: '-'
+  typeText: ''
+- id: 462
+  name: 烧却式 佛钮司
+  ruby: '-'
+  typeText: ''
+- id: 463
+  name: 烧却式 巴巴妥司
+  ruby: '-'
+  typeText: ''
+- id: 464
+  name: 烧却式 哈帕斯
+  ruby: '-'
+  typeText: ''
+- id: 465
+  name: 烧却式 亚蒙
+  ruby: '-'
+  typeText: ''
+- id: 466
+  name: 烧却式 斯伯纳克
+  ruby: '-'
+  typeText: ''
+- id: 467
+  name: 烧却式 安杜马利乌士
+  ruby: '-'
+  typeText: ''
+- id: 468
+  name: 烧却式 佛劳洛斯
+  ruby: '-'
+  typeText: ''
+- id: 469
+  name: 主啊，生命的喜悦
+  ruby: '-'
+  typeText: ''
+- id: 470
+  name: 烧却式 贝雷特
+  ruby: '-'
+  typeText: ''
+- id: 471
+  name: 痛扁
+  ruby: '-'
+  typeText: ''
+- id: 472
+  name: 百发百中
+  ruby: '-'
+  typeText: ''
+- id: 473
+  name: 手榴弹
+  ruby: '-'
+  typeText: ''
+- id: 474
+  name: 火焰弹
+  ruby: '-'
+  typeText: ''
+- id: 475
+  name: 天国
+  ruby: '-'
+  typeText: ''
+- id: 476
+  name: 染血歌剧
+  ruby: '-'
+  typeText: ''
+- id: 477
+  name: 致命吐息
+  ruby: '-'
+  typeText: ''
+- id: 478
+  name: 致命吐息
+  ruby: '-'
+  typeText: ''
+- id: 479
+  name: 大狂乱
+  ruby: '-'
+  typeText: ''
+- id: 480
+  name: 星之恋人
+  ruby: '-'
+  typeText: ''
+- id: 481
+  name: 传向远方吧，我的绝望之歌
+  ruby: '-'
+  typeText: ''
+- id: 482
+  name: 封闭空间
+  ruby: '-'
+  typeText: ''
+- id: 483
+  name: 烧却式 巴力
+  ruby: '-'
+  typeText: ''
+- id: 484
+  name: NOBUNOBU流最终奥义
+  ruby: '-'
+  typeText: ''
+- id: 485
+  name: NOBU车前进
+  ruby: '-'
+  typeText: ''
+- id: 486
+  name: 与NOBU的遭遇
+  ruby: '-'
+  typeText: ''
+- id: 487
+  name: 全NOBU位攻击
+  ruby: '-'
+  typeText: ''
+- id: 488
+  name: 大尾张攻击
+  ruby: '-'
+  typeText: ''
+- id: 489
+  name: 全开NOBU！
+  ruby: '-'
+  typeText: ''
+- id: 490
+  name: 最终本能寺冲击
+  ruby: '-'
+  typeText: ''
+- id: 491
+  name: 烧却式 安德拉斯特
+  ruby: '-'
+  typeText: ''
+- id: 492
+  name: Conflict CODE-16
+  ruby: '-'
+  typeText: ''
+- id: 493
+  name: Conflict CODE-32
+  ruby: '-'
+  typeText: ''
+- id: 494
+  name: Conflict CODE-64
+  ruby: '-'
+  typeText: ''
+- id: 495
+  name: Conflict CODE-128
+  ruby: '-'
+  typeText: ''
+- id: 496
+  name: Bad End
+  ruby: '-'
+  typeText: ''
+- id: 497
+  name: Dead End
+  ruby: '-'
+  typeText: ''
+- id: 498
+  name: Sakura End
+  ruby: '-'
+  typeText: ''
+- id: 499
+  name: 病毒扩散
+  ruby: '-'
+  typeText: ''
+- id: 500
+  name: 自动猎杀
+  ruby: '-'
+  typeText: ''
+- id: 501
+  name: 碎片整理
+  ruby: '-'
+  typeText: ''
+- id: 502
+  name: 烧却式 ？？？
+  ruby: '-'
+  typeText: ''
+- id: 503
+  name: ''
+  ruby: '-'
+  typeText: ''
+- id: 504
+  name: 转华的微笑
+  ruby: '-'
+  typeText: ''
+- id: 505
+  name: 虐刑执行
+  ruby: '-'
+  typeText: ''
+- id: 506
+  name: 摔打
+  ruby: '-'
+  typeText: ''
+- id: 507
+  name: 蚀毒之气息
+  ruby: '-'
+  typeText: ''
+- id: 509
+  name: 霜枯吐息
+  ruby: '-'
+  typeText: ''
+- id: 510
+  name: 恍惚之闪耀
+  ruby: '-'
+  typeText: ''
+- id: 513
+  name: 烧却式 菲尼克斯
+  ruby: 烧却式 菲尼克斯
+  typeText: ''
+- id: 514
+  name: 献祭
+  ruby: '-'
+  typeText: ''
+- id: 515
+  name: 烧却式 菲尼克斯
+  ruby: 烧却式 菲尼克斯
+  typeText: ''
+- id: 516
+  name: 俄里翁扣杀
+  ruby: '-'
+  typeText: ''
+- id: 517
+  name: 自暴自弃
+  ruby: '-'
+  typeText: ''
+- id: 518
+  name: 逮捕
+  ruby: '-'
+  typeText: ''
+- id: 519
+  name: 天鸣神殿古伽拉伊南娜
+  ruby: '-'
+  typeText: ''
+- id: 520
+  name: 唐竹劈
+  ruby: '-'
+  typeText: ''
+- id: 521
+  name: 大难灾祸
+  ruby: '-'
+  typeText: ''
+- id: 522
+  name: 凶祸之吐息
+  ruby: '-'
+  typeText: ''
+- id: 523
+  name: 不净之手
+  ruby: '-'
+  typeText: ''
+- id: 524
+  name: 骸骨烧
+  ruby: '-'
+  typeText: ''
+- id: 525
+  name: 猖獗怒涛
+  ruby: '-'
+  typeText: ''
+- id: 526
+  name: 南瓜视线
+  ruby: '-'
+  typeText: ''
+- id: 527
+  name: 吓人一跳
+  ruby: '-'
+  typeText: ''
+- id: 528
+  name: 废铁敲打
+  ruby: '-'
+  typeText: ''
+- id: 529
+  name: 废铁捞取
+  ruby: '-'
+  typeText: ''
+- id: 530
+  name: 废铁射击
+  ruby: '-'
+  typeText: ''
+- id: 531
+  name: 金属斩击
+  ruby: '-'
+  typeText: ''
+- id: 532
+  name: 金属射击
+  ruby: '-'
+  typeText: ''
+- id: 533
+  name: 金属轰炸
+  ruby: '-'
+  typeText: ''
+- id: 534
+  name: 砍伐
+  ruby: '-'
+  typeText: ''
+- id: 535
+  name: 砍伐
+  ruby: '-'
+  typeText: ''
+- id: 536
+  name: 砍伐
+  ruby: '-'
+  typeText: ''
+- id: 537
+  name: 男神的对话
+  ruby: '-'
+  typeText: ''
+- id: 538
+  name: 百倍兴致高昂
+  ruby: '-'
+  typeText: ''
+- id: 539
+  name: 百倍兴致高昂
+  ruby: '-'
+  typeText: ''
+- id: 540
+  name: 百倍兴致高昂
+  ruby: '-'
+  typeText: ''
+- id: 541
+  name: 贪噬
+  ruby: '-'
+  typeText: ''
+- id: 542
+  name: 啃噬
+  ruby: '-'
+  typeText: ''
+- id: 543
+  name: 咬噬
+  ruby: '-'
+  typeText: ''
+- id: 544
+  name: 吞噬
+  ruby: '-'
+  typeText: ''
+- id: 545
+  name: 审判
+  ruby: '-'
+  typeText: ''
+- id: 546
+  name: 碾碎砸烂
+  ruby: '-'
+  typeText: ''
+- id: 547
+  name: 异彩的闪光
+  ruby: '-'
+  typeText: ''
+- id: 548
+  name: 烧却式 劳姆
+  ruby: '-'
+  typeText: ''
+- id: 549
+  name: 举手击掌
+  ruby: '-'
+  typeText: ''
+- id: 550
+  name: 夏日热病
+  ruby: '-'
+  typeText: ''
+- id: 551
+  name: 烙印之怨念
+  ruby: '-'
+  typeText: ''
+- id: 552
+  name: ''
+  ruby: '-'
+  typeText: ''
+- id: 553
+  name: “弃教者啊，接受惩罚吧”
+  ruby: '-'
+  typeText: ''
+- id: 554
+  name: ''
+  ruby: '-'
+  typeText: ''
+- id: 555
+  name: 光晕
+  ruby: '-'
+  typeText: ''
+- id: 556
+  name: 万古不变的迷宫
+  ruby: ''
+  typeText: ''
+- id: 557
+  name: 万古不变的迷宫·邪
+  ruby: ''
+  typeText: ''
+- id: 558
+  name: 撕咬
+  ruby: '-'
+  typeText: ''
+- id: 559
+  name: 诱导射击
+  ruby: '-'
+  typeText: ''
+- id: 560
+  name: 致命射击
+  ruby: '-'
+  typeText: ''
+- id: 561
+  name: 介电崩溃
+  ruby: '-'
+  typeText: ''
+- id: 562
+  name: 冰枪
+  ruby: '-'
+  typeText: ''
+- id: 563
+  name: 雪崩头刺击
+  ruby: '-'
+  typeText: ''
+- id: 564
+  name: 毁灭模式
+  ruby: '-'
+  typeText: ''
+- id: 565
+  name: 千界树之眩光
+  ruby: '-'
+  typeText: ''
+- id: 566
+  name: 内燃式魔导炮
+  ruby: '-'
+  typeText: ''
+- id: 567
+  name: 炉心失控
+  ruby: '-'
+  typeText: ''
+- id: 569
+  name: 最终本能寺冲击再装载
+  ruby: '-'
+  typeText: ''
+- id: 570
+  name: Nobubu胜利之剑
+  ruby: '-'
+  typeText: ''
+- id: 571
+  name: Nobunobu限Nobunbu制
+  ruby: '-'
+  typeText: ''
+- id: 572
+  name: Nobu死棘之枪
+  ruby: '-'
+  typeText: ''
+- id: 573
+  name: Nobunobu之缰绳
+  ruby: '-'
+  typeText: ''
+- id: 574
+  name: Nobu式·灰之新娘
+  ruby: '-'
+  typeText: ''
+- id: 575
+  name: Nobu心音
+  ruby: '-'
+  typeText: ''
+- id: 576
+  name: 射杀百Nobus
+  ruby: '-'
+  typeText: ''
+- id: 577
+  name: 巨石坠落
+  ruby: '-'
+  typeText: ''
+- id: 578
+  name: 巨岩坠落
+  ruby: '-'
+  typeText: ''
+- id: 579
+  name: 熔岩坠落
+  ruby: '-'
+  typeText: ''
+- id: 580
+  name: 空袭8-U
+  ruby: '-'
+  typeText: ''
+- id: 581
+  name: 坍缩星
+  ruby: '-'
+  typeText: ''
+- id: 582
+  name: ''
+  ruby: '-'
+  typeText: ''
+- id: 583
+  name: 耀冠太阳吧，炎之剑
+  ruby: Loptr Lægjarn
+  typeText: ''
+- id: 584
+  name: 神威执行
+  ruby: '-'
+  typeText: ''
+- id: 585
+  name: 乱挠
+  ruby: '-'
+  typeText: ''
+- id: 586
+  name: 极寒阵风
+  ruby: '-'
+  typeText: ''
+- id: 587
+  name: 无用的表演
+  ruby: '-'
+  typeText: ''
+- id: 588
+  name: 杀人音波
+  ruby: '-'
+  typeText: ''
+- id: 589
+  name: 杀人超音波
+  ruby: '-'
+  typeText: ''
+- id: 590
+  name: 蓝屏
+  ruby: '-'
+  typeText: ''
+- id: 591
+  name: 烧却式·鲁鲁夏威
+  ruby: '-'
+  typeText: ''
+- id: 592
+  name: 队列整理
+  ruby: '-'
+  typeText: ''
+- id: 593
+  name: 处理客人
+  ruby: '-'
+  typeText: ''
+- id: 594
+  name: 请跟我来一趟办公室
+  ruby: '-'
+  typeText: ''
+- id: 595
+  name: 请服从工作人员的指示
+  ruby: '-'
+  typeText: ''
+- id: 596
+  name: 请不要自带便当入内
+  ruby: '-'
+  typeText: ''
+- id: 597
+  name: 矿尘爆炎
+  ruby: '-'
+  typeText: ''
+- id: 598
+  name: 村滴滴国滴滴
+  ruby: '-'
+  typeText: ''
+- id: 599
+  name: 大缠崩捶
+  ruby: '-'
+  typeText: ''
+- id: 600
+  name: 破罐子破摔
+  ruby: '-'
+  typeText: ''
+- id: 601
+  name: 点燃之型
+  ruby: '-'
+  typeText: ''
+- id: 602
+  name: 趁火打劫
+  ruby: '-'
+  typeText: ''
+- id: 603
+  name: 赤色光晕
+  ruby: '-'
+  typeText: ''
+- id: 604
+  name: 匐地之雷
+  ruby: '-'
+  typeText: ''
+- id: 605
+  name: 灾祸
+  ruby: '-'
+  typeText: ''
+- id: 606
+  name: 唔——叽唔叽叽
+  ruby: '-'
+  typeText: ''
+- id: 607
+  name: 唔叽——唔叽——
+  ruby: '-'
+  typeText: ''
+- id: 608
+  name: 唔——叽呀唔叽呀
+  ruby: '-'
+  typeText: ''
+- id: 609
+  name: 叽——唔叽叽
+  ruby: '-'
+  typeText: ''
+- id: 610
+  name: 恸哭之句
+  ruby: '-'
+  typeText: ''
+- id: 611
+  name: 怨恨之句
+  ruby: '-'
+  typeText: ''
+- id: 612
+  name: 偏爱之句
+  ruby: '-'
+  typeText: ''
+- id: 613
+  name: 终结之句
+  ruby: '-'
+  typeText: ''
+- id: 614
+  name: 宴席表演
+  ruby: '-'
+  typeText: ''
+- id: 615
+  name: 圆熟表演
+  ruby: '-'
+  typeText: ''
+- id: 616
+  name: 送去黄泉
+  ruby: '-'
+  typeText: ''
+- id: 617
+  name: 钉头刺击
+  ruby: '-'
+  typeText: ''
+- id: 618
+  name: 记忆溢出
+  ruby: '-'
+  typeText: ''
+- id: 619
+  name: 倾覆
+  ruby: '-'
+  typeText: ''
+- id: 620
+  name: 高速涡轮
+  ruby: '-'
+  typeText: ''
+- id: 621
+  name: 贴面舞
+  ruby: '-'
+  typeText: ''
+- id: 622
+  name: 水分补充
+  ruby: '-'
+  typeText: ''
+- id: 623
+  name: 蒸发
+  ruby: '-'
+  typeText: ''
+- id: 624
+  name: ''
+  ruby: '-'
+  typeText: ''
+- id: 625
+  name: 爬行之奸恶
+  ruby: '-'
+  typeText: ''
+- id: 626
+  name: 搓行之奸恶
+  ruby: '-'
+  typeText: ''
+- id: 627
+  name: 灿烂之业炎
+  ruby: '-'
+  typeText: ''
+- id: 628
+  name: 空虚之乱击
+  ruby: '-'
+  typeText: ''
+- id: 629
+  name: 华美之角
+  ruby: '-'
+  typeText: ''
+- id: 630
+  name: 玲珑之闪光
+  ruby: '-'
+  typeText: ''
+- id: 631
+  name: 清廉之爪
+  ruby: '-'
+  typeText: ''
+- id: 632
+  name: 圣净之吐息
+  ruby: '-'
+  typeText: ''
+- id: 633
+  name: 星辰爆发
+  ruby: '-'
+  typeText: ''
+- id: 634
+  name: 「大家都要和睦地成为情侣！」
+  ruby: '-'
+  typeText: ''
+- id: 635
+  name: 巨大的成功
+  ruby: '-'
+  typeText: ''
+- id: 636
+  name: 麦克斯韦方程组
+  ruby: '-'
+  typeText: ''
+- id: 637
+  name: 内燃式净化炮
+  ruby: '-'
+  typeText: ''
+- id: 638
+  name: 石灯笼斩
+  ruby: '-'
+  typeText: ''
+- id: 639
+  name: Nobu'n' Roll Forever！
+  ruby: '-'
+  typeText: ''
+- id: 640
+  name: ''
+  ruby: ''
+  typeText: 无
+- id: 641
+  name: Nobu'n' Roll！
+  ruby: '-'
+  typeText: ''
+- id: 642
+  name: 最终本能寺冲击再装载永恒版
+  ruby: '-'
+  typeText: ''
+- id: 643
+  name: 炉心失控
+  ruby: '-'
+  typeText: ''
+- id: 644
+  name: 命运之轮
+  ruby: '-'
+  typeText: ''
+- id: 645
+  name: 极致吐息
+  ruby: '-'
+  typeText: ''
+- id: 646
+  name: 腐食的吐息
+  ruby: '-'
+  typeText: ''
+- id: 647
+  name: 侵蚀闪电
+  ruby: '-'
+  typeText: ''
+- id: 648
+  name: 冥府的业火
+  ruby: '-'
+  typeText: ''
+- id: 649
+  name: 湮灭
+  ruby: '-'
+  typeText: ''
+- id: 650
+  name: 被祝福的剑击
+  ruby: '-'
+  typeText: ''
+- id: 651
+  name: 被祝福的打击
+  ruby: '-'
+  typeText: ''
+- id: 652
+  name: 被祝福的斩击
+  ruby: '-'
+  typeText: ''
+- id: 653
+  name: 灵液炮
+  ruby: '-'
+  typeText: ''
+- id: 654
+  name: 三叉戟海洋光线
+  ruby: '-'
+  typeText: ''
+- id: 655
+  name: ''
+  ruby: '-'
+  typeText: ''
+- id: 656
+  name: 冥府的业火
+  ruby: '-'
+  typeText: ''
+- id: 657
+  name: 汝乃紊乱星辰之情欲
+  ruby: '-'
+  typeText: ''
+- id: 658
+  name: 汝乃躬耕星辰之丰饶
+  ruby: '-'
+  typeText: ''
+- id: 659
+  name: 吾乃撕裂星辰之雷霆
+  ruby: '-'
+  typeText: ''
+- id: 661
+  name: '[FF0000]凶星'
+  ruby: '-'
+  typeText: ''
+- id: 662
+  name: 神罚之剑
+  ruby: '-'
+  typeText: ''
+- id: 663
+  name: 根绝
+  ruby: '-'
+  typeText: ''
+- id: 664
+  name: 『无名草子』
+  ruby: '-'
+  typeText: ''
+- id: 665
+  name: 对智慧生命体歼灭机构（闪电）
+  ruby: '-'
+  typeText: ''
+- id: 666
+  name: 对智慧生命体歼灭机构（雷鸣）
+  ruby: '-'
+  typeText: ''
+- id: 667
+  name: 强行挖掘
+  ruby: '-'
+  typeText: ''
+- id: 668
+  name: 惊喜攻击
+  ruby: '-'
+  typeText: ''
+- id: 669
+  name: 死之旅途
+  ruby: '-'
+  typeText: ''
+- id: 670
+  name: 凶刃
+  ruby: '-'
+  typeText: ''
+- id: 671
+  name: 愤怒的太拉信粒子炮
+  ruby: '-'
+  typeText: ''
+- id: 672
+  name: 悲哀的极致太拉信炮
+  ruby: '-'
+  typeText: ''
+- id: 673
+  name: 地狱的桶狭间光线——！
+  ruby: '-'
+  typeText: ''
+- id: 674
+  name: 信粒子炮
+  ruby: '-'
+  typeText: ''
+- id: 675
+  name: 信粒子炮β
+  ruby: '-'
+  typeText: ''
+- id: 676
+  name: 信粒子炮α
+  ruby: '-'
+  typeText: ''
+- id: 677
+  name: 飞空闪
+  ruby: '-'
+  typeText: ''
+- id: 678
+  name: 尽忠报国之刃
+  ruby: '-'
+  typeText: ''
+- id: 679
+  name: 奇袭（未观测）
+  ruby: '-'
+  typeText: ''
+- id: 680
+  name: 大漩涡
+  ruby: '-'
+  typeText: ''
+- id: 681
+  name: 花之呢喃
+  ruby: '-'
+  typeText: ''
+- id: 682
+  name: 刚煮好拳
+  ruby: '-'
+  typeText: ''
+- id: 683
+  name: 美味大米粒子炮
+  ruby: '-'
+  typeText: ''
+- id: 684
+  name: 怨之猛击
+  ruby: '-'
+  typeText: ''
+- id: 685
+  name: 怨之岚击
+  ruby: '-'
+  typeText: ''
+- id: 686
+  name: 八热地狱遍历
+  ruby: '-'
+  typeText: ''
+- id: 687
+  name: 落实爆破
+  ruby: '-'
+  typeText: ''
+- id: 688
+  name: 烧尽
+  ruby: '-'
+  typeText: ''
+- id: 689
+  name: 虎威趋炎
+  ruby: '-'
+  typeText: ''
+- id: 698
+  name: 陷入沉睡之人
+  ruby: '-'
+  typeText: ''
+- id: 699
+  name: 雷击发动
+  ruby: '-'
+  typeText: ''
+- id: 700
+  name: 魔力大失控
+  ruby: '-'
+  typeText: ''
+- id: 701
+  name: 刺痛吐息
+  ruby: '-'
+  typeText: ''
+- id: 702
+  name: 粘稠吐息
+  ruby: '-'
+  typeText: ''
+- id: 703
+  name: 灼烧吐息
+  ruby: '-'
+  typeText: ''
+- id: 704
+  name: 镰风
+  ruby: '-'
+  typeText: ''
+- id: 705
+  name: 卡莲爱之突击
+  ruby: '-'
+  typeText: ''
+- id: 706
+  name: 炎立憎恨的荒野
+  ruby: '-'
+  typeText: ''
+- id: 707
+  name: 模仿编舞
+  ruby: '-'
+  typeText: ''
+- id: 708
+  name: 欢迎光临，主人
+  ruby: '-'
+  typeText: ''
+- id: 709
+  name: 握手会
+  ruby: '-'
+  typeText: ''
+- id: 710
+  name: “谢谢大家”
+  ruby: '-'
+  typeText: ''
+- id: 711
+  name: 制裁的斧枪
+  ruby: '-'
+  typeText: ''
+- id: 712
+  name: 揪住
+  ruby: '-'
+  typeText: ''
+- id: 713
+  name: 抱住
+  ruby: '-'
+  typeText: ''
+- id: 714
+  name: 奔流
+  ruby: '-'
+  typeText: ''
+- id: 715
+  name: 空洞之心阿尔比恩
+  ruby: '-'
+  typeText: ''
+- id: 716
+  name: “请不要走”
+  ruby: '-'
+  typeText: ''
+- id: 717
+  name: “来啊”
+  ruby: '-'
+  typeText: ''
+- id: 718
+  name: 噬雷的巴格斯特
+  ruby: '-'
+  typeText: ''
+- id: 719
+  name: 碎肋骨
+  ruby: '-'
+  typeText: ''
+- id: 720
+  name: “报复”
+  ruby: '-'
+  typeText: ''
+- id: 721
+  name: 拽住
+  ruby: '-'
+  typeText: ''
+- id: 722
+  name: 巧克力独占导弹
+  ruby: '-'
+  typeText: ''
+- id: 723
+  name: 自爆
+  ruby: '-'
+  typeText: ''
+- id: 724
+  name: 排除
+  ruby: '-'
+  typeText: ''
+- id: 725
+  name: '[FF0000]雷天日光・禍音星落火流錘'
+  ruby: らいてんにっこう・まがねぼしらっかりゅうすい
+  typeText: ''
+- id: 726
+  name: アサルトフォーム
+  ruby: '-'
+  typeText: ''
+- id: 727
+  name: スローターフォーム
+  ruby: '-'
+  typeText: ''
+- id: 728
+  name: 品尝这哥伦布之卵吧
+  ruby: '-'
+  typeText: ''
+- id: 729
+  name: 鲨鲨泵
+  ruby: '-'
+  typeText: ''
+- id: 730
+  name: 噬妖精
+  ruby: '-'
+  typeText: ''
+- id: 731
+  name: 吞下
+  ruby: '-'
+  typeText: ''
+- id: 732
+  name: 狂奏曲 安度西亚斯
+  ruby: '-'
+  typeText: ''
+- id: 733
+  name: 泪之河
+  ruby: '-'
+  typeText: ''
+- id: 734
+  name: 闪耀的成功
+  ruby: '-'
+  typeText: ''
+- id: 735
+  name: 消灭
+  ruby: '-'
+  typeText: ''
+- id: 736
+  name: 玻璃的光辉
+  ruby: '-'
+  typeText: ''
+- id: 737
+  name: 大强震
+  ruby: '-'
+  typeText: ''
+- id: 738
+  name: 诱向堕落
+  ruby: '-'
+  typeText: ''
+- id: 739
+  name: 奇神荒覇吐
+  ruby: '-'
+  typeText: ''
+- id: 740
+  name: チェエエエストォオオオオオッ！！！！
+  ruby: '-'
+  typeText: ''
+- id: 741
+  name: 高杉式維新砲
+  ruby: '-'
+  typeText: ''
+- id: 742
+  name: ア－ツモリストロング砲
+  ruby: '-'
+  typeText: ''
+- id: 743
+  name: 存在的证明
+  ruby: '-'
+  typeText: ''
+- id: 744
+  name: カロリー・ボンバー
+  ruby: '-'
+  typeText: ''
+- id: 745
+  name: 奇神荒覇吐・改
+  ruby: '-'
+  typeText: ''
+- id: 746
+  name: 戦国維新砲
+  ruby: '-'
+  typeText: ''
+- id: 747
+  name: 奇神天逆神
+  ruby: '-'
+  typeText: ''
+- id: 760
+  name: ブイヨン・ド・レギューム
+  ruby: '-'
+  typeText: ''
+- id: 761
+  name: 味わえ とっても美味しい卵を
+  ruby: '-'
+  typeText: ''
+- id: 100101
+  name: 誓约胜利之剑
+  ruby: Excalibur
+  typeText: 对城宝具
+- id: 100102
+  name: 誓约胜利之剑
+  ruby: Excalibur
+  typeText: 对城宝具
+- id: 100201
+  name: 誓约胜利之剑
+  ruby: Excalibur Morgan
+  typeText: 对城宝具
+- id: 100301
+  name: 必胜黄金之剑
+  ruby: Caliburn
+  typeText: 对人宝具
+- id: 100302
+  name: 必胜黄金之剑
+  ruby: Caliburn
+  typeText: 对人宝具
+- id: 100501
+  name: 童女讴歌的荣华帝政
+  ruby: Laus Saint Claudius
+  typeText: 对阵宝具
+- id: 100502
+  name: 童女讴歌的荣华帝政
+  ruby: Laus Saint Claudius
+  typeText: 对阵宝具
+- id: 100601
+  name: 星辰驰骋的终幕蔷薇
+  ruby: Fax Caelestis
+  typeText: 对人宝具
+- id: 100602
+  name: 星辰驰骋的终幕蔷薇
+  ruby: Fax Caelestis
+  typeText: 对人宝具
+- id: 100701
+  name: 轮转胜利之剑
+  ruby: Excalibur Galatine
+  typeText: 对军宝具
+- id: 100798
+  name: 轮转胜利之剑
+  ruby: Excalibur Galatine
+  typeText: 对军宝具
+- id: 100801
+  name: 幻想大剑·天魔失坠
+  ruby: Balmung
+  typeText: 对军宝具
+- id: 100802
+  name: 幻想大剑·天魔失坠
+  ruby: Balmung
+  typeText: 对军宝具
+- id: 100901
+  name: 对吾华丽父王的叛逆
+  ruby: Clarent Blood Arthur
+  typeText: 对军宝具
+- id: 100902
+  name: 对吾华丽父王的叛逆
+  ruby: Clarent Blood Arthur
+  typeText: 对军宝具
+- id: 101001
+  name: 鲜血龙卷魔女
+  ruby: Bathory Brave Erzsebet
+  typeText: 对人宝具
+- id: 101201
+  name: 紧握其剑，银之臂
+  ruby: Switch On Agateram
+  typeText: 对人宝具
+- id: 101202
+  name: 紧握其剑，银之臂
+  ruby: Switch On Agateram
+  typeText: 对人宝具
+- id: 101301
+  name: 黄之死
+  ruby: Crocea Mors
+  typeText: 对人宝具
+- id: 101302
+  name: 黄之死
+  ruby: Crocea Mors
+  typeText: 对人宝具
+- id: 101401
+  name: 虹霓剑
+  ruby: Caladbolg
+  typeText: 对军宝具
+- id: 101402
+  name: 虹霓剑
+  ruby: Caladbolg
+  typeText: 对军宝具
+- id: 101701
+  name: 六道五轮·俱利伽罗天象
+  ruby: Rikudougorin Kurikaratenshou
+  typeText: 对人宝具
+- id: 101702
+  name: 六道五轮·俱利伽罗天象
+  ruby: Rikudougorin Kurikaratenshou
+  typeText: 对人宝具
+- id: 101703
+  name: 六道五轮·俱利伽罗天象
+  ruby: Rikudougorin Kurikaratenshou
+  typeText: 对人宝具
+- id: 101801
+  name: 军神之剑
+  ruby: Photon Ray
+  typeText: 对军宝具
+- id: 101802
+  name: 军神之剑
+  ruby: Photon Ray
+  typeText: 对军宝具
+- id: 101901
+  name: 穿透罗刹之不灭
+  ruby: Brahmastra
+  typeText: 对魔宝具
+- id: 101902
+  name: 穿透罗刹之不灭
+  ruby: Brahmastra
+  typeText: 对魔宝具
+- id: 102001
+  name: 缚锁全断·过重湖光
+  ruby: Aroundight Overload
+  typeText: 对军宝具
+- id: 102201
+  name: 集结于圣旗之下怒吼吧
+  ruby: Saint War Order
+  typeText: 对人宝具
+- id: 102601
+  name: 百合花开豪华绚烂
+  ruby: Fleur de Lys
+  typeText: 对军宝具
+- id: 102602
+  name: 百合花开豪华绚烂
+  ruby: Fleur de Lys
+  typeText: 对军宝具
+- id: 102701
+  name: 无明三段突
+  ruby: Mumyo Sandan Zuki
+  typeText: 对人魔剑
+- id: 102801
+  name: 无垢识·空之境界
+  ruby: Mukushiki Kara no Kyoukai
+  typeText: 对人宝具
+- id: 102802
+  name: 无垢识·空之境界
+  ruby: Mukushiki Kara no Kyoukai
+  typeText: 对人宝具
+- id: 102901
+  name: 誓约胜利之剑
+  ruby: Excalibur
+  typeText: ？？？
+- id: 103001
+  name: 天鬼雨
+  ruby: Tenkiame
+  typeText: 对军宝具
+- id: 103002
+  name: 天鬼雨
+  ruby: Tenkiame
+  typeText: 对军宝具
+- id: 103101
+  name: 穿刺之雷刃
+  ruby: Skewered Plasma Blade
+  typeText: 对人宝具
+- id: 103201
+  name: 剑术无双·剑禅一如
+  ruby: Kenjutsumusou Kenzenichinyo
+  typeText: 对人奥义
+- id: 103301
+  name: 坏劫之天轮
+  ruby: Bolverk Gram
+  typeText: 对城宝具
+- id: 103302
+  name: 坏劫之天轮
+  ruby: Bolverk Gram
+  typeText: 对城宝具
+- id: 103401
+  name: 心爱的夏日幽会
+  ruby: One Shot My Love
+  typeText: 对人宝具
+- id: 103501
+  name: 愤怒的波涛
+  ruby: Mor-alltach
+  typeText: 对人宝具
+- id: 103601
+  name: 兰陵王入阵曲
+  ruby: 骁勇无畏披面者，音容兼美陵王也
+  typeText: 对军宝具（自阵）
+- id: 103701
+  name: 十王判决·葛笼纪行
+  ruby: Jyuuou Hanketsu Tsuzura no Michiyuki
+  typeText: 对人宝具
+- id: 103801
+  name: 撕裂天际的光辉之船
+  ruby: Astrapste Argo
+  typeText: 对军宝具
+- id: 103901
+  name: 不容侵夺之拒绝王国
+  ruby: Nahi Doongi
+  typeText: 对军宝具
+- id: 104001
+  name: 诸国瀑布揽胜
+  ruby: Shokoku Takimeguri
+  typeText: 对人宝具
+- id: 104101
+  name: 侥幸的拘捕网
+  ruby: Vulcano Caligorante
+  typeText: 对人宝具
+- id: 104201
+  name: 双神赞歌
+  ruby: Dioscures Tyndaridae
+  typeText: 对人宝具
+- id: 104401
+  name: 无形
+  ruby: Mugyou
+  typeText: 对人魔剑
+- id: 104501
+  name: VR新阴流奥义·巴渊太阳剑
+  ruby: VR Shinkageryuu Ougi Tomoegafuchi Taiyouken
+  typeText: 对军宝具
+- id: 104601
+  name: 神剑·草那艺之大刀
+  ruby: Shinken Kusanaginotachi
+  typeText: 对军／对城宝具
+- id: 104701
+  name: 大江山·菩提鬼杀
+  ruby: Ooeyama Bodaikisatsu
+  typeText: 对鬼宝具
+- id: 104801
+  name: 圣人连续拳
+  ruby: Winning Arkaputra
+  typeText: 对人宝具
+- id: 104901
+  name: 无元剑制
+  ruby: 都牟刈村正
+  typeText: 对人宝具
+- id: 105001
+  name: 捕食日轮之角
+  ruby: Blackdog Galatine
+  typeText: 对军宝具
+- id: 105101
+  name: 绝剑·无穹一闪
+  ruby: Zekken Mukyuu Issen
+  typeText: 对界宝具
+- id: 200101
+  name: 无限剑制
+  ruby: Unlimited Blade Works
+  typeText: ？？？？
+- id: 200102
+  name: 无限剑制
+  ruby: Unlimited Blade Works
+  typeText: ？？？？
+- id: 200197
+  name: 无限剑制
+  ruby: Unlimited Blade Works
+  typeText: ？？？？
+- id: 200198
+  name: 无限剑制
+  ruby: Unlimited Blade Works
+  typeText: ？？？？
+- id: 200201
+  name: 天地乖离开辟之星
+  ruby: Enuma Elish
+  typeText: 对界宝具
+- id: 200202
+  name: 天地乖离开辟之星
+  ruby: Enuma Elish
+  typeText: 对界宝具
+- id: 200301
+  name: 祈祷之弓
+  ruby: Yew Bow
+  typeText: 对人宝具
+- id: 200501
+  name: 诉状箭书
+  ruby: Phoebus Catastrophe
+  typeText: 对军宝具
+- id: 200502
+  name: 诉状箭书
+  ruby: Phoebus Catastrophe
+  typeText: 对军宝具
+- id: 200601
+  name: 五块石头
+  ruby: Hamesh Avanim
+  typeText: 对人宝具
+- id: 200602
+  name: 五块石头
+  ruby: Hamesh Avanim
+  typeText: 对人宝具
+- id: 200801
+  name: 痛哭幻奏
+  ruby: Failnaught
+  typeText: 对军宝具
+- id: 200802
+  name: 痛哭幻奏
+  ruby: Failnaught
+  typeText: 对军宝具
+- id: 200901
+  name: 月女神的爱箭恋矢
+  ruby: Tri-star Amore Mio
+  typeText: 对人宝具
+- id: 200902
+  name: 月女神的爱箭恋矢
+  ruby: Tri-star Amore Mio
+  typeText: 对人宝具
+- id: 201001
+  name: 坏音霹雳
+  ruby: Thunderer
+  typeText: 对人宝具
+- id: 201002
+  name: 坏音霹雳
+  ruby: Thunderer
+  typeText: 对人宝具
+- id: 201101
+  name: 人类神话·雷电降临
+  ruby: System Keraunos
+  typeText: 对城宝具
+- id: 201102
+  name: 人类神话·雷电降临
+  ruby: System Keraunos
+  typeText: 对城宝具
+- id: 201201
+  name: 女神的视线
+  ruby: Eye of the Euryale
+  typeText: 对人宝具
+- id: 201202
+  name: 女神的视线
+  ruby: Eye of the Euryale
+  typeText: 对人宝具
+- id: 201301
+  name: 流星一条
+  ruby: Stella
+  typeText: 对军宝具
+- id: 201302
+  name: 流星一条
+  ruby: Stella
+  typeText: 对军宝具
+- id: 201401
+  name: 八幡祈愿·大妖射贯
+  ruby: 南无八幡大菩萨·请赐予此箭矢加持
+  typeText: 对人宝具
+- id: 201402
+  name: 八幡祈愿·大妖射贯
+  ruby: 南无八幡大菩萨·请赐予此箭矢加持
+  typeText: 对人宝具
+- id: 201501
+  name: 破坏神之手影
+  ruby: Pashupata
+  typeText: 对人宝具
+- id: 201502
+  name: 破坏神之手影
+  ruby: Pashupata
+  typeText: 对人宝具
+- id: 201601
+  name: 无限剑制
+  ruby: Unlimited Lost Works
+  typeText: 对人宝具
+- id: 201602
+  name: 无限剑制
+  ruby: Unlimited Lost Works
+  typeText: 对人宝具
+- id: 201801
+  name: 王之财宝
+  ruby: Gate of Babylon
+  typeText: 对人宝具
+- id: 201802
+  name: 王之财宝
+  ruby: Gate of Babylon
+  typeText: 对人宝具
+- id: 202001
+  name: 山脉震撼明星之薪
+  ruby: An Gal Ta Kigal She
+  typeText: 对山宝具
+- id: 202002
+  name: 山脉震撼明星之薪
+  ruby: An Gal Ta Kigal She
+  typeText: 对山宝具
+- id: 202098
+  name: ？？？
+  ruby: ？？？
+  typeText: 不明
+- id: 202100
+  name: ？？？
+  ruby: ''
+  typeText: ？？？
+- id: 202101
+  name: 真言·圣观世音菩萨
+  ruby: Om Alolik Svaha
+  typeText: 对人宝具
+- id: 202102
+  name: ？？？
+  ruby: ''
+  typeText: ？？？
+- id: 202103
+  name: 真言·圣观世音菩萨
+  ruby: Om Alolik Svaha
+  typeText: 对人宝具
+- id: 202201
+  name: 圣夜之虹，军神之剑
+  ruby: Candy Star Photon Ray
+  typeText: 对界宝具
+- id: 202300
+  name: ？？？
+  ruby: ''
+  typeText: 对军宝具
+- id: 202301
+  name: 终极犯罪
+  ruby: The Dynamics of an Asteroid
+  typeText: 对军宝具
+- id: 202401
+  name: 三千世界
+  ruby: 三段击
+  typeText: 对军宝具
+- id: 202501
+  name: 比翼连理
+  ruby: Caribbean Free Bird Act2
+  typeText: 对人宝具
+- id: 202601
+  name: 阳光璀璨胜利之剑
+  ruby: Excalibur Vivian
+  typeText: 对人宝具
+- id: 202701
+  name: 鹤翼三连
+  ruby: Kakuyoku Sanren
+  typeText: 对人宝具
+- id: 202801
+  name: 金星神·白银圆环
+  ruby: Sanat Kumara Wheel
+  typeText: 对军宝具
+- id: 202901
+  name: 唯识·歪曲之魔眼
+  ruby: Yuishiki Waikyoku no Magan
+  typeText: 对界宝具
+- id: 202902
+  name: 唯识·歪曲之魔眼
+  ruby: Yuishiki Waikyoku no Magan
+  typeText: 对界宝具
+- id: 203001
+  name: 天蝎一射
+  ruby: Antares Snipe
+  typeText: 对人宝具
+- id: 203002
+  name: 天蠍一射
+  ruby: アンタレス・スナイプ
+  typeText: 对人宝具
+- id: 203101
+  name: 高歌凯旋之虹弓
+  ruby: Arc de Triomphe de l'Etoile
+  typeText: 对军宝具
+- id: 203102
+  name: 高歌凯旋之虹弓
+  ruby: Arc de Triomphe de l'Etoile
+  typeText: 对军宝具
+- id: 203201
+  name: 丰收之海啊，伴随着喜悦
+  ruby: Des Oceans d'Allegresse
+  typeText: 对军宝具
+- id: 203301
+  name: 转轮啊，卷起愤怒之炎吧
+  ruby: Sudarshana Chakra Yamaraj
+  typeText: 对军宝具
+- id: 203401
+  name: 射出之信念一箭
+  ruby: Apfel Schiessen
+  typeText: 对人宝具
+- id: 203501
+  name: 闪耀的终天一箭
+  ruby: Troia Velos
+  typeText: 对人宝具
+- id: 203601
+  name: 白鹭城·千式MILIMILI午夜狂欢！
+  ruby: Hakurojyou Senshiki MILIMILI Night Fever
+  typeText: 对军宝具（一个大队）
+- id: 203701
+  name: 招致死亡的黑之一手
+  ruby: Space Dead Man's Hand
+  typeText: 对人宝具
+- id: 203801
+  name: 月女神的纯洁之爱
+  ruby: Artemis Agnos
+  typeText: 对军（自身）宝具
+- id: 203901
+  name: 天使在呐喊，恶魔消失于影中
+  ruby: Assault Medicine Full Burst Party
+  typeText: 对军宝具
+- id: 204001
+  name: 枕草子·春曙抄
+  ruby: Emotional Engine Full Drive
+  typeText: 诗歌宝具
+- id: 204101
+  name: 魔王回天·曼殊沙华
+  ruby: Maoukaiten Higanbana
+  typeText: 对人宝具
+- id: 204199
+  name: SAITAMAノッブランドのために！
+  ruby: ''
+  typeText: 无
+- id: 204201
+  name: 少女啊，化为彩虹吧
+  ruby: Prisma☆Splash Rainbow！
+  typeText: 对军宝具
+- id: 204301
+  name: 痛幻哭奏
+  ruby: Fetch Failnaught
+  typeText: 对人宝具
+- id: 204401
+  name: 雪夏，绚丽的雾凇之滴
+  ruby: Snegleta Snegurochka
+  typeText: 对人宝具
+- id: 204501
+  name: 粉碎吧，黄金的枷锁、黄金的耻辱
+  ruby: Authentic Triumph
+  typeText: 克己宝具
+- id: 300101
+  name: 穿刺死棘之枪
+  ruby: Gae Bolg
+  typeText: 对人宝具
+- id: 300102
+  name: 穿刺死棘之枪
+  ruby: Gae Bolg
+  typeText: 对人宝具
+- id: 300201
+  name: 破魔的红蔷薇、必灭的黄蔷薇
+  ruby: Gae Dearg＆Gae Buidhe
+  typeText: 对人宝具
+- id: 300202
+  name: 破魔的红蔷薇、必灭的黄蔷薇
+  ruby: Gae Dearg＆Gae Buidhe
+  typeText: 对人宝具
+- id: 300301
+  name: 串刺城塞
+  ruby: Kazikli Bey
+  typeText: 对军宝具
+- id: 300401
+  name: 日轮啊，顺从死亡
+  ruby: Vasavi Shakti
+  typeText: 对神宝具
+- id: 300402
+  name: 日轮啊，顺从死亡
+  ruby: Vasavi Shakti
+  typeText: 对神宝具
+- id: 300501
+  name: 鲜血魔女
+  ruby: Bathory Erzsebet
+  typeText: 对人宝具
+- id: 300502
+  name: 鲜血魔女
+  ruby: Bathory Erzsebet
+  typeText: 对人宝具
+- id: 300601
+  name: 五百罗汉补陀落渡海
+  ruby: Gohyaku Rakan Fudarakutokai
+  typeText: 对军宝具
+- id: 300602
+  name: 五百罗汉补陀落渡海
+  ruby: Gohyaku Rakan Fudarakutokai
+  typeText: 对军宝具
+- id: 300701
+  name: 贯穿之朱枪
+  ruby: Gae Bolg
+  typeText: 对人宝具
+- id: 300702
+  name: 贯穿之朱枪
+  ruby: Gae Bolg
+  typeText: 对人宝具
+- id: 300801
+  name: 世人啊，冀以锁系神明
+  ruby: Enuma Elish
+  typeText: 对肃正宝具
+- id: 300802
+  name: 世人啊，冀以锁系神明
+  ruby: Enuma Elish
+  typeText: 对肃正宝具
+- id: 300901
+  name: 炎门守护者
+  ruby: Thermopylae Enomotia
+  typeText: 对军宝具
+- id: 300999
+  name: 炎门守护者
+  ruby: Thermopylae Enomotia
+  typeText: 对军宝具
+- id: 301001
+  name: 吾枪通达万物
+  ruby: Magna Voluisse Magnum
+  typeText: 对军宝具
+- id: 301101
+  name: 无败紫靫草
+  ruby: Mac an Luin
+  typeText: 对军宝具
+- id: 301102
+  name: 无败紫靫草
+  ruby: Mac an Luin
+  typeText: 对军宝具
+- id: 301201
+  name: 直至死亡拆散两人
+  ruby: Brynhild Romantia
+  typeText: 对人宝具
+- id: 301202
+  name: 直至死亡拆散两人
+  ruby: Brynhild Romantia
+  typeText: 对人宝具
+- id: 301298
+  name: 直至死亡拆散两人
+  ruby: Brynhild Romantia
+  typeText: 对人宝具
+- id: 301301
+  name: 贯穿死翔之枪
+  ruby: Gae Bolg Alternative
+  typeText: 对人宝具
+- id: 301302
+  name: 贯穿死翔之枪
+  ruby: Gae Bolg Alternative
+  typeText: 对人宝具
+- id: 301401
+  name: 胧里月十一式
+  ruby: Oborourazuki Juichishiki
+  typeText: 对人宝具
+- id: 301601
+  name: 不毁的极枪
+  ruby: Durindana
+  typeText: 对军宝具
+- id: 301602
+  name: 不毁的极枪
+  ruby: Durindana
+  typeText: 对军宝具
+- id: 301701
+  name: 神枪无二打
+  ruby: Shinsou Nino Uchi Irazu
+  typeText: 对人宝具
+- id: 301702
+  name: 神枪无二打
+  ruby: Shinsou Nino Uchi Irazu
+  typeText: 对人宝具
+- id: 301901
+  name: 闪耀于终焉之枪
+  ruby: Rhongomyniad
+  typeText: 对城宝具
+- id: 301902
+  name: 闪耀于终焉之枪
+  ruby: Rhongomyniad
+  typeText: 对城宝具
+- id: 302001
+  name: 闪耀于终焉之枪
+  ruby: Rhongomyniad
+  typeText: 对城宝具
+- id: 302401
+  name: 常夏日光·遮阳伞宠爱一神
+  ruby: Tokonatsunikko Hiyokegasachouaiisshin
+  typeText: 对人宝具
+- id: 302501
+  name: 道成寺钟百八式火龙薙
+  ruby: Doujyoujikane Hyakuhachishikikaryuunagi
+  typeText: 对人宝具
+- id: 302601
+  name: 优雅歌唱吧，为那圣诞
+  ruby: La Grace Fille Noel
+  typeText: 对军宝具
+- id: 302701
+  name: 女神的拥抱
+  ruby: Caress of the Medusa
+  typeText: 对人宝具
+- id: 302702
+  name: 女神的拥抱
+  ruby: Caress of the Medusa
+  typeText: 对人宝具
+- id: 302801
+  name: 无可逃脱死亡钩爪
+  ruby: Great Death Claw
+  typeText: 对人宝具
+- id: 302901
+  name: 释提桓因·金刚杵
+  ruby: Shakudai Kan'in Kongousho
+  typeText: 对人宝具
+- id: 303001
+  name: 知恋不为，无爱也
+  ruby: Trishula Shakti
+  typeText: 对军宝具
+- id: 303101
+  name: 地飞爽灵 火尖枪
+  ruby: Chihisourei Kasensou
+  typeText: 对军宝具
+- id: 303102
+  name: 地飞爽灵 火尖枪
+  ruby: Chihisourei Kasensou
+  typeText: 对军宝具
+- id: 303201
+  name: 灵峰踏抱冥府之鞴
+  ruby: Kur Kigal Irkalla
+  typeText: 对山宝具
+- id: 303202
+  name: 灵峰踏抱冥府之鞴
+  ruby: Kur Kigal Irkalla
+  typeText: 对山宝具
+- id: 303301
+  name: 终末幻想·少女降临
+  ruby: Ragnarok Lifthrasir
+  typeText: 对军宝具
+- id: 303401
+  name: 愚神礼赞·一条归桥
+  ruby: Encomium Moriae
+  typeText: 对结界宝具／对军宝具
+- id: 303501
+  name: 朱帝四诗歌
+  ruby: 无欲而忠义之歌
+  typeText: 对人宝具（自身）
+- id: 303601
+  name: 炫目的闪光魔盾
+  ruby: Bouclier de Atlante
+  typeText: 对军宝具
+- id: 303801
+  name: 毗天八相车悬之阵
+  ruby: Bitenhassou Kurumagakari no Jin
+  typeText: 对人·对军宝具
+- id: 303901
+  name: 狂暴少女狼
+  ruby: Ira Lupus
+  typeText: 对人宝具
+- id: 304001
+  name: 这夏露如玻璃
+  ruby: Blue Summer Palladion
+  typeText: 对人宝具
+- id: 304099
+  name: 这夏露如玻璃
+  ruby: Blue Summer Palladion
+  typeText: 对人宝具
+- id: 304101
+  name: 飞翔吧，吾之金色大翼
+  ruby: Lapithai Caeneus
+  typeText: 对军宝具
+- id: 304201
+  name: 吾等之臂开拓一切，至天际
+  ruby: Per Aspera Ad Astra
+  typeText: 对星宝具
+- id: 304301
+  name: 天遡鉾
+  ruby: Amenosakahoko
+  typeText: 对灵宝具
+- id: 304401
+  name: 夏魔必灭枪舞
+  ruby: Anti-fling Rondo
+  typeText: 对军宝具
+- id: 304601
+  name: 魔啊，阻塞尽天地
+  ruby: Asurashreshtha
+  typeText: 对界宝具
+- id: 304701
+  name: 光耀的命运之枪
+  ruby: Longinus Count Zero
+  typeText: 对城宝具
+- id: 304801
+  name: 尚未知晓的无垢湖光
+  ruby: Innocence Aroundight
+  typeText: 对人宝具
+- id: 304802
+  name: 无人知晓的无垢搏动
+  ruby: Hollow Heart Albion
+  typeText: 对界宝具
+- id: 304898
+  name: ？？？
+  ruby: ？？？
+  typeText: 对界宝具
+- id: 305001
+  name: 君よ、綿津見の原を征け
+  ruby: りゅうよ、わだつみのはらをゆけ
+  typeText: 对军宝具
+- id: 400101
+  name: 骑英之缰绳
+  ruby: Bellerophon
+  typeText: 对军宝具
+- id: 400102
+  name: 骑英之缰绳
+  ruby: Bellerophon
+  typeText: 对军宝具
+- id: 400201
+  name: 王之军势
+  ruby: Ionioi Hetairoi
+  typeText: 对军宝具
+- id: 400202
+  name: 王之军势
+  ruby: Ionioi Hetairoi
+  typeText: 对军宝具
+- id: 400301
+  name: 黄金鹿与暴风夜
+  ruby: Golden Wild Hunt
+  typeText: 对军宝具
+- id: 400302
+  name: 黄金鹿与暴风夜
+  ruby: Golden Wild Hunt
+  typeText: 对军宝具
+- id: 400401
+  name: 非世间所存之幻马
+  ruby: Hippogriff
+  typeText: 对军宝具
+- id: 400402
+  name: 非世间所存之幻马
+  ruby: Hippogriff
+  typeText: 对军宝具
+- id: 400601
+  name: 刚力屠戮祝福之剑
+  ruby: Ascalon
+  typeText: 对人宝具
+- id: 400801
+  name: 安妮女王之复仇
+  ruby: Queen Anne's Revenge
+  typeText: 对军宝具
+- id: 400802
+  name: 安妮女王之复仇
+  ruby: Queen Anne's Revenge
+  typeText: 对军宝具
+- id: 400901
+  name: 比翼连理
+  ruby: Caribbean Free Bird
+  typeText: 对人宝具
+- id: 400902
+  name: 比翼连理
+  ruby: Caribbean Free Bird
+  typeText: 对人宝具
+- id: 401101
+  name: 无以誓约守护之车轮
+  ruby: Chariot of Boudica
+  typeText: 对军宝具
+- id: 401102
+  name: 无以誓约守护之车轮
+  ruby: Chariot of Boudica
+  typeText: 对军宝具
+- id: 401201
+  name: 光辉之大复合神殿
+  ruby: Ramesseum Tentyris
+  typeText: 对城宝具
+- id: 401202
+  name: 光辉之大复合神殿
+  ruby: Ramesseum Tentyris
+  typeText: 对城宝具
+- id: 401301
+  name: 我心爱的钢铁战车
+  ruby: Chariot My Love
+  typeText: 对军宝具
+- id: 401302
+  name: 我心爱的钢铁战车
+  ruby: Chariot My Love
+  typeText: 对军宝具
+- id: 401401
+  name: 坛之浦·八艘跳
+  ruby: Dan-no-ura Hasso Tobi
+  typeText: 对人奥义
+- id: 401402
+  name: 坛之浦·八艘跳
+  ruby: Dan-no-ura Hasso Tobi
+  typeText: 对人奥义
+- id: 401501
+  name: 初始的蹂躏制霸
+  ruby: Bucephalus
+  typeText: 对军宝具
+- id: 401502
+  name: 初始的蹂躏制霸
+  ruby: Bucephalus
+  typeText: 对军宝具
+- id: 401701
+  name: 愿百合王冠荣光永在
+  ruby: Guillotine Breaker
+  typeText: 对军宝具
+- id: 401702
+  name: 愿百合王冠荣光永在
+  ruby: Guillotine Breaker
+  typeText: 对军宝具
+- id: 401801
+  name: 炽焰，亦焚尽神灵
+  ruby: Xiuhcoatl
+  typeText: 对人·对城宝具
+- id: 401901
+  name: 不识爱的悲哀之龙啊
+  ruby: Tarasque
+  typeText: 对军宝具
+- id: 401902
+  name: 不识爱的悲哀之龙啊
+  ruby: Tarasque
+  typeText: 对军宝具
+- id: 402201
+  name: 誓约胜利之剑
+  ruby: Excalibur Morgan
+  typeText: 对城宝具
+- id: 402301
+  name: 夜狼死九·黄金疾走
+  ruby: Golden Drive Goodnight
+  typeText: 对军宝具
+- id: 402401
+  name: 掌控翻涌波涛王者心境！
+  ruby: Prydwen Tube Riding
+  typeText: 对波宝具
+- id: 402500
+  name: ？？？
+  ruby: ''
+  typeText: ？？？
+- id: 402501
+  name: 新天地探索航行
+  ruby: Santa Maria Drop Anchor
+  typeText: 对军宝具
+- id: 402502
+  name: 新天地探索航行
+  ruby: Santa Maria Drop Anchor
+  typeText: 对军宝具
+- id: 402503
+  name: ？？？
+  ruby: ''
+  typeText: ？？？
+- id: 402504
+  name: 新天地探索航行
+  ruby: Santa Maria Drop Anchor
+  typeText: 对军宝具
+- id: 402505
+  name: 新天地探索航行
+  ruby: Santa Maria Drop Anchor
+  typeText: 对军宝具
+- id: 402597
+  name: 「哈哈！ 自爆！」
+  ruby: ''
+  typeText: 无
+- id: 402598
+  name: ？？？
+  ruby: ？？？
+  typeText: 不明
+- id: 402601
+  name: 神峰天回明星之虹
+  ruby: An Gal Ta Seven Colors
+  typeText: 对人宝具
+- id: 402701
+  name: 不挠燃烧胜利之剑
+  ruby: Sequence Morgan
+  typeText: 对人宝具
+- id: 402801
+  name: 于吾旅路随行之兽
+  ruby: Zveri Krestnyy Khod
+  typeText: 对人宝具
+- id: 402802
+  name: 于吾旅路随行之兽
+  ruby: Zveri Krestnyy Khod
+  typeText: 对人宝具
+- id: 402901
+  name: 疾风怒涛的不死战车
+  ruby: Troias Tragoidia
+  typeText: 对军宝具
+- id: 403001
+  name: 如翱翔天际之龙
+  ruby: Amakakeru Ryu ga Gotoku
+  typeText: 对军宝具
+- id: 403101
+  name: 伪·军神五兵
+  ruby: Imitation God Force
+  typeText: 对人·对军宝具
+- id: 403199
+  name: 伪·军神五兵
+  ruby: Imitation God Force
+  typeText: 对人·对军宝具
+- id: 403201
+  name: 混元一阵
+  ruby: 不语之阵
+  typeText: 对阵宝具
+- id: 403202
+  name: 混元一陣
+  ruby: かたらずのじん
+  typeText: 对陣宝具
+- id: 403401
+  name: 高贵海盗准男爵的咆哮
+  ruby: Black Dirty Barty Howling
+  typeText: 对军宝具
+- id: 403501
+  name: 超越边界的存在
+  ruby: Beautiful Journey
+  typeText: 对界宝具
+- id: 403601
+  name: 夜间飞驰的铁处女
+  ruby: Testarossa Maiden
+  typeText: 对人～对军宝具
+- id: 403701
+  name: 吾将远征，鹦鹉螺的大冲角
+  ruby: Great Ram Nautilus
+  typeText: 对海宝具
+- id: 403801
+  name: 终焉的大木马
+  ruby: Troia Ippos
+  typeText: 对国宝具
+- id: 403901
+  name: 不带剑的誓言
+  ruby: Serment de Durandal
+  typeText: 对人宝具
+- id: 404001
+  name: 青铜巨人的超重锤
+  ruby: Sfyri tou Talos
+  typeText: 对军宝具
+- id: 404101
+  name: 衣通郎姬·蜘蛛行
+  ruby: Sotoorihime Kumo no Okonai
+  typeText: 对人宝具
+- id: 404201
+  name: 为你纺织的时光之轮
+  ruby: Spinster Habetrot
+  typeText: 对军宝具
+- id: 404297
+  name: きみに紡ぐ刻の車輪
+  ruby: スピンスター・ハベトロット
+  typeText: 对军宝具
+- id: 404298
+  name: 「出番だな！準備バッチリ！」
+  ruby: '-'
+  typeText: 无
+- id: 404301
+  name: 打神鞭
+  ruby: だしんべん
+  typeText: 对神宝具
+- id: 404401
+  name: 邪竜来りて罪を吐く
+  ruby: ズメイ・ゴルィニシチェ
+  typeText: 对人／对军宝具
+- id: 404501
+  name: 疾驰吧，吾之海色巨牙
+  ruby: Sea Serpent Storm Blue
+  typeText: 对人宝具
+- id: 404601
+  name: 童话荆棘雪魔女
+  ruby: Fairytale Erzsebet
+  typeText: 对人宝具
+- id: 500101
+  name: 万符必应破戒
+  ruby: Rule Breaker
+  typeText: 对魔术宝具
+- id: 500102
+  name: 万符必应破戒
+  ruby: Rule Breaker
+  typeText: 对魔术宝具
+- id: 500201
+  name: 螺湮城教本
+  ruby: Prelati's Spellbook
+  typeText: 对军宝具
+- id: 500301
+  name: 水天日光天照八野镇石
+  ruby: Suiten Nikko Amaterasu Yano Shizu-Ishi
+  typeText: 对军宝具
+- id: 500302
+  name: 水天日光天照八野镇石
+  ruby: Suiten Nikko Amaterasu Yano Shizu-Ishi
+  typeText: 对军宝具
+- id: 500303
+  name: 劈南瓜
+  ruby: '-'
+  typeText: ''
+- id: 500304
+  name: 割南瓜
+  ruby: '-'
+  typeText: ''
+- id: 500305
+  name: 打南瓜
+  ruby: '-'
+  typeText: ''
+- id: 500306
+  name: 惊喜
+  ruby: '-'
+  typeText: ''
+- id: 500401
+  name: 献给某人的故事
+  ruby: Nursery Rhyme
+  typeText: 对人宝具
+- id: 500402
+  name: 献给某人的故事
+  ruby: Nursery Rhyme
+  typeText: 对人宝具
+- id: 500501
+  name: 为你撰写的故事
+  ruby: Marchen Meines Lebens
+  typeText: 对人宝具
+- id: 500502
+  name: 为你撰写的故事
+  ruby: Marchen Meines Lebens
+  typeText: 对人宝具
+- id: 500701
+  name: 开演之刻已至，此处应有雷鸣般的喝彩
+  ruby: First Folio
+  typeText: 对人宝具
+- id: 500702
+  name: 开演之刻已至，此处应有雷鸣般的喝彩
+  ruby: First Folio
+  typeText: 对人宝具
+- id: 500801
+  name: 永世隔绝的理想乡
+  ruby: Garden of Avalon
+  typeText: 对人宝具
+- id: 500898
+  name: 永世隔绝的理想乡
+  ruby: Garden of Avalon
+  typeText: 对人宝具
+- id: 500901
+  name: 万能之人
+  ruby: Uomo Universale
+  typeText: 对军宝具
+- id: 500902
+  name: 万能之人
+  ruby: Uomo Universale
+  typeText: 对人宝具／对军宝具
+- id: 501001
+  name: 元素使的魔剑
+  ruby: Sword of Paracelsus
+  typeText: 对军宝具
+- id: 501002
+  name: 元素使的魔剑
+  ruby: Sword of Paracelsus
+  typeText: 对军宝具
+- id: 501101
+  name: 绚烂的灰烬世界
+  ruby: Dimension of Steam
+  typeText: 对军宝具
+- id: 501102
+  name: 绚烂的灰烬世界
+  ruby: Dimension of Steam
+  typeText: 对军宝具
+- id: 501201
+  name: 冥镜宝典
+  ruby: Anpu Neb Ta Djeser
+  typeText: 对军宝具
+- id: 501202
+  name: 冥镜宝典
+  ruby: Anpu Neb Ta Djeser
+  typeText: 对军宝具
+- id: 501401
+  name: 浅眠炸弹
+  ruby: Ticktock Bomb
+  typeText: 对军宝具
+- id: 501402
+  name: 浅眠炸弹
+  ruby: Ticktock Bomb
+  typeText: 对军宝具
+- id: 501501
+  name: 献给死神的安魂曲
+  ruby: Requiem for Death
+  typeText: 对军宝具
+- id: 501601
+  name: 大地的创造者
+  ruby: Tsago Degi Naleya
+  typeText: 对军宝具
+- id: 501602
+  name: 大地的创造者
+  ruby: Tsago Degi Naleya
+  typeText: 对军宝具
+- id: 501701
+  name: 万疵必应修补
+  ruby: Pain Breaker
+  typeText: 对魔术宝具
+- id: 501702
+  name: 万疵必应修补
+  ruby: Pain Breaker
+  typeText: 对魔术宝具
+- id: 501801
+  name: 王之号炮
+  ruby: Melammu Dingir
+  typeText: 对军～对城宝具
+- id: 501802
+  name: 王之号炮
+  ruby: Melammu Dingir
+  typeText: 对军～对城宝具
+- id: 501901
+  name: 石兵八阵
+  ruby: 无还之阵
+  typeText: 对军宝具
+- id: 501902
+  name: 石兵八阵
+  ruby: 无还之阵
+  typeText: 对军宝具
+- id: 502001
+  name: 白之圣杯啊，咏唱吧
+  ruby: Song of Grail
+  typeText: 魔术宝具
+- id: 502101
+  name: 灼烧殆尽的炎笼
+  ruby: Wicker Man
+  typeText: 对军宝具
+- id: 502102
+  name: 灼烧殆尽的炎笼
+  ruby: Wicker Man
+  typeText: 对军宝具
+- id: 502201
+  name: 五行山·觉者掌
+  ruby: Gogyousan Shakanyoraishou
+  typeText: 对军·对城宝具
+- id: 502202
+  name: 五行山·觉者掌
+  ruby: Gogyousan Shakanyoraishou
+  typeText: 对军·对城宝具
+- id: 502301
+  name: 金星神·火炎天主
+  ruby: Sanat Kumara
+  typeText: 对军宝具
+- id: 502302
+  name: 金星神·火炎天主
+  ruby: Sanat Kumara
+  typeText: 对军宝具
+- id: 502501
+  name: W·F·D
+  ruby: World Faith Domination
+  typeText: 对民宝具
+- id: 502502
+  name: W·F·D
+  ruby: World Faith Domination
+  typeText: 对民宝具
+- id: 502601
+  name: 鲜血极致魔女
+  ruby: Bathory Halloween Erzsebet
+  typeText: 对人宝具
+- id: 502701
+  name: 吾爱辉煌永恒长驻
+  ruby: Crystal Dress
+  typeText: 对军宝具／对民宝具
+- id: 502801
+  name: 多元重奏饱和炮击
+  ruby: Quintett Feuer
+  typeText: 对人宝具
+- id: 502802
+  name: 多元重奏饱和炮击
+  ruby: Quintett Feuer
+  typeText: 对人宝具
+- id: 503000
+  name: ？？？
+  ruby: ''
+  typeText: ？？？
+- id: 503001
+  name: 一千零一夜
+  ruby: Alf Layla wa Layla
+  typeText: 对王宝具
+- id: 503002
+  name: ？？？
+  ruby: ''
+  typeText: ？？？
+- id: 503003
+  name: 一千零一夜
+  ruby: Alf Layla wa Layla
+  typeText: 对王宝具
+- id: 503201
+  name: 讴歌荣耀的黄金剧场
+  ruby: Lauda Lentum Domus Illustrius
+  typeText: 对军宝具
+- id: 503301
+  name: 禁忌狂宴
+  ruby: Metabo Piglets
+  typeText: 对人宝具
+- id: 503302
+  name: 禁忌狂宴
+  ruby: Metabo Piglets
+  typeText: 对人宝具
+- id: 503401
+  name: 三道谜语
+  ruby: Three Enigmas
+  typeText: 对人宝具
+- id: 503501
+  name: 疾驰·精灵眼球
+  ruby: Viy Viy Viy
+  typeText: 精灵宝具
+- id: 503601
+  name: 王冠：睿智之光
+  ruby: Golem Keter Malkuth
+  typeText: 对军宝具
+- id: 503602
+  name: 王冠：睿智之光
+  ruby: Golem Keter Malkuth
+  typeText: 对军宝具
+- id: 503801
+  name: 灼热龙息·万地融解
+  ruby: Ákafiloga Allgríð
+  typeText: 对人宝具
+- id: 503901
+  name: 通往死亡满溢的魔境之门
+  ruby: Gate of Skye
+  typeText: 对军宝具、开战宝具
+- id: 503902
+  name: 死溢るる魔境への門
+  ruby: ゲート・オブ・スカイ
+  typeText: 对军宝具、開戦宝具
+- id: 504001
+  name: 护法少女·九头龙鏖杀
+  ruby: Gohoushoujyo Kuzuryuousatsu
+  typeText: 对人宝具
+- id: 504101
+  name: 照耀星天的地之朔月
+  ruby: 向星星许愿
+  typeText: 对人～对界宝具
+- id: 504102
+  name: 照耀星天的地之朔月
+  ruby: 向星星许愿
+  typeText: 对人～对界宝具
+- id: 504201
+  name: 源氏物语·葵·物之怪
+  ruby: Genjimonogatari Aoi Mononoke
+  typeText: 诗歌宝具
+- id: 504301
+  name: 仿药·无用的冥府悲叹
+  ruby: Resurrection Fraught Hades
+  typeText: 对人宝具
+- id: 504401
+  name: 掎角一阵
+  ruby: Kikaku Ichijin
+  typeText: 对军宝具
+- id: 504501
+  name: 环抱着你的希望之星
+  ruby: Around Caliburn
+  typeText: 对军宝具
+- id: 504601
+  name: 天衣无缝·鹤恩惜别歌
+  ruby: Tenimuhou Tsuru no Enishi Namida no Wakare
+  typeText: 对人宝具
+- id: 504801
+  name: 喝彩声声一夜之梦
+  ruby: La Féerie d'une Nuit
+  typeText: 对人宝具
+- id: 504901
+  name: 阿国十八番・出雲荒神歌舞伎
+  ruby: おくにじゅうはちばん・いづもあらがみかぶき
+  typeText: 結界宝具
+- id: 505001
+  name: 聖夜の御馳走、皆で楽しく
+  ruby: ハッピー・メリー・クリスマス
+  typeText: 料理宝具
+- id: 600101
+  name: 燕返
+  ruby: Tsubame Gaeshi
+  typeText: 对人魔剑
+- id: 600102
+  name: 燕返
+  ruby: Tsubame Gaeshi
+  typeText: 对人魔剣
+- id: 600201
+  name: 妄想心音
+  ruby: Zabaniya
+  typeText: 对人宝具
+- id: 600202
+  name: 妄想心音
+  ruby: Zabaniya
+  typeText: 对人宝具
+- id: 600301
+  name: 妄想幻像
+  ruby: Zabaniya
+  typeText: 对人宝具
+- id: 600302
+  name: 妄想幻像
+  ruby: Zabaniya
+  typeText: 对人宝具
+- id: 600501
+  name: 解体圣母
+  ruby: Maria the Ripper
+  typeText: 对人宝具
+- id: 600502
+  name: 解体圣母
+  ruby: Maria the Ripper
+  typeText: 对人宝具
+- id: 600701
+  name: 隐秘的罪之游戏
+  ruby: Dangerous Game
+  typeText: 对人宝具
+- id: 600702
+  name: 隐秘的罪之游戏
+  ruby: Dangerous Game
+  typeText: 对人宝具
+- id: 600711
+  name: 隐秘的罪之游戏
+  ruby: Dangerous Game
+  typeText: 对人宝具
+- id: 600712
+  name: 隐秘的罪之游戏
+  ruby: Dangerous Game
+  typeText: 对人宝具
+- id: 600798
+  name: ？？？
+  ruby: ？？？
+  typeText: 不明
+- id: 600801
+  name: 终结破晓之蛇啊，降临此处
+  ruby: Uraeus Astrape
+  typeText: 对军宝具
+- id: 600802
+  name: 终结破晓之蛇啊，降临此处
+  ruby: Uraeus Astrape
+  typeText: 对军宝具
+- id: 600901
+  name: 妄想毒身
+  ruby: Zabaniya
+  typeText: 对人宝具
+- id: 600902
+  name: 妄想毒身
+  ruby: Zabaniya
+  typeText: 对人宝具
+- id: 601001
+  name: 女神的微笑
+  ruby: Smile of the Stheno
+  typeText: 对人宝具
+- id: 601002
+  name: 女神的微笑
+  ruby: Smile of the Stheno
+  typeText: 对人宝具
+- id: 601101
+  name: 不归匕首
+  ruby: 只为刺杀而存
+  typeText: 对人宝具
+- id: 601102
+  name: 不归匕首
+  ruby: 只为刺杀而存
+  typeText: 对人宝具
+- id: 601201
+  name: 死亡将为明日的希望
+  ruby: La Mort Espoir
+  typeText: 对人宝具
+- id: 601202
+  name: 死亡将为明日的希望
+  ruby: La Mort Espoir
+  typeText: 对人宝具
+- id: 601301
+  name: 吾之情歌只在地狱回响
+  ruby: 'Christine, Christine'
+  typeText: 对军宝具
+- id: 601302
+  name: 吾之情歌只在地狱回响
+  ruby: 'Christine, Christine'
+  typeText: 对军宝具
+- id: 601401
+  name: 拥有阳眼之女
+  ruby: Mata Hari
+  typeText: 对军宝具
+- id: 601501
+  name: 花开堪折直须折
+  ruby: Khronos Rose
+  typeText: 对人宝具
+- id: 601502
+  name: 花开堪折直须折
+  ruby: Khronos Rose
+  typeText: 对人宝具
+- id: 601701
+  name: 幻想铁处女
+  ruby: Phantom Maiden
+  typeText: 对人宝具
+- id: 601702
+  name: 幻想铁处女
+  ruby: Phantom Maiden
+  typeText: 对人宝具
+- id: 601801
+  name: 无铭胜利剑
+  ruby: Himitsu Calibur
+  typeText: 对人宝具
+- id: 601802
+  name: 无铭胜利剑
+  ruby: Himitsu Calibur
+  typeText: 对人宝具
+- id: 601901
+  name: 不灭的混沌旅团
+  ruby: Immortal Chaos Brigade
+  typeText: 对军宝具
+- id: 601902
+  name: 不灭的混沌旅团
+  ruby: Immortal Chaos Brigade
+  typeText: 对军宝具
+- id: 602101
+  name: 千紫万红·神便鬼毒
+  ruby: Senshibankou Shinpenkidoku
+  typeText: 对军宝具
+- id: 602102
+  name: 千紫万红·神便鬼毒
+  ruby: Senshibankou Shinpenkidoku
+  typeText: 对军宝具
+- id: 602301
+  name: 唯识·直死之魔眼
+  ruby: Yuishiki Chokushi no Magan
+  typeText: 对人宝具
+- id: 602302
+  name: 唯识·直死之魔眼
+  ruby: Yuishiki Chokushi no Magan
+  typeText: 对人宝具
+- id: 602401
+  name: 蹴穿死翔之枪
+  ruby: Gae Bolg Alternative
+  typeText: 对人／对军宝具
+- id: 602501
+  name: 死告天使
+  ruby: Azrael
+  typeText: 对人宝具
+- id: 602601
+  name: 十面埋伏·无影踪
+  ruby: Jumenmaifuku Mueinogotoku
+  typeText: 对人宝具
+- id: 602602
+  name: 十面埋伏·无影踪
+  ruby: Jumenmaifuku Mueinogotoku
+  typeText: 对人宝具
+- id: 602700
+  name: ？？？
+  ruby: ''
+  typeText: ？？？
+- id: 602701
+  name: 告密罗织经
+  ruby: Kokumitsu Rashokukei
+  typeText: 对人宝具
+- id: 602702
+  name: ？？？
+  ruby: ''
+  typeText: ？？？
+- id: 602703
+  name: 告密罗织经
+  ruby: Kokumitsu Rashokukei
+  typeText: 对人宝具
+- id: 602801
+  name: 洗刷污秽吧，青色美丽的尼罗河
+  ruby: Sneferu Iteru Nile
+  typeText: 对军宝具
+- id: 602900
+  name: ？？？
+  ruby: ''
+  typeText: ？？？
+- id: 602901
+  name: 通灵·伊吹大明神缘起
+  ruby: Kuchiyose Ibukidaimyoujinengi
+  typeText: 对人宝具
+- id: 602902
+  name: ？？？
+  ruby: ''
+  typeText: ？？？
+- id: 602903
+  name: 通灵·伊吹大明神缘起
+  ruby: Kuchiyose Ibukidaimyoujinengi
+  typeText: 对人宝具
+- id: 603001
+  name: 机关幻法·吞牛
+  ruby: Karakurigenpou Dongyu
+  typeText: 对兽宝具
+- id: 603002
+  name: 机关幻法·吞牛
+  ruby: Karakurigenpou Dongyu
+  typeText: 对兽宝具
+- id: 603101
+  name: 白鹭城百鬼八天堂大人
+  ruby: Hakurojyou no Hyakkihachitendousama
+  typeText: 对城宝具（自身）
+- id: 603102
+  name: 白鹭城百鬼八天堂大人
+  ruby: Hakurojyou no Hyakkihachitendousama
+  typeText: 对城宝具（自身）
+- id: 603201
+  name: 虚荣的空中庭园
+  ruby: Hanging Gardens of Babylon
+  typeText: 对界宝具
+- id: 603202
+  name: 虚荣的空中庭园
+  ruby: Hanging Gardens of Babylon
+  typeText: 对界宝具
+- id: 603301
+  name: 了结剑
+  ruby: Shimatsuken
+  typeText: 对人魔剑
+- id: 603401
+  name: 天狗之羽团扇·暴风
+  ruby: Tengu no Hauchiwa Akarashimakaze
+  typeText: 对军宝具
+- id: 603501
+  name: 咒血尸解叹歌
+  ruby: Eternal Lament
+  typeText: 对军宝具
+- id: 603599
+  name: 咒血尸解叹歌
+  ruby: Eternal Lament
+  typeText: 对军宝具
+- id: 603601
+  name: 无二打
+  ruby: Nino Uchi Irazu
+  typeText: 对人宝具
+- id: 603602
+  name: 无二打
+  ruby: Nino Uchi Irazu
+  typeText: 对人宝具
+- id: 603701
+  name: 持爱却枯，无恋也
+  ruby: Kama Sammohana
+  typeText: 对人宝具
+- id: 603801
+  name: 予故国以爱，以沉溺般的梦
+  ruby: Le Reve Ensoleille
+  typeText: 对人宝具
+- id: 603901
+  name: 闪耀于终焉之枪
+  ruby: Rhongomyniad
+  typeText: 对城宝具
+- id: 603902
+  name: 最果てにて輝ける槍
+  ruby: ロンゴミニアド
+  typeText: 对城宝具
+- id: 604001
+  name: 喷射三段突
+  ruby: Jet Sandan Zuki
+  typeText: 对人宝具
+- id: 604099
+  name: 喷射三段突
+  ruby: Jet Sandan Zuki
+  typeText: 对人宝具
+- id: 604101
+  name: 六韬三略·魔王尊大羽扇
+  ruby: Rikutousanryaku Maousondaiusen
+  typeText: 对城宝具
+- id: 604201
+  name: 灵裳重光·79式掷祸大社
+  ruby: Из Тула Sevendrive
+  typeText: 对界宝具
+- id: 700101
+  name: 射杀百头
+  ruby: Nine Lives
+  typeText: 不明
+- id: 700201
+  name: 骑士不徒手而亡
+  ruby: Knight of Owner
+  typeText: 对人宝具
+- id: 700299
+  name: 骑士不徒手而亡
+  ruby: Knight of Owner
+  typeText: 对人宝具
+- id: 700301
+  name: 军神五兵
+  ruby: God Force
+  typeText: 对人·对军·对城宝具
+- id: 700401
+  name: 磔刑之雷树
+  ruby: Blasted Tree
+  typeText: 对军宝具
+- id: 700402
+  name: 磔刑之雷树
+  ruby: Blasted Tree
+  typeText: 对军宝具
+- id: 700501
+  name: 伤兽的咆吼
+  ruby: Crying Warmonger
+  typeText: 对人宝具
+- id: 700502
+  name: 伤兽的咆吼
+  ruby: Crying Warmonger
+  typeText: 对人宝具
+- id: 700599
+  name: 爱的爆发
+  ruby: Valentine Treasoner
+  typeText: 对人宝具
+- id: 700601
+  name: 黄金冲击
+  ruby: Golden Spark
+  typeText: 对人宝具
+- id: 700602
+  name: 黄金冲击
+  ruby: Golden Spark
+  typeText: 对人宝具
+- id: 700701
+  name: 血染的王鬼
+  ruby: Kazikli Bey
+  typeText: 对人宝具
+- id: 700702
+  name: 血染的王鬼
+  ruby: Kazikli Bey
+  typeText: 对人宝具
+- id: 700703
+  name: 血染的王鬼
+  ruby: Kazikli Bey
+  typeText: 对人宝具
+- id: 700801
+  name: 源流斗争
+  ruby: Grendel Buster
+  typeText: 对人宝具
+- id: 700802
+  name: 源流斗争
+  ruby: Grendel Buster
+  typeText: 对人宝具
+- id: 700901
+  name: 万古不变的迷宫
+  ruby: Chaos Labyrinthos
+  typeText: 迷宫宝具
+- id: 700902
+  name: 万古不变的迷宫
+  ruby: Chaos Labyrinthos
+  typeText: 迷宫宝具
+- id: 701001
+  name: 吞噬吾心吧，月光
+  ruby: Flucticulus Diana
+  typeText: 对军宝具
+- id: 701002
+  name: 吞噬吾心吧，月光
+  ruby: Flucticulus Diana
+  typeText: 对军宝具
+- id: 701101
+  name: 不死的万名骑兵
+  ruby: Athanatoi Ten Thousand
+  typeText: 对军宝具
+- id: 701102
+  name: 不死的万名骑兵
+  ruby: Athanatoi Ten Thousand
+  typeText: 对军宝具
+- id: 701199
+  name: 苍天阳炎灾祸之辙
+  ruby: ''
+  typeText: 无
+- id: 701301
+  name: 转身火生三昧
+  ruby: Tenshin Kasho Zanmai
+  typeText: 对人宝具
+- id: 701401
+  name: 我将根绝一切毒物，一切害物
+  ruby: Nightingale Pledge
+  typeText: 对军宝具
+- id: 701402
+  name: 我将根绝一切毒物，一切害物
+  ruby: Nightingale Pledge
+  typeText: 对军宝具
+- id: 701501
+  name: 血染的加冕仪式
+  ruby: Bloodbath Crown
+  typeText: 对人宝具
+- id: 701601
+  name: 璀灿日光午睡宫酒池肉林
+  ruby: Sansan Nikko Hiruyasumi Shuchi Nikurin
+  typeText: 对人宝具
+- id: 701602
+  name: 璀灿日光午睡宫酒池肉林
+  ruby: Sansan Nikko Hiruyasumi Shuchi Nikurin
+  typeText: 对人宝具
+- id: 702001
+  name: 噬碎死牙之兽
+  ruby: Curruid Coinchenn
+  typeText: 对人宝具
+- id: 702002
+  name: 噬碎死牙之兽
+  ruby: Curruid Coinchenn
+  typeText: 对人宝具
+- id: 702201
+  name: 罗生门大怨起
+  ruby: Rashoumon Daiengi
+  typeText: 对军宝具
+- id: 702301
+  name: 牛王招雷·天网恢恢
+  ruby: Gooushourai Tenmoukaikai
+  typeText: 对军宝具
+- id: 702302
+  name: 牛王招雷·天网恢恢
+  ruby: Gooushourai Tenmoukaikai
+  typeText: 对军宝具
+- id: 702401
+  name: 黑龙双克胜利剑
+  ruby: Cross Calibur
+  typeText: 对人宝具
+- id: 702402
+  name: 黑龙双克胜利剑
+  ruby: Cross Calibur
+  typeText: 对人宝具
+- id: 702501
+  name: 不灭之诚
+  ruby: 新选组
+  typeText: 对人宝具
+- id: 702502
+  name: 不灭之诚
+  ruby: 新选组
+  typeText: 对人宝具
+- id: 702601
+  name: 绚烂魔界日轮城
+  ruby: Kenran Makai Nichirinjyou
+  typeText: 城塞宝具
+- id: 702700
+  name: ？？？
+  ruby: ''
+  typeText: ？？？
+- id: 702701
+  name: 于吾之瞋恚中终结吧，英雄
+  ruby: Outrage Amazon
+  typeText: 对人宝具
+- id: 702801
+  name: 令人惊叹的伟业
+  ruby: Marvelous Exploits
+  typeText: 对军宝具
+- id: 702901
+  name: 第六天魔王波旬～盛夏～
+  ruby: Nobunaga THE Rock 'n' Roll
+  typeText: 对神宝具
+- id: 702902
+  name: 第六天魔王波旬～盛夏～
+  ruby: Nobunaga THE Rock 'n' Roll
+  typeText: 对神宝具
+- id: 703001
+  name: 暗天蚀射
+  ruby: Tauropolos Skia Thermokrasia
+  typeText: 对人宝具
+- id: 703101
+  name: 烧却天理·鏖杀龙
+  ruby: Volkermord Feuerdrache
+  typeText: 对军宝具
+- id: 703201
+  name: 力拔山兮气盖世
+  ruby: 拔山盖世
+  typeText: 对军宝具
+- id: 703301
+  name: 裁定归灭之回剑
+  ruby: Maha Pralaya
+  typeText: 对界宝具
+- id: 703401
+  name: 已然亲吻你
+  ruby: Femme Fatale Baiser
+  typeText: 对人宝具
+- id: 703501
+  name: 人类无骨
+  ruby: Ningen Mukotsu
+  typeText: 对人宝具
+- id: 703601
+  name: 破魔剑，谨承！
+  ruby: 岩流岛
+  typeText: 对人宝具
+- id: 703701
+  name: 红叶狩
+  ruby: Momijigari
+  typeText: 对人宝具
+- id: 703801
+  name: 至少，直至死亡的瞬间
+  ruby: Brynhild Sigurteinn
+  typeText: 对人宝具／对军宝具
+- id: 703901
+  name: 雕刻理想的王之凿
+  ruby: Pygmalion Chisel Out
+  typeText: 对物宝具
+- id: 704001
+  name: 业已无法抵达的理想乡
+  ruby: Roadless Camelot
+  typeText: 对城宝具
+- id: 704101
+  name: 夏天，世间少有之热
+  ruby: Emotional Engine Vivid Full Sensation
+  typeText: 对人宝具
+- id: 800100
+  name: ？？？
+  ruby: ？？？
+  typeText: 不明
+- id: 800101
+  name: 假想宝具 拟似展开/人理之础
+  ruby: Lord Chaldeas
+  typeText: 对人宝具
+- id: 800102
+  name: 假想宝具 拟似展开/人理之础
+  ruby: Lord Chaldeas
+  typeText: 对人宝具
+- id: 800104
+  name: 已然遥远的理想之城
+  ruby: Lord Camelot
+  typeText: 对恶宝具
+- id: 800105
+  name: 已然脆弱的梦想之城
+  ruby: Mold Camelot
+  typeText: 对人宝具
+- id: 800198
+  name: 已然遥远的理想之城
+  ruby: Lord Camelot
+  typeText: 对恶宝具
+- id: 800199
+  name: 已然遥远的理想之城
+  ruby: Lord Camelot
+  typeText: 对恶宝具
+- id: 900101
+  name: 吾主在此
+  ruby: Luminosite Eternelle
+  typeText: 结界宝具
+- id: 900102
+  name: 吾主在此
+  ruby: Luminosite Eternelle
+  typeText: 结界宝具
+- id: 900201
+  name: 双腕·零次集束
+  ruby: Twin Arm - Big Crunch
+  typeText: 对军宝具
+- id: 900202
+  name: 双腕·零次集束
+  ruby: Twin Arm - Big Crunch
+  typeText: 对军宝具
+- id: 900301
+  name: 咆哮吧，吾之愤怒
+  ruby: Le Grondement Du Haine
+  typeText: 对军宝具
+- id: 900401
+  name: 狂暴的悲哀之龙啊
+  ruby: Tarasque
+  typeText: 对人宝具／对龙宝具
+- id: 900402
+  name: 狂暴的悲哀之龙啊
+  ruby: Tarasque
+  typeText: 对人宝具／对龙宝具
+- id: 900501
+  name: 这是常识，我亲爱的朋友啊
+  ruby: Elementary My Dear
+  typeText: 对人宝具／对界宝具
+- id: 900601
+  name: 祖政
+  ruby: The Domination Beginning
+  typeText: 对界宝具
+- id: 900701
+  name: 将爱，于圣夜递送给孩子们
+  ruby: Yucatan Regalo de Navidad
+  typeText: 对人宝具
+- id: 900801
+  name: 现为裁决之刻。上告汝之名来
+  ruby: Custos Morum
+  typeText: 对罪宝具
+- id: 900802
+  name: 现为裁决之刻。上告汝之名来
+  ruby: Custos Morum
+  typeText: 对罪宝具
+- id: 900901
+  name: 熠熠生辉吧，吾之光辉大厅
+  ruby: Bright Ehangwen
+  typeText: 对军宝具
+- id: 901001
+  name: 映像星辰之久远镜
+  ruby: Seishinkatadoru Kyuuenkyou
+  typeText: 结界宝具
+- id: 901101
+  name: 无偿无限普遍之爱
+  ruby: The Greatest Hits“Calling Agape”
+  typeText: 对人宝具
+- id: 901201
+  name: 难忘暑假，白垩之梦
+  ruby: Dinosaur Summer Goodbye
+  typeText: 对人宝具
+- id: 1000101
+  name: 纵使死亡分离两人
+  ruby: Brynhild Romantia
+  typeText: 对人宝具
+- id: 1000102
+  name: 纵使死亡分离两人
+  ruby: Brynhild Romantia
+  typeText: 对人宝具
+- id: 1000201
+  name: 弁财天五弦琵琶
+  ruby: Sarasvati Meltout
+  typeText: 对人宝具
+- id: 1000301
+  name: 快乐天·胎藏曼荼罗
+  ruby: Amitabha Amidala Heaven's Hole
+  typeText: 对人宝具
+- id: 1000302
+  name: 快乐天·胎藏曼荼罗
+  ruby: Amitabha Amidala Heaven's Hole
+  typeText: 对人宝具
+- id: 1000401
+  name: 钢铁天空魔女
+  ruby: Breast Zero Erzsebet
+  typeText: 对军个人宝具
+- id: 1000501
+  name: 钢铁天空魔女
+  ruby: Breast Zero Erzsebet
+  typeText: 对军个人宝具
+- id: 1000701
+  name: 绝剑·无穹三段
+  ruby: Zekken Mukyuu Sandan
+  typeText: 对界宝具
+- id: 1000801
+  name: 咆哮吧吾友，吾之力量
+  ruby: Optateshke Okimunpe
+  typeText: 精灵宝具
+- id: 1000901
+  name: 巨影，现于生命之海
+  ruby: Airavata King Size
+  typeText: 对人宝具
+- id: 1001001
+  name: 狂澜怒涛·恶灵左府
+  ruby: Kyourandotou Akuryousafu
+  typeText: 对都市宝具
+- id: 1100101
+  name: 万象之伪誊抄
+  ruby: Verg Avesta
+  typeText: 对人宝具
+- id: 1100201
+  name: 虎啊，煌煌燎燃
+  ruby: Enfer Chateau d'If
+  typeText: 对军宝具
+- id: 1100202
+  name: 虎啊，煌煌燎燃
+  ruby: Enfer Chateau d'If
+  typeText: 对军宝具
+- id: 1100301
+  name: 咆哮吧，吾之愤怒
+  ruby: Le Grondement Du Haine
+  typeText: 对军宝具
+- id: 1100302
+  name: 咆哮吧，吾之愤怒
+  ruby: Le Grondement Du Haine
+  typeText: 对军宝具
+- id: 1100401
+  name: 强制封印·万魔神殿
+  ruby: Pandemonium Cetus
+  typeText: 对军宝具
+- id: 1100402
+  name: 强制封印·万魔神殿
+  ruby: Pandemonium Cetus
+  typeText: 对军宝具
+- id: 1100501
+  name: 对遥远之辈的斩罪
+  ruby: Frieren Scharfrichter
+  typeText: 对人宝具
+- id: 1100502
+  name: 对遥远之辈的斩罪
+  ruby: Frieren Scharfrichter
+  typeText: 对人宝具
+- id: 1100601
+  name: 至高之神啊，请垂怜于我
+  ruby: Dio Santissimo Misericordia de mi
+  typeText: 对军宝具
+- id: 1100701
+  name: 波旬变生·三千大千天魔王
+  ruby: Hajunhenjou Sanzendaisentenmaou
+  typeText: 对神宝具
+- id: 1100901
+  name: 闪耀于原始宇宙的王冠
+  ruby: Edin Shugurra Quasar
+  typeText: 对星宝具
+- id: 1100997
+  name: 闪耀于原始宇宙的王冠
+  ruby: Edin Shugurra Quasar
+  typeText: 对星宝具
+- id: 1100998
+  name: 闪耀于原始宇宙的王冠
+  ruby: Edin Shugurra Quasar
+  typeText: 对星宝具
+- id: 1101001
+  name: 诸行无常·盛者必衰
+  ruby: Shogyoumujou Joushahissui
+  typeText: 对人奥义
+- id: 1101101
+  name: 持爱而至，恋夏也
+  ruby: Kama Rupastra
+  typeText: 对人宝具
+- id: 1101201
+  name: 蘭丸・Ｘ
+  ruby: おーきっどらうんず・えっくす
+  typeText: 对军宝具
+- id: 1700101
+  name: 诞生之时已至，以此修习万象
+  ruby: Ars Almadel Salomonis
+  typeText: 对人宝具
+- id: 2300101
+  name: C.C.C.
+  ruby: Cursed Cupid Cleanser
+  typeText: 对人宝具
+- id: 2300201
+  name: C.C.C.
+  ruby: Cursed Cutting Crater
+  typeText: 对界宝具
+- id: 2300298
+  name: ？？？
+  ruby: ？？？
+  typeText: 不明
+- id: 2300301
+  name: 肉弹啊，明天再开始努力吧
+  ruby: Ganesh Impact
+  typeText: 对人宝具
+- id: 2300401
+  name: 化乐天·蛟蛤曼荼罗
+  ruby: Nirmannarati Heaven's Foam
+  typeText: 对界宝具
+- id: 2500101
+  name: 光壳流溢的虚树
+  ruby: Qliphoth Rhizome
+  typeText: 对人宝具
+- id: 2500201
+  name: 富岳三十六景
+  ruby: Fugaku Sanjurokkei
+  typeText: 对军宝具
+- id: 2500301
+  name: 苍辉银河即宇宙
+  ruby: 以太宇宙需秩序
+  typeText: 对人宝具
+- id: 2500302
+  name: 苍辉银河即宇宙
+  ruby: 以太宇宙需秩序
+  typeText: 对人宝具
+- id: 2500401
+  name: 霓裳羽衣 比翼连理
+  ruby: Geishouui Hiyokurenri
+  typeText: 对人／对国宝具
+- id: 2500501
+  name: 遥远的蓝色星球啊
+  ruby: Pale Blue Dot
+  typeText: 对星宝具
+- id: 2500601
+  name: 星月夜
+  ruby: De sterrennacht
+  typeText: 对人宝具
+- id: 2500701
+  name: 遥远的幻梦境
+  ruby: Dreamlands
+  typeText: 对人宝具
+- id: 2500799
+  name: 遥远的幻梦境
+  ruby: Dreamlands
+  typeText: ''
+- id: 2500801
+  name: 煌彩幻奏霸道剑
+  ruby: Lumino Calibur
+  typeText: 对人宝具
+- id: 2500901
+  name: 雷天日光・禍音星落火流錘
+  ruby: ツングースカ・ナインドライブ
+  typeText: 对界宝具
+- id: 2501001
+  name: 13号星期五
+  ruby: Vendredi Treize
+  typeText: 对人宝具
+- id: 2800101
+  name: 于彼方点缀的梦之童话
+  ruby: Rye Rhyme Goodfellow
+  typeText: 对人宝具
+- id: 2800201
+  name: 魔天の車輪
+  ruby: ヘカティック・ホイール
+  typeText: 对军宝具
+- id: 9935511
+  name: 诞生之时已至，以此修正万象
+  ruby: Ars Almadel Salomonis
+  typeText: ''
+- id: 9935531
+  name: 诀别之时已至，以此，舍弃世界
+  ruby: Ars Nova
+  typeText: 对人宝具
+- id: 9936701
+  name: 闪耀于终焉之枪
+  ruby: Rhongomyniad
+  typeText: 对城宝具
+- id: 9936702
+  name: 闪耀于终焉之枪
+  ruby: Rhongomyniad
+  typeText: 对城宝具
+- id: 9936871
+  name: 无限幻想
+  ruby: Unlimited Prisma Codes
+  typeText: 对人宝具
+- id: 9936881
+  name: 堕·鹤翼三连
+  ruby: Black Bird Scissorhands
+  typeText: 对人宝具
+- id: 9936961
+  name: 燕返
+  ruby: Tsubame Gaeshi
+  typeText: 对人魔剑
+- id: 9936981
+  name: 无限剑制
+  ruby: Unlimited Blade Works
+  typeText: ？？？？
+- id: 9936991
+  name: 双腕·零次集束
+  ruby: Twin Arm - Big Crunch
+  typeText: 对军宝具
+- id: 9937001
+  name: 誓约胜利之剑
+  ruby: Excalibur Morgan
+  typeText: 对城宝具
+- id: 9937101
+  name: 天地乖离开辟之星
+  ruby: Enuma Elish
+  typeText: 对界宝具
+- id: 9937121
+  name: 母亲啊，愿呼起源之声
+  ruby: Nammu Duranki
+  typeText: 对肃正宝具
+- id: 9937201
+  name: 坛之浦·八艘跳
+  ruby: Dan-no-ura Hasso Tobi
+  typeText: 对人奥义
+- id: 9938961
+  name: 无限剑制
+  ruby: Unlimited Blade Works
+  typeText: ？？？？
+- id: 9938981
+  name: 不灭之诚
+  ruby: 新选组
+  typeText: 对人宝具
+- id: 9939011
+  name: 终极犯罪
+  ruby: Catastrophe Crime
+  typeText: 对军宝具
+- id: 9939021
+  name: 终极犯罪
+  ruby: Catastrophe Crime
+  typeText: 对军宝具
+- id: 9939131
+  name: Sukhavati Heaven's Hole
+  ruby: ''
+  typeText: 无
+- id: 9939141
+  name: C.C.C.
+  ruby: Cursed Cupid Cleanser
+  typeText: 对人宝具
+- id: 9939161
+  name: 纵使死亡分离两人
+  ruby: Brynhild Romantia
+  typeText: 对人宝具
+- id: 9939211
+  name: 祈祷之弓
+  ruby: Yew Bow
+  typeText: 对人宝具
+- id: 9939221
+  name: C.C.C.
+  ruby: Cursed Cupid Cleanser
+  typeText: 对人宝具
+- id: 9939361
+  name: 流转
+  ruby: ''
+  typeText: 无
+- id: 9939362
+  name: 流转
+  ruby: ''
+  typeText: 无
+- id: 9939371
+  name: ''
+  ruby: ''
+  typeText: 无
+- id: 9939571
+  name: 我心爱的钢铁战车
+  ruby: Chariot My Love
+  typeText: 对军宝具
+- id: 9939581
+  name: 童女讴歌的荣华帝政
+  ruby: Laus Saint Claudius
+  typeText: 对阵宝具
+- id: 9939601
+  name: 六道五轮·俱利伽罗天象
+  ruby: Rikudougorin Kurikaratenshou
+  typeText: 对人宝具
+- id: 9939602
+  name: 六道五轮·俱利伽罗天象
+  ruby: Rikudougorin Kurikaratenshou
+  typeText: 对人宝具
+- id: 9939660
+  name: ？？？
+  ruby: ''
+  typeText: ？？？
+- id: 9939661
+  name: 真言·圣观世音菩萨
+  ruby: Om Alolik Svaha
+  typeText: 对人宝具
+- id: 9939671
+  name: 剑术无双·剑禅一如
+  ruby: Kenjutsumusou Kenzenichinyo
+  typeText: 对人奥義
+- id: 9939681
+  name: 通灵·伊吹大明神缘起
+  ruby: Kuchiyose Ibukidaimyoujinengi
+  typeText: 对人宝具
+- id: 9939691
+  name: 胧里月十一式
+  ruby: Oborourazuki Juichishiki
+  typeText: 对人宝具
+- id: 9939701
+  name: 千紫万红·神便鬼毒
+  ruby: Senshibankou Shinpenkidoku
+  typeText: 对军宝具
+- id: 9939711
+  name: 牛王招雷·天网恢恢
+  ruby: Gooushourai Tenmoukaikai
+  typeText: 对军宝具
+- id: 9939721
+  name: 双腕·零次集束
+  ruby: Twin Arm - Big Crunch
+  typeText: 对军宝具
+- id: 9939731
+  name: 燕返
+  ruby: Tsubame Gaeshi
+  typeText: 对人魔剣
+- id: 9939801
+  name: 白鹭城百鬼八天堂大人
+  ruby: Hakurojyou no Hyakkihachitendousama
+  typeText: 对城宝具（自身）
+- id: 9940201
+  name: 无铭胜利剑
+  ruby: Himitsu Calibur
+  typeText: 对Saber宝具
+- id: 9940371
+  name: 黑之圣杯啊，咏唱吧
+  ruby: Song of Grail
+  typeText: 魔术宝具
+- id: 9940381
+  name: 转身爱丽三昧
+  ruby: Song of Grail
+  typeText: 魔术宝具
+- id: 9940391
+  name: 青之圣杯啊，冻结吧
+  ruby: Song of Grail
+  typeText: 魔术宝具
+- id: 9940401
+  name: 开膛手爱丽
+  ruby: Song of Grail
+  typeText: 魔术宝具
+- id: 9940411
+  name: 锈之圣杯啊，哀叹吧
+  ruby: Song of Grail
+  typeText: 魔术宝具
+- id: 9940531
+  name: 罗生门大怨起
+  ruby: Rashoumon Daiengi
+  typeText: 对军宝具
+- id: 9940601
+  name: 牛王招力·怒发天升
+  ruby: Gooushouriki Dohatsutenshou
+  typeText: 对军宝具
+- id: 9940811
+  name: 山脉震撼明星之薪
+  ruby: An Gal Ta Kigal She
+  typeText: 对山宝具
+- id: 9941041
+  name: 光壳流溢的虚树
+  ruby: Qliphoth Rhizome
+  typeText: 对人宝具
+- id: 9941051
+  name: 光壳流溢的虚树
+  ruby: Qliphoth Rhizome
+  typeText: 对人宝具
+- id: 9941121
+  name: 五百罗汉补陀落渡海
+  ruby: Gohyaku Rakan Fudarakutokai
+  typeText: 对军宝具
+- id: 9941161
+  name: 六道五轮·俱利伽罗天象
+  ruby: Rikudougorin Kurikaratenshou
+  typeText: 对人宝具
+- id: 9941162
+  name: 六道五轮·俱利伽罗天象
+  ruby: Rikudougorin Kurikaratenshou
+  typeText: 对人宝具
+- id: 9941171
+  name: 疾驰·精灵眼球
+  ruby: Viy Viy Viy
+  typeText: 精灵宝具
+- id: 9941181
+  name: 坏劫之天轮
+  ruby: Bolverk Gram
+  typeText: 对城宝具
+- id: 9941391
+  name: 通往死亡满溢的魔境之门
+  ruby: Gate of Skye
+  typeText: 对军宝具、开战宝具
+- id: 9941401
+  name: C.C.C.
+  ruby: Cursed Cutting Crater
+  typeText: 对界宝具
+- id: 9941541
+  name: 祖政
+  ruby: The Domination Beginning
+  typeText: 对界宝具
+- id: 9941661
+  name: 鲜血魔女
+  ruby: Bathory Erzsebet
+  typeText: 对人宝具
+- id: 9941671
+  name: 将爱，于圣夜递送给孩子们
+  ruby: Yucatan Regalo de Navidad
+  typeText: 对人宝具
+- id: 9941731
+  name: 爱的世界，燃烧的宇宙
+  ruby: Mara Avaruddha
+  typeText: 对界宝具
+- id: 9941751
+  name: 无二打
+  ruby: Nino Uchi Irazu
+  typeText: 对人宝具
+- id: 9941811
+  name: 巨影，现于生命之海
+  ruby: Airavata King Size
+  typeText: 对人宝具
+- id: 9941901
+  name: 罗车幽精 火尖枪
+  ruby: ''
+  typeText: 无
+- id: 9942001
+  name: 持爱却枯，无恋也
+  ruby: Kama Sammohana
+  typeText: 对人宝具
+- id: 9942011
+  name: 开演之刻已至，此处应有雷鸣般的喝彩
+  ruby: First Folio
+  typeText: 对人宝具
+- id: 9942012
+  name: 開演の刻は来たれり、此処に万雷の喝采を
+  ruby: ファースト・フォリオ
+  typeText: 对人宝具
+- id: 9942021
+  name: 混元一阵
+  ruby: 不语之阵
+  typeText: 对阵宝具
+- id: 9942022
+  name: 混元一陣
+  ruby: かたらずのじん
+  typeText: 对陣宝具
+- id: 9942031
+  name: 里·五百罗汉补陀落渡海
+  ruby: Ura Gohyaku Rakan Fudarakutokai
+  typeText: 对军宝具
+- id: 9942081
+  name: 裁定归灭之回剑
+  ruby: Maha Pralaya
+  typeText: 对界宝具
+- id: 9942101
+  name: 肉弹啊，明天再开始努力吧
+  ruby: Ganesh Impact
+  typeText: 对人宝具
+- id: 9942141
+  name: 无垢识·空之境界
+  ruby: Mukushiki Kara no Kyokai
+  typeText: 对人宝具
+- id: 9942151
+  name: 破魔剑，谨承！
+  ruby: 岩流岛
+  typeText: 对人宝具
+- id: 9942251
+  name: 冠位指定／人理保障天球
+  ruby: Grand Order／Anima Animusphere
+  typeText: ''
+- id: 9942252
+  name: 冠位指定／人理保障天球
+  ruby: Grand Order／Anima Animusphere
+  typeText: ''
+- id: 9942331
+  name: 天地乖离开辟之星
+  ruby: Enuma Elish
+  typeText: 对界宝具
+- id: 9942341
+  name: 闪耀于原始宇宙的王冠
+  ruby: Edin Shugurra Quasar
+  typeText: 对星宝具
+- id: 9942411
+  name: 璀灿日光午睡宫酒池肉林
+  ruby: Sansan Nikko Hiruyasumi Shuchi Nikurin
+  typeText: 对人宝具
+- id: 9942437
+  name: 闪耀于原始宇宙的王冠
+  ruby: Edin Shugurra Quasar
+  typeText: 对星宝具
+- id: 9942438
+  name: 闪耀于原始宇宙的王冠
+  ruby: Edin Shugurra Quasar
+  typeText: 对星宝具
+- id: 9942511
+  name: 吞噬吾心吧，月光
+  ruby: Flucticulus Diana
+  typeText: 对军宝具
+- id: 9942521
+  name: 飞翔吧，吾之金色大翼
+  ruby: Lapithai Caeneus
+  typeText: 对军宝具
+- id: 9942531
+  name: ''
+  ruby: ''
+  typeText: 无
+- id: 9942721
+  name: 吾将远征，鹦鹉螺的大冲角
+  ruby: Great Ram Nautilus
+  typeText: 对海宝具
+- id: 9942731
+  name: 吾将远征，鹦鹉螺的大冲角
+  ruby: Great Ram Nautilus
+  typeText: 对海宝具
+- id: 9942741
+  name: 吾将远征，鹦鹉螺的大冲角
+  ruby: Great Ram Nautilus
+  typeText: 对海宝具
+- id: 9942751
+  name: 天鬼雨
+  ruby: Tenkiame
+  typeText: 对军宝具
+- id: 9942761
+  name: 八幡祈愿·大妖射贯
+  ruby: 南无八幡大菩萨·请赐予此箭矢加持
+  typeText: 对人宝具
+- id: 9942771
+  name: 已然脆弱的梦想之城
+  ruby: Mold Camelot
+  typeText: 对人宝具
+- id: 9942821
+  name: 无偿无限普遍之爱
+  ruby: The Greatest Hits“Calling Agape”
+  typeText: 对人宝具
+- id: 9942878
+  name: 诸行无常·盛者必衰
+  ruby: Shogyoumujou Joushahissui
+  typeText: 对人奥义
+- id: 9942889
+  name: 诸行无常·盛者必衰
+  ruby: Shogyoumujou Joushahissui
+  typeText: 对人奥义
+- id: 9942909
+  name: 神剑·草那艺之大刀
+  ruby: Shinken Kusanaginotachi
+  typeText: 对军／对城宝具
+- id: 9942959
+  name: 魔啊，阻塞尽天地
+  ruby: Asurashreshtha
+  typeText: 对界宝具
+- id: 9943061
+  name: 赠与新娘的纺车
+  ruby: Bridal Spin Wheel
+  typeText: ''
+- id: 9943081
+  name: 环抱着你的希望之星
+  ruby: Around Caliburn
+  typeText: 对军宝具
+- id: 9943091
+  name: 环抱着你的希望之星
+  ruby: Around Caliburn
+  typeText: 对军宝具
+- id: 9943109
+  name: 业已无法抵达的理想乡
+  ruby: Roadless Camelot
+  typeText: 对城宝具
+- id: 9943119
+  name: 无人知晓的无垢搏动
+  ruby: Hollow Heart Albion
+  typeText: 对界宝具
+- id: 9943127
+  name: 于彼方点缀的梦之童话
+  ruby: Rye Rhyme Goodfellow
+  typeText: 对人宝具
+- id: 9943138
+  name: 于彼方点缀的梦之童话
+  ruby: Rye Rhyme Goodfellow
+  typeText: 对人宝具
+- id: 9943149
+  name: 与彼方同坠的梦之瞳眸
+  ruby: Lie Like Vortigern
+  typeText: 对界宝具
+- id: 9943151
+  name: 以恋堕落，爱尽也
+  ruby: Mara Sunyata
+  typeText: 对人宝具
+- id: 9943171
+  name: 狂暴少女狼
+  ruby: Ira Lupus
+  typeText: 对人宝具
+- id: 9943181
+  name: 捕食日轮之角
+  ruby: Blackdog Galatine
+  typeText: 对军宝具
+- id: 9943188
+  name: 环抱着你的希望之星
+  ruby: Around Caliburn
+  typeText: 对军宝具
+- id: 9943191
+  name: 痛幻哭奏
+  ruby: Fetch Failnaught
+  typeText: 对人宝具
+- id: 9943201
+  name: 尚未知晓的无垢湖光
+  ruby: Innocence Aroundight
+  typeText: 对人宝具
+- id: 9943211
+  name: 无元剑制
+  ruby: 都牟刈村正
+  typeText: 对人宝具
+- id: 9943221
+  name: 炫目的选定之枪
+  ruby: Lost Longinus
+  typeText: ''
+- id: 9943271
+  name: 痛幻哭奏
+  ruby: Fetch Failnaught
+  typeText: 对人宝具
+- id: 9943281
+  name: 炫目的选定之枪
+  ruby: Lost Longinus
+  typeText: ''
+- id: 9943311
+  name: 狂暴少女狼
+  ruby: Ira Lupus
+  typeText: 对人宝具
+- id: 9943321
+  name: 尚未知晓的无垢湖光
+  ruby: Innocence Aroundight
+  typeText: 对人宝具
+- id: 9943331
+  name: 无人知晓的无垢搏动
+  ruby: Hollow Heart Albion
+  typeText: 对界宝具
+- id: 9943346
+  name: 于彼方点缀的梦之童话
+  ruby: Rye Rhyme Goodfellow
+  typeText: 对人宝具
+- id: 9943355
+  name: 于彼方点缀的梦之童话
+  ruby: Rye Rhyme Goodfellow
+  typeText: 对人宝具
+- id: 9943381
+  name: 夏天，世间少有之热
+  ruby: Emotional Engine Vivid Full Sensation
+  typeText: 对人宝具
+- id: 9943391
+  name: 疾驰吧，吾之海色巨牙
+  ruby: Sea Serpent Storm Blue
+  typeText: 对人宝具
+- id: 9943401
+  name: 持爱而至，恋夏也
+  ruby: Kama Rupastra
+  typeText: 对人宝具
+- id: 9943411
+  name: 持爱而至，恋夏也
+  ruby: Kama Rupastra
+  typeText: 对人宝具
+- id: 9943421
+  name: 以恋堕落，爱尽也
+  ruby: Mara Sunyata
+  typeText: 对人宝具
+- id: 9943521
+  name: 天逆砲
+  ruby: ''
+  typeText: 无
+- id: 9943601
+  name: 六韜三略・魔王尊大羽扇
+  ruby: りくとうさんりゃく・まおうそんだいうせん
+  typeText: 对城宝具
