@@ -1,898 +1,898 @@
 ﻿- id: 100
-  name: ''
-  ruby: ''
-  typeText: ''
+  name: ""
+  ruby: ""
+  typeText: ""
 - id: 200
   name: 芝麻开门
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 201
   name: 芝麻开门
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 202
   name: 芝麻开门
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 203
   name: 芝麻开门
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 204
   name: 业火
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 205
   name: 业火
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 206
   name: 业火
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 207
   name: 业火
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 208
   name: 尸斩
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 209
   name: 尸刺
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 210
   name: 尸击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 211
   name: 龙裂斩
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 212
   name: 龙破断
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 213
   name: 龙碎弓
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 214
   name: 猛进击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 215
   name: 猛突击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 216
   name: 猛连射
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 217
   name: 朽坏之剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 218
   name: 朽坏之枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 219
   name: 朽坏之弓
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 220
   name: 全力攻击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 221
   name: 全力突击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 222
   name: 一刀两断
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 223
   name: 腐朽之剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 224
   name: 腐朽之枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 225
   name: 腐朽之大剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 226
   name: 速击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 227
   name: 剑舞
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 228
   name: 纵斩
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 229
   name: 生锈的子弹
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 230
   name: 生锈的剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 231
   name: 生锈的斧
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 232
   name: 冲击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 233
   name: 束缚
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 234
   name: 控制
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 235
   name: 碎铠
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 236
   name: 碎铠
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 237
   name: 碎铠
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 244
   name: 恶魔封印
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 245
   name: 强敲击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 246
   name: 灵魂颤动
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 247
   name: 一之斩皮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 248
   name: 二之切肉
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 249
   name: 三之断骨
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 250
   name: “披沙”
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 251
   name: “撕岩”
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 252
   name: “效仿大地”
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 253
   name: “闪耀波涛”
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 254
   name: 火焰冲锋
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 255
   name: 噬咬冲锋
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 256
   name: 自信冲锋
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 257
   name: 撕裂冲锋
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 258
   name: 闪电冲锋
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 259
   name: 龙炎
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 260
   name: 龙炎
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 261
   name: 大龙炎
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 262
   name: 激励大龙炎
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 263
   name: 尼福尔海姆
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 264
   name: 神秘弓
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 265
   name: 神秘枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 266
   name: 神秘剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 267
   name: 神秘弓
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 268
   name: 神秘枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 269
   name: 神秘剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 270
   name: 神秘弓
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 271
   name: 神秘枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 272
   name: 神秘剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 273
   name: 诱惑球
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 274
   name: 火焰球
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 275
   name: 神秘球
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 276
   name: 必中之弓
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 277
   name: 破坏之枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 278
   name: 守护之剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 279
   name: 必中之弓
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 280
   name: 破坏之枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 281
   name: 守护之剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 282
   name: 必中之弓
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 283
   name: 破坏之枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 284
   name: 守护之剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 285
   name: 麻痹吐息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 286
   name: 大地吐息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 287
   name: 单独行动
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 288
   name: Ｒ特效
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 289
   name: Ｆ特效
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 290
   name: Ｗ特效
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 291
   name: Ｉ文本
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 292
   name: Ｓ文本
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 293
   name: 大增殖
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 294
   name: 超再生
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 295
   name: 乱砸
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 296
   name: 乱斩
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 297
   name: 乱刺
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 298
   name: 击砸
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 299
   name: 斩切
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 300
   name: 穿刺
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 301
   name: 乱打
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 302
   name: 乱打
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 303
   name: 乱打
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 304
   name: 烧却式
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 305
   name: 烧却式·佛劳洛斯
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 306
   name: 烧却式·佛钮司
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 307
   name: 烧却式·巴巴妥司
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 308
   name: 烧却式
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 309
   name: 烧却式·哈帕斯
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 310
   name: 烧却式·阿蒙·拉
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 311
   name: 尾张炮
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 312
   name: 金属尾张炮
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 313
   name: 黄金尾张炮
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 314
   name: 情绪高昂
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 315
   name: 情绪高昂
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 316
   name: 情绪高昂
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 317
   name: 情绪高昂
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 318
   name: 情绪高昂
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 319
   name: 情绪高昂
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 320
   name: 情绪高昂
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 321
   name: 情绪高昂
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 322
   name: 情绪高昂
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 323
   name: 情绪高昂
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 324
   name: 情绪高昂
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 325
   name: 情绪高昂
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 326
   name: 圣夜的光辉
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 327
   name: 圣夜的光辉
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 328
   name: 圣夜的光辉
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 329
   name: 友情拥抱
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 330
   name: 友情拥抱
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 331
   name: 滑翔冲撞
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 332
   name: 滑翔冲撞
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 333
   name: 滑翔冲撞
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 334
   name: 烧却式·贝雷特
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 335
   name: 劈竹练习
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 336
   name: 泰山压顶
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 337
   name: 冲撞
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 338
   name: 乱射
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 339
   name: 魂魄抽离
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 340
   name: 魂魄割离
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 341
   name: 俯瞰风景
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 342
   name: 无明
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 343
   name: 五浊恶世
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 344
   name: 污染
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 345
   name: 绝望
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 346
   name: 呼喊觉醒之声
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 347
   name: 业火
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 348
   name: 大蹂躏
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 349
   name: 大镇压
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 350
   name: 巨角冲击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 351
   name: 皇家巨角冲击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 352
   name: 热视线
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 354
   name: 白眼视
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 356
   name: 无形之爪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 358
   name: 无影之爪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 360
   name: 零距离射击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 361
   name: 零距离射击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 362
   name: 零距离射击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 363
   name: 急射击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 364
   name: 急突击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 365
   name: 急连击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 366
   name: 仪式魔术
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 367
   name: 烧却式·哈帕斯
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 368
   name: 天才的闪光
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 369
   name: 天才的闪光
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 370
   name: 天才的闪光
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 371
   name: 腐蚀液
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 372
   name: 溶解液
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 373
   name: 麻痹液
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 374
   name: 魔术吞食
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 375
   name: 魔力吞食
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 376
   name: 浑身一刺
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 377
   name: 刹那一刀
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 378
   name: 奋力一击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 379
   name: 优雅闪光
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 380
   name: 极尽尖剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 381
   name: 锈毁尖枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 382
   name: 枯朽尖弓
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 383
   name: 邪道合掌
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 384
   name: 夸大恐吓
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 385
   name: 殴打
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 386
   name: 破天候
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 387
   name: 地断打
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 388
   name: 赤罗罗
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 389
   name: 乱打
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 390
   name: 碎冰
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 391
   name: 净化的光辉
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 392
   name: 苍闪光
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 393
   name: 碧闪光
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 394
   name: 舍身乱击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 395
   name: 舍身狂击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 396
   name: 断罪之剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 397
   name: 诛罚之矢
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 398
   name: 制裁之枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 399
   name: 波动炮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 400
   name: 复式波动炮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 401
   name: 男神谜题
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 402
   name: 女神谜题
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 403
   name: “非常开心”
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 404
   name: 烧却式亚蒙·拉
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 405
   name: 忘失
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 406
   name: 罪人啊，闭上眼睛吧
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 407
   name: 水枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 408
   name: 毒枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 409
   name: 冰结枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 410
   name: 猪突猛进
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 411
   name: 狂澜怒涛
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 412
   name: 终结导弹
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 413
   name: 爆噬甜牙幼兽
   ruby: Amagami Coinchenn
-  typeText: ''
+  typeText: ""
 - id: 414
   name: 破碎饼干
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 415
   name: 彩虹充能
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 416
   name: 魔术光炮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 417
   name: 魔术光炮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 418
   name: 魔术光炮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 419
   name: 烧却式·哈艮地
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 420
   name: E文本
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 421
   name: 烧却式·格剌希亚拉波斯
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 422
   name: 雪花的闪耀
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 423
   name: 雪花的闪耀
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 424
   name: 雪花的闪耀
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 425
   name: 急突击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 426
   name: 仪式魔术
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 427
   name: 南瓜剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 428
   name: 南瓜箭
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 429
   name: 南瓜枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 432
   name: “效仿磐石”
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 436
   name: 暴食冲锋
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 439
   name: 冥界之地伊里伽尔
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 440
   name: 强制封印·万魔神殿
@@ -904,1160 +904,1160 @@
   typeText: 无
 - id: 442
   name: 刳穿
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 443
   name: 滑空
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 444
   name: 滑空
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 445
   name: 乱舞
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 448
   name: 灼热暴风
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 449
   name: 闪光阵风
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 451
   name: 空头刺击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 452
   name: 穿头刺击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 454
   name: 永不燃尽之爪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 455
   name: 咒龙毒炎
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 456
   name: 黏着液
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 457
   name: 献祭
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 460
   name: 烧却式 纳贝流士
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 461
   name: 烧却式 佛劳洛斯
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 462
   name: 烧却式 佛钮司
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 463
   name: 烧却式 巴巴妥司
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 464
   name: 烧却式 哈帕斯
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 465
   name: 烧却式 亚蒙
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 466
   name: 烧却式 斯伯纳克
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 467
   name: 烧却式 安杜马利乌士
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 468
   name: 烧却式 佛劳洛斯
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 469
   name: 主啊，生命的喜悦
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 470
   name: 烧却式 贝雷特
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 471
   name: 痛扁
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 472
   name: 百发百中
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 473
   name: 手榴弹
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 474
   name: 火焰弹
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 475
   name: 天国
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 476
   name: 染血歌剧
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 477
   name: 致命吐息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 478
   name: 致命吐息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 479
   name: 大狂乱
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 480
   name: 星之恋人
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 481
   name: 传向远方吧，我的绝望之歌
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 482
   name: 封闭空间
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 483
   name: 烧却式 巴力
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 484
   name: NOBUNOBU流最终奥义
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 485
   name: NOBU车前进
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 486
   name: 与NOBU的遭遇
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 487
   name: 全NOBU位攻击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 488
   name: 大尾张攻击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 489
   name: 全开NOBU！
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 490
   name: 最终本能寺冲击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 491
   name: 烧却式 安德拉斯特
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 492
   name: Conflict CODE-16
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 493
   name: Conflict CODE-32
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 494
   name: Conflict CODE-64
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 495
   name: Conflict CODE-128
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 496
   name: Bad End
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 497
   name: Dead End
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 498
   name: Sakura End
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 499
   name: 病毒扩散
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 500
   name: 自动猎杀
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 501
   name: 碎片整理
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 502
   name: 烧却式 ？？？
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 503
-  name: ''
-  ruby: '-'
-  typeText: ''
+  name: ""
+  ruby: "-"
+  typeText: ""
 - id: 504
   name: 转华的微笑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 505
   name: 虐刑执行
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 506
   name: 摔打
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 507
   name: 蚀毒之气息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 509
   name: 霜枯吐息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 510
   name: 恍惚之闪耀
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 513
   name: 烧却式 菲尼克斯
   ruby: 烧却式 菲尼克斯
-  typeText: ''
+  typeText: ""
 - id: 514
   name: 献祭
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 515
   name: 烧却式 菲尼克斯
   ruby: 烧却式 菲尼克斯
-  typeText: ''
+  typeText: ""
 - id: 516
   name: 俄里翁扣杀
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 517
   name: 自暴自弃
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 518
   name: 逮捕
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 519
   name: 天鸣神殿古伽拉伊南娜
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 520
   name: 唐竹劈
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 521
   name: 大难灾祸
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 522
   name: 凶祸之吐息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 523
   name: 不净之手
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 524
   name: 骸骨烧
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 525
   name: 猖獗怒涛
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 526
   name: 南瓜视线
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 527
   name: 吓人一跳
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 528
   name: 废铁敲打
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 529
   name: 废铁捞取
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 530
   name: 废铁射击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 531
   name: 金属斩击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 532
   name: 金属射击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 533
   name: 金属轰炸
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 534
   name: 砍伐
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 535
   name: 砍伐
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 536
   name: 砍伐
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 537
   name: 男神的对话
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 538
   name: 百倍兴致高昂
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 539
   name: 百倍兴致高昂
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 540
   name: 百倍兴致高昂
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 541
   name: 贪噬
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 542
   name: 啃噬
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 543
   name: 咬噬
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 544
   name: 吞噬
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 545
   name: 审判
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 546
   name: 碾碎砸烂
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 547
   name: 异彩的闪光
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 548
   name: 烧却式 劳姆
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 549
   name: 举手击掌
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 550
   name: 夏日热病
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 551
   name: 烙印之怨念
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 552
-  name: ''
-  ruby: '-'
-  typeText: ''
+  name: ""
+  ruby: "-"
+  typeText: ""
 - id: 553
   name: “弃教者啊，接受惩罚吧”
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 554
-  name: ''
-  ruby: '-'
-  typeText: ''
+  name: ""
+  ruby: "-"
+  typeText: ""
 - id: 555
   name: 光晕
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 556
   name: 万古不变的迷宫
-  ruby: ''
-  typeText: ''
+  ruby: ""
+  typeText: ""
 - id: 557
   name: 万古不变的迷宫·邪
-  ruby: ''
-  typeText: ''
+  ruby: ""
+  typeText: ""
 - id: 558
   name: 撕咬
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 559
   name: 诱导射击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 560
   name: 致命射击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 561
   name: 介电崩溃
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 562
   name: 冰枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 563
   name: 雪崩头刺击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 564
   name: 毁灭模式
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 565
   name: 千界树之眩光
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 566
   name: 内燃式魔导炮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 567
   name: 炉心失控
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 569
   name: 最终本能寺冲击再装载
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 570
   name: Nobubu胜利之剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 571
   name: Nobunobu限Nobunbu制
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 572
   name: Nobu死棘之枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 573
   name: Nobunobu之缰绳
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 574
   name: Nobu式·灰之新娘
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 575
   name: Nobu心音
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 576
   name: 射杀百Nobus
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 577
   name: 巨石坠落
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 578
   name: 巨岩坠落
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 579
   name: 熔岩坠落
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 580
   name: 空袭8-U
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 581
   name: 坍缩星
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 582
-  name: ''
-  ruby: '-'
-  typeText: ''
+  name: ""
+  ruby: "-"
+  typeText: ""
 - id: 583
   name: 耀冠太阳吧，炎之剑
   ruby: Loptr Lægjarn
-  typeText: ''
+  typeText: ""
 - id: 584
   name: 神威执行
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 585
   name: 乱挠
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 586
   name: 极寒阵风
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 587
   name: 无用的表演
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 588
   name: 杀人音波
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 589
   name: 杀人超音波
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 590
   name: 蓝屏
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 591
   name: 烧却式·鲁鲁夏威
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 592
   name: 队列整理
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 593
   name: 处理客人
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 594
   name: 请跟我来一趟办公室
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 595
   name: 请服从工作人员的指示
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 596
   name: 请不要自带便当入内
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 597
   name: 矿尘爆炎
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 598
   name: 村滴滴国滴滴
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 599
   name: 大缠崩捶
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 600
   name: 破罐子破摔
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 601
   name: 点燃之型
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 602
   name: 趁火打劫
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 603
   name: 赤色光晕
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 604
   name: 匐地之雷
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 605
   name: 灾祸
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 606
   name: 唔——叽唔叽叽
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 607
   name: 唔叽——唔叽——
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 608
   name: 唔——叽呀唔叽呀
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 609
   name: 叽——唔叽叽
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 610
   name: 恸哭之句
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 611
   name: 怨恨之句
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 612
   name: 偏爱之句
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 613
   name: 终结之句
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 614
   name: 宴席表演
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 615
   name: 圆熟表演
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 616
   name: 送去黄泉
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 617
   name: 钉头刺击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 618
   name: 记忆溢出
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 619
   name: 倾覆
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 620
   name: 高速涡轮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 621
   name: 贴面舞
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 622
   name: 水分补充
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 623
   name: 蒸发
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 624
-  name: ''
-  ruby: '-'
-  typeText: ''
+  name: ""
+  ruby: "-"
+  typeText: ""
 - id: 625
   name: 爬行之奸恶
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 626
   name: 搓行之奸恶
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 627
   name: 灿烂之业炎
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 628
   name: 空虚之乱击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 629
   name: 华美之角
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 630
   name: 玲珑之闪光
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 631
   name: 清廉之爪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 632
   name: 圣净之吐息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 633
   name: 星辰爆发
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 634
   name: 「大家都要和睦地成为情侣！」
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 635
   name: 巨大的成功
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 636
   name: 麦克斯韦方程组
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 637
   name: 内燃式净化炮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 638
   name: 石灯笼斩
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 639
   name: Nobu'n' Roll Forever！
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 640
-  name: ''
-  ruby: ''
+  name: ""
+  ruby: ""
   typeText: 无
 - id: 641
   name: Nobu'n' Roll！
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 642
   name: 最终本能寺冲击再装载永恒版
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 643
   name: 炉心失控
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 644
   name: 命运之轮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 645
   name: 极致吐息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 646
   name: 腐食的吐息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 647
   name: 侵蚀闪电
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 648
   name: 冥府的业火
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 649
   name: 湮灭
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 650
   name: 被祝福的剑击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 651
   name: 被祝福的打击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 652
   name: 被祝福的斩击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 653
   name: 灵液炮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 654
   name: 三叉戟海洋光线
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 655
-  name: ''
-  ruby: '-'
-  typeText: ''
+  name: ""
+  ruby: "-"
+  typeText: ""
 - id: 656
   name: 冥府的业火
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 657
   name: 汝乃紊乱星辰之情欲
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 658
   name: 汝乃躬耕星辰之丰饶
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 659
   name: 吾乃撕裂星辰之雷霆
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 661
-  name: '[FF0000]凶星'
-  ruby: '-'
-  typeText: ''
+  name: "[FF0000]凶星"
+  ruby: "-"
+  typeText: ""
 - id: 662
   name: 神罚之剑
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 663
   name: 根绝
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 664
   name: 『无名草子』
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 665
   name: 对智慧生命体歼灭机构（闪电）
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 666
   name: 对智慧生命体歼灭机构（雷鸣）
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 667
   name: 强行挖掘
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 668
   name: 惊喜攻击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 669
   name: 死之旅途
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 670
   name: 凶刃
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 671
   name: 愤怒的太拉信粒子炮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 672
   name: 悲哀的极致太拉信炮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 673
   name: 地狱的桶狭间光线——！
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 674
   name: 信粒子炮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 675
   name: 信粒子炮β
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 676
   name: 信粒子炮α
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 677
   name: 飞空闪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 678
   name: 尽忠报国之刃
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 679
   name: 奇袭（未观测）
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 680
   name: 大漩涡
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 681
   name: 花之呢喃
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 682
   name: 刚煮好拳
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 683
   name: 美味大米粒子炮
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 684
   name: 怨之猛击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 685
   name: 怨之岚击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 686
   name: 八热地狱遍历
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 687
   name: 落实爆破
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 688
   name: 烧尽
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 689
   name: 虎威趋炎
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 698
   name: 陷入沉睡之人
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 699
   name: 雷击发动
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 700
   name: 魔力大失控
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 701
   name: 刺痛吐息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 702
   name: 粘稠吐息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 703
   name: 灼烧吐息
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 704
   name: 镰风
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 705
   name: 卡莲爱之突击
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 706
   name: 炎立憎恨的荒野
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 707
   name: 模仿编舞
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 708
   name: 欢迎光临，主人
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 709
   name: 握手会
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 710
   name: “谢谢大家”
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 711
   name: 制裁的斧枪
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 712
   name: 揪住
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 713
   name: 抱住
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 714
   name: 奔流
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 715
   name: 空洞之心阿尔比恩
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 716
   name: “请不要走”
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 717
   name: “来啊”
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 718
   name: 噬雷的巴格斯特
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 719
   name: 碎肋骨
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 720
   name: “报复”
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 721
   name: 拽住
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 722
   name: 巧克力独占导弹
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 723
   name: 自爆
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 724
   name: 排除
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 725
-  name: '[FF0000]雷天日光・禍音星落火流錘'
+  name: "[FF0000]雷天日光・禍音星落火流錘"
   ruby: らいてんにっこう・まがねぼしらっかりゅうすい
-  typeText: ''
+  typeText: ""
 - id: 726
   name: アサルトフォーム
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 727
   name: スローターフォーム
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 728
   name: 品尝这哥伦布之卵吧
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 729
   name: 鲨鲨泵
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 730
   name: 噬妖精
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 731
   name: 吞下
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 732
   name: 狂奏曲 安度西亚斯
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 733
   name: 泪之河
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 734
   name: 闪耀的成功
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 735
   name: 消灭
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 736
   name: 玻璃的光辉
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 737
   name: 大强震
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 738
   name: 诱向堕落
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 739
   name: 奇神荒覇吐
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 740
   name: チェエエエストォオオオオオッ！！！！
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 741
   name: 高杉式維新砲
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 742
   name: ア－ツモリストロング砲
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 743
   name: 存在的证明
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 744
   name: カロリー・ボンバー
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 745
   name: 奇神荒覇吐・改
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 746
   name: 戦国維新砲
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 747
   name: 奇神天逆神
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 760
   name: ブイヨン・ド・レギューム
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 761
   name: 味わえ とっても美味しい卵を
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 100101
   name: 誓约胜利之剑
   ruby: Excalibur
@@ -2436,7 +2436,7 @@
   typeText: 不明
 - id: 202100
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: ？？？
 - id: 202101
   name: 真言·圣观世音菩萨
@@ -2444,7 +2444,7 @@
   typeText: 对人宝具
 - id: 202102
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: ？？？
 - id: 202103
   name: 真言·圣观世音菩萨
@@ -2456,7 +2456,7 @@
   typeText: 对界宝具
 - id: 202300
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: 对军宝具
 - id: 202301
   name: 终极犯罪
@@ -2548,7 +2548,7 @@
   typeText: 对人宝具
 - id: 204199
   name: SAITAMAノッブランドのために！
-  ruby: ''
+  ruby: ""
   typeText: 无
 - id: 204201
   name: 少女啊，化为彩虹吧
@@ -2944,7 +2944,7 @@
   typeText: 对波宝具
 - id: 402500
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: ？？？
 - id: 402501
   name: 新天地探索航行
@@ -2956,7 +2956,7 @@
   typeText: 对军宝具
 - id: 402503
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: ？？？
 - id: 402504
   name: 新天地探索航行
@@ -2968,7 +2968,7 @@
   typeText: 对军宝具
 - id: 402597
   name: 「哈哈！ 自爆！」
-  ruby: ''
+  ruby: ""
   typeText: 无
 - id: 402598
   name: ？？？
@@ -3056,7 +3056,7 @@
   typeText: 对军宝具
 - id: 404298
   name: 「出番だな！準備バッチリ！」
-  ruby: '-'
+  ruby: "-"
   typeText: 无
 - id: 404301
   name: 打神鞭
@@ -3096,20 +3096,20 @@
   typeText: 对军宝具
 - id: 500303
   name: 劈南瓜
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 500304
   name: 割南瓜
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 500305
   name: 打南瓜
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 500306
   name: 惊喜
-  ruby: '-'
-  typeText: ''
+  ruby: "-"
+  typeText: ""
 - id: 500401
   name: 献给某人的故事
   ruby: Nursery Rhyme
@@ -3272,7 +3272,7 @@
   typeText: 对人宝具
 - id: 503000
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: ？？？
 - id: 503001
   name: 一千零一夜
@@ -3280,7 +3280,7 @@
   typeText: 对王宝具
 - id: 503002
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: ？？？
 - id: 503003
   name: 一千零一夜
@@ -3464,11 +3464,11 @@
   typeText: 对人宝具
 - id: 601301
   name: 吾之情歌只在地狱回响
-  ruby: 'Christine, Christine'
+  ruby: "Christine, Christine"
   typeText: 对军宝具
 - id: 601302
   name: 吾之情歌只在地狱回响
-  ruby: 'Christine, Christine'
+  ruby: "Christine, Christine"
   typeText: 对军宝具
 - id: 601401
   name: 拥有阳眼之女
@@ -3540,7 +3540,7 @@
   typeText: 对人宝具
 - id: 602700
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: ？？？
 - id: 602701
   name: 告密罗织经
@@ -3548,7 +3548,7 @@
   typeText: 对人宝具
 - id: 602702
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: ？？？
 - id: 602703
   name: 告密罗织经
@@ -3560,7 +3560,7 @@
   typeText: 对军宝具
 - id: 602900
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: ？？？
 - id: 602901
   name: 通灵·伊吹大明神缘起
@@ -3568,7 +3568,7 @@
   typeText: 对人宝具
 - id: 602902
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: ？？？
 - id: 602903
   name: 通灵·伊吹大明神缘起
@@ -3744,7 +3744,7 @@
   typeText: 对军宝具
 - id: 701199
   name: 苍天阳炎灾祸之辙
-  ruby: ''
+  ruby: ""
   typeText: 无
 - id: 701301
   name: 转身火生三昧
@@ -3812,7 +3812,7 @@
   typeText: 城塞宝具
 - id: 702700
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: ？？？
 - id: 702701
   name: 于吾之瞋恚中终结吧，英雄
@@ -4141,7 +4141,7 @@
 - id: 2500799
   name: 遥远的幻梦境
   ruby: Dreamlands
-  typeText: ''
+  typeText: ""
 - id: 2500801
   name: 煌彩幻奏霸道剑
   ruby: Lumino Calibur
@@ -4165,7 +4165,7 @@
 - id: 9935511
   name: 诞生之时已至，以此修正万象
   ruby: Ars Almadel Salomonis
-  typeText: ''
+  typeText: ""
 - id: 9935531
   name: 诀别之时已至，以此，舍弃世界
   ruby: Ars Nova
@@ -4232,7 +4232,7 @@
   typeText: 对军宝具
 - id: 9939131
   name: Sukhavati Heaven's Hole
-  ruby: ''
+  ruby: ""
   typeText: 无
 - id: 9939141
   name: C.C.C.
@@ -4252,15 +4252,15 @@
   typeText: 对人宝具
 - id: 9939361
   name: 流转
-  ruby: ''
+  ruby: ""
   typeText: 无
 - id: 9939362
   name: 流转
-  ruby: ''
+  ruby: ""
   typeText: 无
 - id: 9939371
-  name: ''
-  ruby: ''
+  name: ""
+  ruby: ""
   typeText: 无
 - id: 9939571
   name: 我心爱的钢铁战车
@@ -4280,7 +4280,7 @@
   typeText: 对人宝具
 - id: 9939660
   name: ？？？
-  ruby: ''
+  ruby: ""
   typeText: ？？？
 - id: 9939661
   name: 真言·圣观世音菩萨
@@ -4416,7 +4416,7 @@
   typeText: 对人宝具
 - id: 9941901
   name: 罗车幽精 火尖枪
-  ruby: ''
+  ruby: ""
   typeText: 无
 - id: 9942001
   name: 持爱却枯，无恋也
@@ -4461,11 +4461,11 @@
 - id: 9942251
   name: 冠位指定／人理保障天球
   ruby: Grand Order／Anima Animusphere
-  typeText: ''
+  typeText: ""
 - id: 9942252
   name: 冠位指定／人理保障天球
   ruby: Grand Order／Anima Animusphere
-  typeText: ''
+  typeText: ""
 - id: 9942331
   name: 天地乖离开辟之星
   ruby: Enuma Elish
@@ -4495,8 +4495,8 @@
   ruby: Lapithai Caeneus
   typeText: 对军宝具
 - id: 9942531
-  name: ''
-  ruby: ''
+  name: ""
+  ruby: ""
   typeText: 无
 - id: 9942721
   name: 吾将远征，鹦鹉螺的大冲角
@@ -4545,7 +4545,7 @@
 - id: 9943061
   name: 赠与新娘的纺车
   ruby: Bridal Spin Wheel
-  typeText: ''
+  typeText: ""
 - id: 9943081
   name: 环抱着你的希望之星
   ruby: Around Caliburn
@@ -4605,7 +4605,7 @@
 - id: 9943221
   name: 炫目的选定之枪
   ruby: Lost Longinus
-  typeText: ''
+  typeText: ""
 - id: 9943271
   name: 痛幻哭奏
   ruby: Fetch Failnaught
@@ -4613,7 +4613,7 @@
 - id: 9943281
   name: 炫目的选定之枪
   ruby: Lost Longinus
-  typeText: ''
+  typeText: ""
 - id: 9943311
   name: 狂暴少女狼
   ruby: Ira Lupus
@@ -4656,9 +4656,22 @@
   typeText: 对人宝具
 - id: 9943521
   name: 天逆砲
-  ruby: ''
+  ruby: ""
   typeText: 无
 - id: 9943601
-  name: 六韜三略・魔王尊大羽扇
-  ruby: りくとうさんりゃく・まおうそんだいうせん
+  name: 六韬三略·魔王尊大羽扇
+  ruby: Rikutousanryaku Maousondaiusen
   typeText: 对城宝具
+
+- id: 2300501
+  name: 空想具現化
+  ruby: Marble Phantasm
+  typeText: 对军宝具
+- id: 2800301
+  name: 于彼方招手的理想乡
+  ruby: Winds of Avalon
+  typeText: 对人宝具
+- id: 704301
+  name: 伊吹御灵·八脉怒涛
+  ruby: Ibukinomitama Hachimyakudotou
+  typeText: 对军宝具
