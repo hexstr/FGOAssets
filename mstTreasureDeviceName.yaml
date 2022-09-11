@@ -1960,7 +1960,7 @@
   typeText: ""
 - id: 725
   name: "[FF0000]雷天日光・禍音星落火流錘"
-  ruby: らいてんにっこう・まがねぼしらっかりゅうすい
+  ruby: Raiten Nikkou Maganeboshi Rakka Ryuusui
   typeText: ""
 - id: 726
   name: アサルトフォーム
@@ -2496,7 +2496,7 @@
   typeText: 对人宝具
 - id: 203002
   name: 天蠍一射
-  ruby: アンタレス・スナイプ
+  ruby: Antares Snipe
   typeText: 对人宝具
 - id: 203101
   name: 高歌凯旋之虹弓
@@ -2815,8 +2815,8 @@
   ruby: ？？？
   typeText: 对界宝具
 - id: 305001
-  name: 君よ、綿津見の原を征け
-  ruby: りゅうよ、わだつみのはらをゆけ
+  name: 与你同征绵津见之原
+  ruby: Ryu yo, Wadatsuminohara wo Yuke
   typeText: 对军宝具
 - id: 400101
   name: 骑英之缰绳
@@ -3364,11 +3364,11 @@
   typeText: 对人宝具
 - id: 504901
   name: 阿国十八番・出雲荒神歌舞伎
-  ruby: おくにじゅうはちばん・いづもあらがみかぶき
+  ruby: Okuni Juuhachiban Izumoaragami Kabuki
   typeText: 結界宝具
 - id: 505001
-  name: 聖夜の御馳走、皆で楽しく
-  ruby: ハッピー・メリー・クリスマス
+  name: 圣夜的飨宴，大家一同享用
+  ruby: Happy Merry Christmas
   typeText: 料理宝具
 - id: 600101
   name: 燕返
@@ -4079,8 +4079,8 @@
   ruby: Kama Rupastra
   typeText: 对人宝具
 - id: 1101201
-  name: 蘭丸・Ｘ
-  ruby: おーきっどらうんず・えっくす
+  name: 兰丸・Ｘ
+  ruby: Orchid Rounds X
   typeText: 对军宝具
 - id: 1700101
   name: 诞生之时已至，以此修习万象
@@ -4148,7 +4148,7 @@
   typeText: 对人宝具
 - id: 2500901
   name: 雷天日光・禍音星落火流錘
-  ruby: ツングースカ・ナインドライブ
+  ruby: Тунгуска Ninedrive
   typeText: 对界宝具
 - id: 2501001
   name: 13号星期五
@@ -4427,16 +4427,16 @@
   ruby: First Folio
   typeText: 对人宝具
 - id: 9942012
-  name: 開演の刻は来たれり、此処に万雷の喝采を
-  ruby: ファースト・フォリオ
+  name: 开演之刻已至，此处应有雷鸣般的喝彩
+  ruby: First Folio
   typeText: 对人宝具
 - id: 9942021
   name: 混元一阵
   ruby: 不语之阵
   typeText: 对阵宝具
 - id: 9942022
-  name: 混元一陣
-  ruby: かたらずのじん
+  name: 混元一阵
+  ruby: 不语之阵
   typeText: 对陣宝具
 - id: 9942031
   name: 里·五百罗汉补陀落渡海
