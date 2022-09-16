@@ -327,32 +327,32 @@
   ruby: Fragarach
   typeText: 迎击宝具
 - id: 1001201
-  name: 太歳頭上動土
-  ruby: タイソエイ・アウェイクン
-  typeText: 厄災宝具
+  name: 太岁头上动土
+  ruby: Taisui Awaken
+  typeText: 厄灾宝具
 - id: 1001301
-  name: 闇を拓く星条の象り
-  ruby: アメリカズ・スイートハート・オブ・ダークネス
+  name: 开拓黑暗的星条之象
+  ruby: America's Sweetheart of Darkness
   typeText: 对军宝具
 - id: 1001401
-  name: 是なるは不老不死の霊薬なり＜嘘＞
-  ruby: これなるはふろうふしのれいやくなり、うそですけど
+  name: 此物乃不老不死之灵药是也＜嘘＞
+  ruby: Korenaruwafuroufushinoreiyakunari, Usodesukedo
   typeText: 对人宝具
 - id: 1101401
-  name: 天乃羅摩船
-  ruby: アメノカガミノフネ
+  name: 天乃罗摩船
+  ruby: Amenokagaminofune
   typeText: 对人宝具
 - id: 9943711
-  name: 伊吹御霊・八脈怒濤
-  ruby: いぶきのみたま・はちみゃくどとう
+  name: 伊吹御灵·八脉怒涛
+  ruby: Ibukinomitama Hachimyakudotou
   typeText: 对军宝具
 - id: 9943841
-  name: 王勇を示せ、遍く世を巡る十二の輝剣
-  ruby: ジュワユーズ・オルドル
+  name: 揭示王威，踏遍世间的十二辉剑
+  ruby: Joyeuse Ordre
   typeText: 对王宝具（自身）
 - id: 9943851
-  name: 嗚呼、愛しき姫に捧ぐとも我が槍を！
-  ruby: ヴァリエンテ・アサルト・デディカド・ア・ラ・プリンセッサ
+  name: 呜呼，向心爱的公主献上吾之枪！
+  ruby: Valiente Asalto Dedicado a la Princesa
   typeText: 对巨人宝具
 - id: 9943861
   name: 蒼天已死、黄天當立
